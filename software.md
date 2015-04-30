@@ -1,17 +1,18 @@
 # 个人常用软件(Windows7 x64)
 
 ## 个人软件
-* [电脑管家](  http://guanjia.qq.com/)
-    * [QQ]( http://im.qq.com/download/)
-    * [QQ输入法]( http://qq.pinyin.cn/) 
-    * [QTTabBar]( http://qttabbar.wikidot.com/)
-    * [WPS](  http://www.wps.cn/product/wps2013/)
+* [电脑管家](http://guanjia.qq.com/)
+    * [QQ](http://im.qq.com/download/)
+    * [QQ输入法](http://qq.pinyin.cn/) 
+    * [QTTabBar](http://qttabbar.wikidot.com/)
+    * [WPS](http://www.wps.cn/product/wps2013/)
     * [Calibre](http://calibre-ebook.com/) 管理/转电子书格式, 例如pdf -> mobi
     * [AutoHotkey](http://www.autohotkey.com/) a scripting language for desktop automation  
 * [Skitch](https://evernote.com/skitch/) 
-* [f.lux](   https://justgetflux.com/)
-* [XMind](   http://www.xmind.net/)
-    > _Cloud\Tencent\QQMail\xmind-portable
+* [f.lux](https://justgetflux.com/)
+* [XMind](http://www.xmind.net/)
+
+    _Cloud\Tencent\QQMail\xmind-portable
 
 
 ## 前端开发
