@@ -3,13 +3,13 @@
 ## 个人软件
 [电脑管家](http://guanjia.qq.com/)
 * [QQ](http://im.qq.com/download/)
-* [QQ输入法](http://qq.pinyin.cn/) 
+* [QQ输入法](http://qq.pinyin.cn/)
 * [QTTabBar](http://qttabbar.wikidot.com/)
 * [WPS](http://www.wps.cn/product/wps2013/)
 * [Calibre](http://calibre-ebook.com/) 管理/转电子书格式, 例如pdf -> mobi
 * [AutoHotkey](http://www.autohotkey.com/) a scripting language for desktop automation
 
-[Skitch](https://evernote.com/skitch/) 
+[Skitch](https://evernote.com/skitch/)
 
 [f.lux](https://justgetflux.com/)
 
@@ -18,62 +18,78 @@
 
 
 ## 前端开发
-* [Sublime Text](http://www.sublimetext.com/) 我最称手的兵器 ```_Cloud\Google\Code\sync-software\development\Sublime Text```
-* [BrowserSync](http://www.browsersync.io)
-    不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如scroll的时候同时都scroll, 还集成了远程调试(weinre)功能
-    f5差不多可以退休了.
-    > npm install -g browser-sync
-    > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
-    > browser-sync init 
-    > browser-sync start --config bs-config.js 
+[Sublime Text](http://www.sublimetext.com/)
+
+我最称手的兵器
+> _Cloud\Google\Code\sync-software\development\Sublime Text
 
 
-[Web开发免刷新]( http://getf5.com/) 
+[BrowserSync](http://www.browsersync.io)
+
+不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如scroll的时候同时都scroll, 还集成了远程调试(weinre)功能
+f5差不多可以退休了.
+> npm install -g browser-sync
+> browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
+> browser-sync init 
+> browser-sync start --config bs-config.js 
+
+
+[Web开发免刷新](http://getf5.com/)
+
 支持HTML/CSS/JS自动刷新页面
-> _Cloud\Google\Gmail\f5 
+> _Cloud\Google\Gmail\f5
+
 PS: 原来使用的nodejs版本的F5(也就是下面这个), 但是自动刷新大概有5秒的延时, 只支持HTML页面的自动刷新, 不支持CSS/JS自动刷新, 不过用作本地静态服务器还是不错D.
-[F5]( https://github.com/island205/f5)
+
+[F5](https://github.com/island205/f5)
+
 light static sever which will reload page when there are changes in server side! 
 > npm install -g f5
 
 
-[Chrome]( http://portableapps.com/apps/internet/google_chrome_portable)
+[Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
 > _Cloud\Tencent\QQMail\GoogleChromePortable
 
-[IETester]( http://www.my-debugbar.com/wiki/IETester/HomePage) 
+
+[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
 
-[ImageMagick]( http://www.imagemagick.org/) 
-ImageMagick is a software suite to create, edit, compose, or convert bitmap images 
+[ImageMagick](http://www.imagemagick.org/)
+
+ImageMagick is a software suite to create, edit, compose, or convert bitmap images.
+
 用于制作CSS sprite
 > montage -background transparent -tile 2x5 -geometry +10+10 *.png *.gif *.jpg sprite.png 
 > _Cloud\Google\Gmail\ImageMagick
 
 
-[weinre]( http://people.apache.org/~pmuellr/weinre/)
-weinre is WEb INspector REmote. 
-weinre is a debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
+[weinre](http://people.apache.org/~pmuellr/weinre/)
+
+weinre is WEb INspector REmote. A debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
 > npm -g install weinre
 > C:\Documents and Settings\Administrator\.weinre\server.properties
 > boundHost:    -all- 
 > httpPort:     8081
 
 
-[Fiddler]( http://www.telerik.com/fiddler)
+[Fiddler](http://www.telerik.com/fiddler)
+
 The free web debugging proxy for any browser, system or platform
 > _Cloud\Google\Gmail\Fiddler2
 
 
-[Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865) 
+[Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865)
+
 Network Monitor 3.4 is the archive versioned tool for network traffic capture and protocol analysis. 
+
 
 [WiresharkPortable]
 > _Cloud\Google\Gmail\WiresharkPortable 
 
 
 [ngrok]( https://ngrok.com/)
-Expose a local web server to the internet 
-I want to securely expose a local web server to the internet.
+
+Expose a local web server to the internet, ecurely expose a local web server to the internet.
 ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on. 
 > _Cloud\Google\Gmail\ngrok.exe
 
