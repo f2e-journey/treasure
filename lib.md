@@ -35,7 +35,7 @@ From the UI, to design tools and backend services like analytics and push notifi
 
 > $ ionic emulate android
 
-[qslider](http://ued.qunar.com/mobile/qslider)
+[qslider](http://ued.qunar.com/mobile/qslider) http://ued.qunar.com/
 QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件, 专门为Touch端宣传类专题所开发的解决方案 
 支持循环效果, 水平/垂直滑动
 做出类似这样的专题页面: http://ued.qunar.com/qnext/6/index.html 
