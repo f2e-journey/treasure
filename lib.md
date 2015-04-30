@@ -38,7 +38,9 @@ From the UI, to design tools and backend services like analytics and push notifi
 [qslider](http://ued.qunar.com/mobile/qslider) http://ued.qunar.com/
 QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件, 专门为Touch端宣传类专题所开发的解决方案 
 支持循环效果, 水平/垂直滑动
-做出类似这样的专题页面: http://ued.qunar.com/qnext/6/index.html 
+做出类似这样的专题页面: http://ued.qunar.com/qnext/6/index.html
+
+[Kissy](http://kissyui.com/)
 
 
 ## 常用lib(TODO 分类整理)
@@ -109,6 +111,8 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 
 [图片裁剪](https://github.com/tapmodo/Jcrop/) http://odyniec.net/projects/imgareaselect/
 
+[Store](https://github.com/nbubna/store)
+
 [EXIF image metadata](https://github.com/jseidelin/exif-js/)
 
 [音乐播放器 flash](http://www.alsacreations.fr/dewplayer.html)
@@ -147,13 +151,19 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 
 [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) 
 
-
-[启动界面插件](http://www.bangcle.com/solution/sdk-detail/?id=10)
-很实用的Android SDK, 但还没有推出正式版本 
-
-
-[参考开源框架列表](http://code.ciaoca.com/)
-
 [play]( https://playframework.com/)
 The High Velocity Web Framework For Java and Scala
 相当于Java界的rails
+
+## 参考
+[前端开发仓库](http://code.ciaoca.com/)
+
+[Arale](http://aralejs.org/) 一个开放、简单、易用的前端基础类库
+http://animajs.org/#standard/
+
+[Alice](http://aliceui.org/)
+
+
+## 非WEB前端
+[启动界面插件](http://www.bangcle.com/solution/sdk-detail/?id=10)
+很实用的Android SDK, 但还没有推出正式版本
