@@ -11,7 +11,7 @@
 * [Skitch](https://evernote.com/skitch/) 
 * [f.lux](   https://justgetflux.com/)
 * [XMind](   http://www.xmind.net/)
-  > _Cloud\Tencent\QQMail\xmind-portable
+    > _Cloud\Tencent\QQMail\xmind-portable
 
 
 ## 前端开发
