@@ -29,8 +29,11 @@
 不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如scroll的时候同时都scroll, 还集成了远程调试(weinre)功能
 f5差不多可以退休了.
 > npm install -g browser-sync
+
 > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
+
 > browser-sync init 
+
 > browser-sync start --config bs-config.js 
 
 
@@ -59,7 +62,8 @@ light static sever which will reload page when there are changes in server side!
 ImageMagick is a software suite to create, edit, compose, or convert bitmap images.
 
 用于制作CSS sprite
-> montage -background transparent -tile 2x5 -geometry +10+10 *.png *.gif *.jpg sprite.png 
+> montage -background transparent -tile 2x5 -geometry +10+10 *.png *.gif *.jpg sprite.png
+
 > _Cloud\Google\Gmail\ImageMagick
 
 
@@ -67,8 +71,11 @@ ImageMagick is a software suite to create, edit, compose, or convert bitmap imag
 
 weinre is WEb INspector REmote. A debugger for web pages, like FireBug (for FireFox) and Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
 > npm -g install weinre
+
 > C:\Documents and Settings\Administrator\.weinre\server.properties
-> boundHost:    -all- 
+
+> boundHost:    -all-
+
 > httpPort:     8081
 
 
@@ -87,44 +94,55 @@ Network Monitor 3.4 is the archive versioned tool for network traffic capture an
 > _Cloud\Google\Gmail\WiresharkPortable 
 
 
-[ngrok]( https://ngrok.com/)
+[ngrok](https://ngrok.com/)
 
 Expose a local web server to the internet, ecurely expose a local web server to the internet.
 ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on. 
 > _Cloud\Google\Gmail\ngrok.exe
 
 [harp](  http://harpjs.com/)  
+
 The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
+
 需要先安装 git 和 python
 > npm install -g harp
+
 > harp init myproject
+
 > harp server myproject
+
 > harp compile myproject
 
-[Apache]( http://httpd.apache.org/)
+[Apache](http://httpd.apache.org/)
 
-[NW.js]( https://github.com/nwjs/nw.js/)
-node-webkit is renamed NW.js
-You can write native apps in HTML and JavaScript with NW.js. 
+[NW.js](https://github.com/nwjs/nw.js/)
 
-[CasperJS]( http://casperjs.org/)
+node-webkit is renamed NW.js, You can write native apps in HTML and JavaScript with NW.js. 
+
+[CasperJS](http://casperjs.org/)
+
 a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript
 
 
 ## 工具
-[Node.js]( http://nodejs.org/)
+[Node.js](http://nodejs.org/)
+
 [RailsInstaller 自带git](http://railsinstaller.org/)
-[JDK]( http://www.oracle.com/technetwork/java/javase/downloads/index.html) 
+
+[JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 
 
 [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
-Adobe提供了免费的老版本[Photoshop CS2], 只有英文版(http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe) 1045-1412-5685-1654-6343-1431
-    [Cut&Slice me](http://www.cutandslice.me/)
-    [Ink]( http://ink.chrometaphore.com/)
-    [Specctr]( https://www.specctr.com/buy)
-    [GuideGuide](http://guideguide.me/)
+Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版 
+* [Cut&Slice me](http://www.cutandslice.me/)
+* [Ink](http://ink.chrometaphore.com/)
+* [Specctr](https://www.specctr.com/buy)
+* [GuideGuide](http://guideguide.me/)
+
 [UIDesigner](http://uid.cdc.tencent.com/) 
 原型设计
+
 [Justinmind Prototyper](http://www.justinmind.com/)
+
 [Mark Man](http://getmarkman.com/) 
 1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境
 现在版本收费了, 使用会有一些功能限制
@@ -149,7 +167,7 @@ Adobe提供了免费的老版本[Photoshop CS2], 只有英文版(http://download
 
 
 ## 网站
-[github]( https://github.com/ufologist)
+[github](https://github.com/ufologist)
 
 
 
