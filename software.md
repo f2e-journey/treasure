@@ -127,7 +127,9 @@ a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) 
 ## 工具
 [Node.js](http://nodejs.org/)
 
-[RailsInstaller 自带git](http://railsinstaller.org/)
+[Grunt](http://gruntjs.com/)
+
+[RailsInstaller](http://railsinstaller.org/) 顺带了[Git](http://www.git-scm.com/)
 
 [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 
 
@@ -138,19 +140,20 @@ Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/ad
 * [Specctr](https://www.specctr.com/buy)
 * [GuideGuide](http://guideguide.me/)
 
-[UIDesigner](http://uid.cdc.tencent.com/) 
+[UIDesigner](http://uid.cdc.tencent.com/)
 原型设计
 
 [Justinmind Prototyper](http://www.justinmind.com/)
 
-[Mark Man](http://getmarkman.com/) 
-1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境
-现在版本收费了, 使用会有一些功能限制
+[Mark Man](http://getmarkman.com/)
+
+1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境. 现在版本收费了, 使用会有一些功能限制
 > _Cloud\Google\Gmail\MarkMan_1.40.7.air
 
 [TortoiseSVN](http://tortoisesvn.net/)
 > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
 
+[禅道](http://www.zentao.net/) 需求管理, bug跟踪, 版本计划
 
 
 ## 安装脚本
@@ -162,7 +165,9 @@ Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/ad
 ## 备选项
 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 前端开发最强的IDE了, 功能非常全, 适合团队开发 
+
 [HBuilder](http://dcloud.io/)
+
 [NetBeans]( https://netbeans.org/downloads/6.8/index.html)
 
 
@@ -170,21 +175,20 @@ Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/ad
 [github](https://github.com/ufologist)
 
 
-
-
-
 ## 杂项
-[bower](http://bower.io/)
-[component]( http://component.github.io/)
-[grunt]()
-[yeoman]()
-[spm]()
-[Genymobile]
-[mongodb]
+[Bower](http://bower.io/)
+
+[component](http://component.github.io/)
+
+[Yeoman](http://yeoman.io/)
+
+[spm](http://spmjs.io/)
+
+[Genymobile](http://www.genymobile.com/)
+
+[MongoDB](http://www.mongodb.org/)
 
 
 ## 更多备选工具
 原型设计
 [墨刀](https://modao.io/workspace)
-[禅道](http://www.zentao.net/)
-需求管理, bug跟踪, 版本计划
