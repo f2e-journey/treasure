@@ -14,18 +14,14 @@
 
 
 ## 前端开发
-[Sublime Text](http://www.sublimetext.com/)
-我最称手的兵器
-> _Cloud\Google\Code\sync-software\development\Sublime Text
-
-
-[BrowserSync]( http://www.browsersync.io)
-不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如scroll的时候同时都scroll, 还集成了远程调试(weinre)功能
-f5差不多可以退休了.
-> npm install -g browser-sync
-> browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
-> browser-sync init 
-> browser-sync start --config bs-config.js 
+* [Sublime Text](http://www.sublimetext.com/) 我最称手的兵器 ```_Cloud\Google\Code\sync-software\development\Sublime Text```
+* [BrowserSync](http://www.browsersync.io)
+    不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如scroll的时候同时都scroll, 还集成了远程调试(weinre)功能
+    f5差不多可以退休了.
+    > npm install -g browser-sync
+    > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
+    > browser-sync init 
+    > browser-sync start --config bs-config.js 
 
 
 [Web开发免刷新]( http://getf5.com/) 
