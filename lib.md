@@ -86,6 +86,7 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 [Table plugin for jQuery](http://www.datatables.net/)
 
 
+[提示信息](https://github.com/sofish/essage)
 
 [日历](https://github.com/ciaoca/cxCalendar)
 
