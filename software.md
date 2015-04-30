@@ -158,6 +158,7 @@ Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/ad
 
 ## 安装脚本
 > npm ls -depth 0 -g
+
 > npm install browser-sync f5 grunt-cli harp weinre -g
 
 
