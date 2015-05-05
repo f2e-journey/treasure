@@ -65,17 +65,17 @@
 * [ImageMagick](http://www.imagemagick.org/)
     
     ImageMagick is a software suite to create, edit, compose, or convert bitmap images.
+    > _Cloud\Google\Gmail\ImageMagick
     
     主要用于制作CSS sprite
     > montage -background transparent -tile 2x5 -geometry +10+10 *.png *.gif *.jpg sprite.png
-    
-    > _Cloud\Google\Gmail\ImageMagick
 
 * [weinre](http://people.apache.org/~pmuellr/weinre/)
     
     weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
     > npm -g install weinre
 
+    
     > C:\Documents and Settings\Administrator\.weinre\server.properties
     
     > boundHost:    -all-
