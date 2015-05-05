@@ -37,7 +37,7 @@
     
     不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
 
-    > npm install -g browser-sync
+    > npm install browser-sync -g
     
     > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
     
@@ -55,7 +55,7 @@
 * [F5](https://github.com/island205/f5)
     
     light static sever which will reload page when there are changes in server side! 
-    > npm install -g f5
+    > npm install f5 -g
 
 * [Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
     > _Cloud\Tencent\QQMail\GoogleChromePortable
@@ -68,13 +68,13 @@
     
     主要用于制作CSS sprite
     > _Cloud\Google\Gmail\ImageMagick
+    
     > montage -background transparent -tile 2x5 -geometry +10+10 *.png *.gif *.jpg sprite.png
 
 * [weinre](http://people.apache.org/~pmuellr/weinre/)
     
     weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
-    > npm -g install weinre
-    
+    > npm install weinre -g
     
     > C:\Documents and Settings\Administrator\.weinre\server.properties
     
@@ -105,7 +105,7 @@
     The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
 
     需要先安装 git 和 python
-    > npm install -g harp
+    > npm install harp -g
     
     > harp init myproject
     
@@ -125,35 +125,37 @@
  
 
 ## 工具
-[Node.js](http://nodejs.org/)
+* [Node.js](http://nodejs.org/)
+* [Grunt](http://gruntjs.com/)
+* [RailsInstaller](http://railsinstaller.org/)
+    
+    顺带了[Git](http://www.git-scm.com/)
+* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+* [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
-[Grunt](http://gruntjs.com/)
+    Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
+    
+    常用PS扩展, 主要是方便切图
+    * [Cut&Slice me](http://www.cutandslice.me/)
+    * [Ink](http://ink.chrometaphore.com/)
+    * [Specctr](https://www.specctr.com/buy)
+    * [GuideGuide](http://guideguide.me/)
 
-[RailsInstaller](http://railsinstaller.org/) 顺带了[Git](http://www.git-scm.com/)
+* [UIDesigner](http://uid.cdc.tencent.com/)
+    
+    原型设计
+* [Justinmind Prototyper](http://www.justinmind.com/)
+* [Mark Man](http://getmarkman.com/)
+    
+    1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境. 现在版本收费了, 使用会有一些功能限制
+    > _Cloud\Google\Gmail\MarkMan_1.40.7.air
 
-[JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 
+* [TortoiseSVN](http://tortoisesvn.net/)
+    > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
 
-[Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
-Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版 
-* [Cut&Slice me](http://www.cutandslice.me/)
-* [Ink](http://ink.chrometaphore.com/)
-* [Specctr](https://www.specctr.com/buy)
-* [GuideGuide](http://guideguide.me/)
-
-[UIDesigner](http://uid.cdc.tencent.com/)
-原型设计
-
-[Justinmind Prototyper](http://www.justinmind.com/)
-
-[Mark Man](http://getmarkman.com/)
-
-1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境. 现在版本收费了, 使用会有一些功能限制
-> _Cloud\Google\Gmail\MarkMan_1.40.7.air
-
-[TortoiseSVN](http://tortoisesvn.net/)
-> _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
-
-[禅道](http://www.zentao.net/) 需求管理, bug跟踪, 版本计划
+* [禅道](http://www.zentao.net/)
+    
+    需求管理, bug跟踪, 版本计划
 
 
 ## 安装脚本
@@ -162,38 +164,29 @@ Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/ad
 > npm install browser-sync f5 grunt-cli harp weinre -g
 
 
-
 ## 备选项
-[IntelliJ IDEA](https://www.jetbrains.com/idea/)
-前端开发最强的IDE了, 功能非常全, 适合团队开发 
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+    
+    前端开发最强的IDE了, 功能非常全, 适合团队开发 
 
-[HBuilder](http://dcloud.io/)
-
-[NetBeans]( https://netbeans.org/downloads/6.8/index.html)
+* [HBuilder](http://dcloud.io/)
+* [NetBeans]( https://netbeans.org/downloads/6.8/index.html)
 
 
 ## 网站
-[github](https://github.com/ufologist)
-[GitBook](https://www.gitbook.com/)
+* [GitHub](https://github.com/ufologist)
+* [GitBook](https://www.gitbook.com/)
 
 
 ## 杂项
-[Bower](http://bower.io/)
-
-[component](http://component.github.io/)
-
-[Yeoman](http://yeoman.io/)
-
-[spm](http://spmjs.io/)
-
-[Genymobile](http://www.genymobile.com/)
-
-[MongoDB](http://www.mongodb.org/)
+* [Bower](http://bower.io/)
+* [component](http://component.github.io/)
+* [Yeoman](http://yeoman.io/)
+* [spm](http://spmjs.io/)
+* [Genymobile](http://www.genymobile.com/)
+* [MongoDB](http://www.mongodb.org/)
 
 
 ## 更多备选工具
-原型设计
-[墨刀](https://modao.io/workspace)
-[禅道](http://www.zentao.net/)
-需求管理, bug跟踪, 版本计划
-[Portable App](http://portableapps.com/apps)
+* [墨刀](https://modao.io/workspace) 原型设计
+* [Portable App](http://portableapps.com/apps)
