@@ -27,7 +27,11 @@ animating CSS sprites and dynamic scrolling backgrounds
 
 
 [GSAP](http://greensock.com/gsap)
- 动画, Draggable and SplitText:
+ 动画, Draggable and SplitText
+ 
+[Velocity](https://github.com/julianshapiro/velocity)
+an animation engine with the same API as jQuery's $.animate(). It works with and without jQuery. It's incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.
+
 
 ## 正在试用的框架
 [Riot](https://muut.com/riotjs) 非常非常非常喜欢, 自定义tag非常爽
