@@ -15,3 +15,13 @@
 * [个人常用软件](https://github.com/f2e-journey/software/blob/master/software.md)
 * [个人常用框架](https://github.com/f2e-journey/software/blob/master/lib.md)
 * [个人常用云服务](https://github.com/f2e-journey/software/blob/master/cloud.md)
+
+
+## 前端趋势
+* 模块化 AMD CMD, 标准通用的模块化方案(ES6)
+* 组件化(标准, 通用), Web组件的标准化, 组件生态圈, 想想 npm 的发展势头
+* 工作流 Grunt Yeoman
+* 双向数据绑定 MVVM Angular
+* 性能
+* HTML5 CSS3 ES5 ES6
+* 响应式解决方案, 特别是图像的适配方案
