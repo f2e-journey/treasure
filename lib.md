@@ -1,3 +1,34 @@
+## 待测试的
+[AmplifyJS](https://github.com/mikehostetler/amplify)
+AmplifyJS is a set of components designed to solve common web application problems with a simplistic API.
+AmplifyJS solves the following problems:
+* Ajax Request Management - amplify.request
+* Client Side Component Communication - amplify.publish/subscribe
+* Client Side Browser & Mobile Device Storage - amplify.store
+
+[OWL Carousel](https://github.com/OwlFonk/OwlCarousel)
+Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
+
+[Reel](https://github.com/pisi/Reel)
+The premier 360° solution
+
+[Parallax](https://github.com/wagerfield/parallax)
+Parallax Engine that reacts to the orientation of a smart device
+
+[Modernizr](https://github.com/Modernizr/Modernizr)
+detects HTML5 and CSS3 features in the user’s browser
+
+[FitText](https://github.com/davatron5000/FitText.js)
+FitText makes font-sizes flexible. Use this plugin on your responsive design for ratio-based resizing of your headlines.
+
+
+[Spritely](https://github.com/artlogicmedia/spritely)
+animating CSS sprites and dynamic scrolling backgrounds
+
+
+[GSAP](http://greensock.com/gsap)
+ 动画, Draggable and SplitText:
+
 ## 正在试用的框架
 [Riot](https://muut.com/riotjs) 非常非常非常喜欢, 自定义tag非常爽
 
@@ -117,10 +148,13 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 [EXIF image metadata](https://github.com/jseidelin/exif-js/)
 
 [音乐播放器 flash](http://www.alsacreations.fr/dewplayer.html)
+http://www.schillmania.com/projects/soundmanager2
 
 [HTML5 video player](http://www.videojs.com/)
 
 [图像处理](https://github.com/AlloyTeam/AlloyImage)
+
+[jQuery Mouse Wheel Plugin](https://github.com/jquery/jquery-mousewheel/)
 
 [keyboard](https://github.com/ccampbell/mousetrap)
 
@@ -163,6 +197,8 @@ The High Velocity Web Framework For Java and Scala
 http://animajs.org/#standard/
 
 [Alice](http://aliceui.org/)
+
+[常用JavaScript](http://www.oschina.net/project/tag/165/javascript-utils)
 
 
 ## 非WEB前端
