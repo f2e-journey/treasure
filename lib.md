@@ -9,6 +9,15 @@ AmplifyJS solves the following problems:
 [OWL Carousel](https://github.com/OwlFonk/OwlCarousel)
 Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 
+http://slidesjs.com/
+http://swipejs.com/
+http://www.sequencejs.com/
+
+http://sentsin.com/
+http://www.layui.com/
+
+http://prinzhorn.github.io/skrollr/
+
 [Reel](https://github.com/pisi/Reel)
 The premier 360° solution
 
@@ -32,6 +41,8 @@ animating CSS sprites and dynamic scrolling backgrounds
 [Velocity](https://github.com/julianshapiro/velocity)
 an animation engine with the same API as jQuery's $.animate(). It works with and without jQuery. It's incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.
 
+
+[表单验证](http://validform.rjboy.cn/)
 
 ## 正在试用的框架
 [Riot](https://muut.com/riotjs) 非常非常非常喜欢, 自定义tag非常爽
@@ -82,7 +93,7 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 选择原则: Do one thing do good, K.I.S.S., micro, NO dependency, CN
 
 ### 常用组合
-jquery/zepto(IE10+)
+jquery/zepto(IE10+)/Bootstrap/Pure.css
 Backbone + AmplifyJS
 Angular/Avalon
 
@@ -125,6 +136,9 @@ Angular/Avalon
 
 [Table plugin for jQuery](http://www.datatables.net/)
 
+[中文排版CSS](https://github.com/sofish/Typo.css)
+
+[Pure.css](http://purecss.io/)
 
 [提示信息](https://github.com/sofish/essage)
 
@@ -133,10 +147,13 @@ Angular/Avalon
 [对话框](http://aui.github.io/artDialog/)
 
 [图片懒加载](https://github.com/tuupola/jquery_lazyload/)
+[A very lightweight jQuery|Zepto plugin to lazy load images](https://github.com/luis-almeida/unveil)
 
 [文件上传](https://github.com/fex-team/webuploader)
 
 [表单验证](https://github.com/posabsolute/jQuery-Validation-Engine)
+
+[自动完成](http://twitter.github.io/typeahead.js/)
 
 [dnd sortable list](https://github.com/RubaXa/Sortable)
 
@@ -188,7 +205,12 @@ http://www.schillmania.com/projects/soundmanager2
 [D3.js](http://d3js.org/) 数据可视化, 自定义图形
 
 [web based file manager](https://github.com/kalcaddle/KODExplorer)
-桌面, 文件管理, 代码编辑器, 文件预览、编辑、上传下载、在线解压缩、音乐s视频播放  
+桌面, 文件管理, 代码编辑器, 文件预览、编辑、上传下载、在线解压缩、音乐视频播放
+
+[favicon](https://github.com/tommoor/tinycon)
+
+[图形/可视化](http://sigmajs.org/)
+http://paperjs.org
 
 ### 游戏类
 [白鹭](https://github.com/egret-labs/egret-core)
@@ -211,6 +233,8 @@ http://animajs.org/#standard/
 [Alice](http://aliceui.org/)
 
 [常用JavaScript](http://www.oschina.net/project/tag/165/javascript-utils)
+
+[CDN](http://cdn.code.baidu.com/)
 
 
 ## 非WEB前端
