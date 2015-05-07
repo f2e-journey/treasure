@@ -81,6 +81,11 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 ## 常用lib(TODO 分类整理)
 选择原则: Do one thing do good, K.I.S.S., micro, NO dependency, CN
 
+### 常用组合
+jquery/zepto(IE10+)
+Backbone + AmplifyJS
+Angular/Avalon
+
 ### 在项目中运用过的
 [jQuery](http://jquery.com)
 
@@ -144,6 +149,9 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 [drag and drop, resizing](https://github.com/taye/interact.js)
 
 [剪切板](https://github.com/zeroclipboard/ZeroClipboard/)
+
+[SVG](http://raphaeljs.com/)
+[Snap.svg](http://snapsvg.io)
 
 [图片裁剪](https://github.com/tapmodo/Jcrop/) http://odyniec.net/projects/imgareaselect/
 
