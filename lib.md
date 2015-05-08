@@ -1,3 +1,58 @@
+## 正在整理的
+[滚动动画](https://github.com/matthieua/WOW)
+[timeline](https://github.com/NUKnightLab/TimelineJS)
+
+[tag input](https://github.com/max-favilli/tagmanager)
+
+
+## 工具
+[表单验证](https://github.com/sofish/validator.js)
+
+[slider/carousel](https://github.com/kenwheeler/slick/)
+
+[Sequence](https://github.com/IanLunn/Sequence)
+Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications
+
+[绑定input](http://refreshless.com/liblink/)
+[SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager)
+A responsive state manager which allows you to run different javascript at different browser widths
+
+[Sugar.js 可以参考其中一些工具方法的实现](http://sugarjs.com/)
+[格式化数字](http://refreshless.com/wnumb/)
+
+[平台检测](https://github.com/bestiejs/platform.js)
+
+
+[build websites with objects](https://github.com/ojjs/oj)
+
+[recorder](https://github.com/sofish/recorder.js)
+Using Capture API (HTML5) to capture video / photo via the camera of your device.
+
+
+
+[selectize](https://github.com/brianreavis/selectize.js)
+custom <select> UI control. It's useful for tagging, contact lists, country selectors
+
+[notify](https://github.com/sciactive/pnotify)
+
+[HTML5 input range slider element polyfill](https://github.com/andreruffert/rangeslider.js)
+[range](http://refreshless.com/nouislider/)
+[ng-range](https://github.com/darul75/angular-awesome-slider)
+
+[tip](https://github.com/qTip2/qTip2)
+[opentip](https://github.com/enyo/opentip)
+
+[side slider](https://github.com/jakiestfu/Snap.js/)
+[Shadow](https://github.com/bigspaceship/shine.js)
+
+[AppScroll](https://github.com/jakiestfu/AppScroll.js)
+a tiny JS library that fixes the "website dragging" issue caused on iDevices
+
+
+[sigma.js](https://github.com/jacomyal/sigma.js)
+
+
+
 ## 待测试的
 [AmplifyJS](https://github.com/mikehostetler/amplify) jStorage 可以淘汰了
 AmplifyJS is a set of components designed to solve common web application problems with a simplistic API.
