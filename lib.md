@@ -53,6 +53,12 @@ a tiny JS library that fixes the "website dragging" issue caused on iDevices
 
 
 
+
+
+cdn.code.baidu.com 看到 oj.js
+
+
+
 ## 待测试的
 [AmplifyJS](https://github.com/mikehostetler/amplify) jStorage 可以淘汰了
 AmplifyJS is a set of components designed to solve common web application problems with a simplistic API.
