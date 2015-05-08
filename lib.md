@@ -237,6 +237,7 @@ http://animajs.org/#standard/
 [常用JavaScript](http://www.oschina.net/project/tag/165/javascript-utils)
 
 [CDN](http://cdn.code.baidu.com/)
+从CDN中搜集各种js/css框架找到合适的
 
 
 ## 非WEB前端
