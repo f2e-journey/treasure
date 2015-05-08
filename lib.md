@@ -13,6 +13,8 @@ http://slidesjs.com/
 http://swipejs.com/
 http://www.sequencejs.com/
 
+[Flux-Slider](https://github.com/joelambert/Flux-Slider)
+
 http://sentsin.com/
 http://www.layui.com/
 
@@ -240,4 +242,3 @@ http://animajs.org/#standard/
 ## 非WEB前端
 [启动界面插件](http://www.bangcle.com/solution/sdk-detail/?id=10)
 很实用的Android SDK, 但还没有推出正式版本
-
