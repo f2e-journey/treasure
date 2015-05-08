@@ -24,6 +24,8 @@
 # CDN服务静态库
 [360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)
 [cdnjs]( http://www.cdnjs.cn/)
+[bootcdn](http://www.bootcdn.cn/)
+[baiducdn](http://cdn.code.baidu.com)
 
 # BaaS 后端云
 backend云服务, 一般提供开发一个应用所需的所有服务, 而不需要自己搞服务器
