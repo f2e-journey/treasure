@@ -71,10 +71,6 @@ AmplifyJS solves the following problems:
 [OWL Carousel](https://github.com/OwlFonk/OwlCarousel)
 Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 
-http://slidesjs.com/
-http://swipejs.com/
-http://www.sequencejs.com/
-
 [Flux-Slider](https://github.com/joelambert/Flux-Slider)
 
 http://sentsin.com/
