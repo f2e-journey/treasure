@@ -1,6 +1,6 @@
 # TODO
 2015-5-5
-看下还有什么软件是可以在电脑管家里面安装的? QTTabbar的配置文件需要备份吧?
+看下还有什么软件是可以在电脑管家里面安装的?
 更多的常用网站需要更新, 还有其他团队软件, 需要更新
 看是否有遗漏的什么软件
 
@@ -11,9 +11,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [电脑管家](http://guanjia.qq.com/)
     * [QQ](http://im.qq.com/download/)
     * [QQ输入法](http://qq.pinyin.cn/)
-    * [QTTabBar](http://qttabbar.wikidot.com/)
-        
-        增强文件管理器, 可以打开多个标签页
     * [WPS](http://www.wps.cn/product/wps2013/)
         
         替代MS-office
@@ -23,6 +20,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [AutoHotkey](http://www.autohotkey.com/)
         
         a scripting language for desktop automation
+* [QTTabBar](http://qttabbar.wikidot.com/)
+    
+    增强文件管理器, 可以打开多个标签页
+    > _Cloud\Google\Code\sync-software\QTTabBarConfig.xml
 * [Skitch](https://evernote.com/skitch/)
     
     截图/标注
