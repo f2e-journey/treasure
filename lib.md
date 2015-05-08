@@ -48,6 +48,7 @@ custom <select> UI control. It's useful for tagging, contact lists, country sele
 [AppScroll](https://github.com/jakiestfu/AppScroll.js)
 a tiny JS library that fixes the "website dragging" issue caused on iDevices
 
+[数字滚动动画](https://github.com/HubSpot/odometer)
 
 [sigma.js](https://github.com/jacomyal/sigma.js)
 
