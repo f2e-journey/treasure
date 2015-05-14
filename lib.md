@@ -2,6 +2,8 @@
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
 Smooth scrolling and smart navigation when user scrolls on one-page sites.
 
+http://www.zcool.com.cn/special/znote2014/
+
 
 ## 正在整理的
 [滚动动画](https://github.com/matthieua/WOW)
