@@ -1,3 +1,8 @@
+## 单页(活动页)常用
+[one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
+Smooth scrolling and smart navigation when user scrolls on one-page sites.
+
+
 ## 正在整理的
 [滚动动画](https://github.com/matthieua/WOW)
 [timeline](https://github.com/NUKnightLab/TimelineJS)
