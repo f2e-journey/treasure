@@ -8,6 +8,11 @@ Smooth scrolling and smart navigation when user scrolls on one-page sites.
 http://www.zcool.com.cn/special/znote2014/
 
 
+
+[lightbox类](https://github.com/fancyapps/fancyBox)
+Mac风格的弹出窗口, 支持图片, iframe等等
+
+
 ## 正在整理的
 [滚动动画](https://github.com/matthieua/WOW)
 [timeline](https://github.com/NUKnightLab/TimelineJS)
