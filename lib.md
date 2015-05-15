@@ -13,6 +13,10 @@ http://www.zcool.com.cn/special/znote2014/
 Mac风格的弹出窗口, 支持图片, iframe等等
 
 
+[一站式解决方案](https://github.com/uikit/uikit)
+A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+相当于bootstrap, 但组件更为丰富一些
+
 ## 正在整理的
 [滚动动画](https://github.com/matthieua/WOW)
 [timeline](https://github.com/NUKnightLab/TimelineJS)
