@@ -182,7 +182,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 ## 安装脚本
 > npm ls -depth 0 -g
 
-> npm install browser-sync f5 grunt-cli harp weinre -g
+> npm install browser-sync f5 grunt-cli harp hexo-cli weinre -g
 
 
 ## 备选项
