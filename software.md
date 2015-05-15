@@ -108,7 +108,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on. 
     > _Cloud\Google\Gmail\ngrok.exe
 
-* [harp](  http://harpjs.com/)  
+* [harp](http://harpjs.com/)  
     
     The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
 
@@ -120,6 +120,19 @@ v0.0.1 2015-5-5(还未正式发布版本)
     > harp server myproject
     
     > harp compile myproject
+
+* [Hexo](http://hexo.io)
+
+    A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台.
+    > npm install hexo-cli -g
+    
+    > hexo init blog
+    
+    > cd blog
+    
+    > npm install
+    
+    > hexo server
 
 * [Apache](http://httpd.apache.org/)
 
