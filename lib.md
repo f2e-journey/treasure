@@ -50,7 +50,10 @@ Using Capture API (HTML5) to capture video / photo via the camera of your device
 
 
 [selectize](https://github.com/brianreavis/selectize.js)
-custom <select> UI control. It's useful for tagging, contact lists, country selectors
+custom ```<select>``` UI control. It's useful for tagging, contact lists, country selectors
+
+
+
 
 [notify](https://github.com/sciactive/pnotify)
 
