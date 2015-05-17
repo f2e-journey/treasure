@@ -2,21 +2,15 @@
 选择原则: Do one thing do good, K.I.S.S., micro, NO dependency, CN
 
 ## 常用组合
-* jQuery | Zepto(IE10+)
-* Bootstrap | Pure.css
-* Backbone + AmplifyJS
-* Angular | Avalon
+* 基础库:   jQuery | Zepto(IE10+) | Backbone + AmplifyJS | Angular | Avalon
+* 前端框架: Bootstrap | Pure.css
+
 
 ## 在项目中运用过的
-[jQuery](http://jquery.com)
+jQuery, Zepto, Angular 1.2.x
 
-[Zepto](http://zeptojs.com/)
+Bootstrap 3.x, Font Awesome
 
-[Angular](https://angularjs.org/) 1.2.x
-
-[Bootstrap]( http://getbootstrap.com/) 3.x
-
-[Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 [RequireJS](http://requirejs.org/) 2.x
 
@@ -59,6 +53,8 @@ cdn.code.baidu.com 看到 oj.js
 
 
 ## 一站式解决方案
+[Bootstrap](http://getbootstrap.com/)
+
 [UIkit](https://github.com/uikit/uikit)
 A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 相当于bootstrap, 但组件更为丰富一些
@@ -79,7 +75,14 @@ A responsive state manager which allows you to run different javascript at diffe
 
 [build websites with objects](https://github.com/ojjs/oj)
 
+### 基础库
+[jQuery](http://jquery.com)
 
+[Zepto](http://zeptojs.com/)
+
+[Angular](https://angularjs.org/)
+
+[YUI](https://github.com/yui/yui3)
 
 
 ## UI
@@ -195,9 +198,8 @@ http://www.schillmania.com/projects/soundmanager2
 
 [pjax](https://github.com/welefen/pjax)
 
-[YUI](https://github.com/yui/yui3)
-
-
+### 图标
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
 ### 单页(活动页)常用
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
