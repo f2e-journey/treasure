@@ -2,11 +2,13 @@
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
 Smooth scrolling and smart navigation when user scrolls on one-page sites.
 
+http://www.zcool.com.cn/special/znote2014/
+
+### 滑动图片
 [iSlider](https://github.com/BE-FE/iSlider)
 可用于幻灯片(可手势缩放), 滑动组件(图片或者DOM元素, 可实现滑动tab页), 支持水平或垂直滑动, 可用于做单页的活动推广页
 
-http://www.zcool.com.cn/special/znote2014/
-
+[slider/carousel](https://github.com/kenwheeler/slick/)
 
 
 [lightbox类](https://github.com/fancyapps/fancyBox)
@@ -26,8 +28,6 @@ A lightweight and modular front-end framework for developing fast and powerful w
 
 ## 工具
 [表单验证](https://github.com/sofish/validator.js)
-
-[slider/carousel](https://github.com/kenwheeler/slick/)
 
 [Sequence](https://github.com/IanLunn/Sequence)
 Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications
