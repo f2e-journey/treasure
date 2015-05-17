@@ -8,8 +8,6 @@ Smooth scrolling and smart navigation when user scrolls on one-page sites.
 http://www.zcool.com.cn/special/znote2014/
 
 
-[flexslider](https://github.com/woothemes/FlexSlider/)
-
 
 [lightbox类](https://github.com/fancyapps/fancyBox)
 Mac风格的弹出窗口, 支持图片, iframe等等
