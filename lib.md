@@ -17,6 +17,7 @@ http://www.zcool.com.cn/special/znote2014/
 Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 
 [Flux-Slider](https://github.com/joelambert/Flux-Slider)
+支持很多动画效果
 
 ### 弹窗
 [lightbox类](https://github.com/fancyapps/fancyBox)
