@@ -1,45 +1,21 @@
-## 单页(活动页)常用
-[one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
-Smooth scrolling and smart navigation when user scrolls on one-page sites.
-
-http://www.zcool.com.cn/special/znote2014/
-
-### 滑动图片
-[iSlider](https://github.com/BE-FE/iSlider)
-可用于幻灯片(可手势缩放), 滑动组件(图片或者DOM元素, 可实现滑动tab页), 支持水平或垂直滑动, 可用于做单页的活动推广页
-
-[slick](https://github.com/kenwheeler/slick/)
-* Responsive/CSS3/Swipe/Desktop mouse dragging
-* Infinite looping/Add, remove, filter & unfilter slides
-* Autoplay, dots, arrows, callbacks
-
-[OWL Carousel](https://github.com/OwlFonk/OwlCarousel)
-Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
-
-[Flux-Slider](https://github.com/joelambert/Flux-Slider)
-支持很多动画效果
-
-### 弹窗
-[lightbox类](https://github.com/fancyapps/fancyBox)
-Mac风格的弹出窗口, 支持图片, iframe等等
-
-### 一站式解决方案
-[UIkit](https://github.com/uikit/uikit)
-A lightweight and modular front-end framework for developing fast and powerful web interfaces.
-相当于bootstrap, 但组件更为丰富一些
-
 ## 正在整理的
 [滚动动画](https://github.com/matthieua/WOW)
+
 [timeline](https://github.com/NUKnightLab/TimelineJS)
 
 [tag input](https://github.com/max-favilli/tagmanager)
 
+cdn.code.baidu.com 看到 oj.js
+
+
+
+## 一站式解决方案
+[UIkit](https://github.com/uikit/uikit)
+A lightweight and modular front-end framework for developing fast and powerful web interfaces.
+相当于bootstrap, 但组件更为丰富一些
 
 ## 工具
 [表单验证](https://github.com/sofish/validator.js)
-
-[Sequence](https://github.com/IanLunn/Sequence)
-Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications
 
 [绑定input](http://refreshless.com/liblink/)
 
@@ -54,8 +30,14 @@ A responsive state manager which allows you to run different javascript at diffe
 
 [build websites with objects](https://github.com/ojjs/oj)
 
-[recorder](https://github.com/sofish/recorder.js)
-Using Capture API (HTML5) to capture video / photo via the camera of your device.
+
+
+
+## UI
+这里的还未整理分类
+
+[Sequence](https://github.com/IanLunn/Sequence)
+Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications
 
 [selectize](https://github.com/brianreavis/selectize.js)
 custom ```<select>``` UI control. It's useful for tagging, contact lists, country selectors
@@ -83,11 +65,34 @@ a tiny JS library that fixes the "website dragging" issue caused on iDevices
 
 [sigma.js](https://github.com/jacomyal/sigma.js)
 
+[recorder](https://github.com/sofish/recorder.js)
+Using Capture API (HTML5) to capture video / photo via the camera of your device.
 
 
+### 单页(活动页)常用
+[one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
+Smooth scrolling and smart navigation when user scrolls on one-page sites.
 
+http://www.zcool.com.cn/special/znote2014/
 
-cdn.code.baidu.com 看到 oj.js
+### 滑动图片
+[iSlider](https://github.com/BE-FE/iSlider)
+可用于幻灯片(可手势缩放), 滑动组件(图片或者DOM元素, 可实现滑动tab页), 支持水平或垂直滑动, 可用于做单页的活动推广页
+
+[slick](https://github.com/kenwheeler/slick/)
+* Responsive/CSS3/Swipe/Desktop mouse dragging
+* Infinite looping/Add, remove, filter & unfilter slides
+* Autoplay, dots, arrows, callbacks
+
+[OWL Carousel](https://github.com/OwlFonk/OwlCarousel)
+Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
+
+[Flux-Slider](https://github.com/joelambert/Flux-Slider)
+支持很多动画效果
+
+### 弹窗
+[lightbox类](https://github.com/fancyapps/fancyBox)
+Mac风格的弹出窗口, 支持图片, iframe等等
 
 
 
