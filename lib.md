@@ -8,7 +8,10 @@ http://www.zcool.com.cn/special/znote2014/
 [iSlider](https://github.com/BE-FE/iSlider)
 可用于幻灯片(可手势缩放), 滑动组件(图片或者DOM元素, 可实现滑动tab页), 支持水平或垂直滑动, 可用于做单页的活动推广页
 
-[slider/carousel](https://github.com/kenwheeler/slick/)
+[slick](https://github.com/kenwheeler/slick/)
+* Responsive/CSS3/Swipe/Desktop mouse dragging
+* Infinite looping/Add, remove, filter & unfilter slides
+* Autoplay, dots, arrows, callbacks
 
 [OWL Carousel](https://github.com/OwlFonk/OwlCarousel)
 Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
