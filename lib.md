@@ -1,3 +1,52 @@
+# 常用lib(TODO 分类整理)
+选择原则: Do one thing do good, K.I.S.S., micro, NO dependency, CN
+
+## 常用组合
+* jQuery | Zepto(IE10+)
+* Bootstrap | Pure.css
+* Backbone + AmplifyJS
+* Angular | Avalon
+
+## 在项目中运用过的
+[jQuery](http://jquery.com)
+
+[Zepto](http://zeptojs.com/)
+
+[Angular](https://angularjs.org/) 1.2.x
+
+[Bootstrap]( http://getbootstrap.com/) 3.x
+
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+
+[RequireJS](http://requirejs.org/) 2.x
+
+[Backbone](http://backbonejs.org/) 1.x
+
+[undercore](http://underscorejs.org/) 1.x
+
+[moment](http://momentjs.com/)
+
+[crypto-js](http://code.google.com/p/crypto-js/)  https://github.com/brix/crypto-js
+
+[iscroll](https://github.com/cubiq/iscroll/) 5.x
+
+[jStorage](https://github.com/andris9/jStorage)
+
+[Cordova](http://cordova.apache.org/) 3.x
+
+[Transit](http://ricostacruz.com/jquery.transit/) CSS transitions & transformations https://github.com/benbarnett/jQuery-Animate-Enhanced
+
+[highcharts](http://www.highcharts.com/)
+
+[bxslider](http://bxslider.com/)
+
+[iCheck](https://github.com/fronteed/iCheck/)
+
+[brute-select](https://github.com/grassator/jquery-brute-select)
+
+[Table plugin for jQuery](http://www.datatables.net/)
+
+
 ## 正在整理的
 [滚动动画](https://github.com/matthieua/WOW)
 
@@ -54,7 +103,11 @@ custom ```<select>``` UI control. It's useful for tagging, contact lists, countr
 
 [opentip](https://github.com/enyo/opentip)
 
-[side slider](https://github.com/jakiestfu/Snap.js/)
+[Snap](https://github.com/jakiestfu/Snap.js/)
+侧边栏菜单, app上流行的UI模式
+
+[Slideout](https://github.com/mango/slideout)
+A touch slideout navigation menu for your mobile web apps.
 
 [Shadow](https://github.com/bigspaceship/shine.js)
 
@@ -67,6 +120,83 @@ a tiny JS library that fixes the "website dragging" issue caused on iDevices
 
 [recorder](https://github.com/sofish/recorder.js)
 Using Capture API (HTML5) to capture video / photo via the camera of your device.
+
+
+[switch](https://github.com/nostalgiaz/bootstrap-switch)
+
+[3D](https://github.com/mrdoob/three.js/)
+
+[code editor](https://github.com/ajaxorg/ace)
+
+[lightbox](https://github.com/lokesh/lightbox2/) http://odyniec.net/projects/imgzoom/
+
+[D3.js](http://d3js.org/) 数据可视化, 自定义图形
+
+[web based file manager](https://github.com/kalcaddle/KODExplorer)
+桌面, 文件管理, 代码编辑器, 文件预览、编辑、上传下载、在线解压缩、音乐视频播放
+
+[favicon](https://github.com/tommoor/tinycon)
+
+[图形/可视化](http://sigmajs.org/)
+http://paperjs.org
+
+
+
+[中文排版CSS](https://github.com/sofish/Typo.css)
+
+[Pure.css](http://purecss.io/)
+
+[提示信息](https://github.com/sofish/essage)
+
+[日历](https://github.com/ciaoca/cxCalendar)
+
+[对话框](http://aui.github.io/artDialog/)
+
+[图片懒加载](https://github.com/tuupola/jquery_lazyload/)
+[A very lightweight jQuery|Zepto plugin to lazy load images](https://github.com/luis-almeida/unveil)
+
+[文件上传](https://github.com/fex-team/webuploader)
+
+[表单验证](https://github.com/posabsolute/jQuery-Validation-Engine)
+
+[自动完成](http://twitter.github.io/typeahead.js/)
+
+[dnd sortable list](https://github.com/RubaXa/Sortable)
+
+[引导](https://github.com/usablica/intro.js)
+
+[瀑布流](https://github.com/germanysbestkeptsecret/Wookmark-jQuery)
+
+[drag and drop, resizing](https://github.com/taye/interact.js)
+
+[剪切板](https://github.com/zeroclipboard/ZeroClipboard/)
+
+[SVG](http://raphaeljs.com/)
+[Snap.svg](http://snapsvg.io)
+
+[图片裁剪](https://github.com/tapmodo/Jcrop/) http://odyniec.net/projects/imgareaselect/
+
+[Store](https://github.com/nbubna/store)
+
+[EXIF image metadata](https://github.com/jseidelin/exif-js/)
+
+[音乐播放器 flash](http://www.alsacreations.fr/dewplayer.html)
+http://www.schillmania.com/projects/soundmanager2
+
+[HTML5 video player](http://www.videojs.com/)
+
+[图像处理](https://github.com/AlloyTeam/AlloyImage)
+
+[jQuery Mouse Wheel Plugin](https://github.com/jquery/jquery-mousewheel/)
+
+[keyboard](https://github.com/ccampbell/mousetrap)
+
+[easing](https://github.com/gdsmith/jquery.easing/)
+
+[pjax](https://github.com/welefen/pjax)
+
+[YUI](https://github.com/yui/yui3)
+
 
 
 ### 单页(活动页)常用
@@ -181,130 +311,7 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 [Kissy](http://kissyui.com/)
 
 
-## 常用lib(TODO 分类整理)
-选择原则: Do one thing do good, K.I.S.S., micro, NO dependency, CN
-
-### 常用组合
-jquery/zepto(IE10+)/Bootstrap/Pure.css
-Backbone + AmplifyJS
-Angular/Avalon
-
-### 在项目中运用过的
-[jQuery](http://jquery.com)
-
-[Zepto](http://zeptojs.com/)
-
-[Angular](https://angularjs.org/) 1.2.x
-
-[bootstrap]( http://getbootstrap.com/) 3.x
-
-[Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-
-[requirejs](http://requirejs.org/) 2.x
-
-[backbone](http://backbonejs.org/) 1.x
-
-[undercore](http://underscorejs.org/) 1.x
-
-[moment](http://momentjs.com/)
-
-[crypto-js](http://code.google.com/p/crypto-js/)  https://github.com/brix/crypto-js
-
-[iscroll](https://github.com/cubiq/iscroll/) 5.x
-
-[jStorage](https://github.com/andris9/jStorage)
-
-[Cordova](http://cordova.apache.org/) 3.x
-
-[Transit](http://ricostacruz.com/jquery.transit/) CSS transitions & transformations https://github.com/benbarnett/jQuery-Animate-Enhanced
-
-[highcharts](http://www.highcharts.com/)
-
-[bxslider](http://bxslider.com/)
-
-[iCheck](https://github.com/fronteed/iCheck/)
-
-[brute-select](https://github.com/grassator/jquery-brute-select)
-
-[Table plugin for jQuery](http://www.datatables.net/)
-
-[中文排版CSS](https://github.com/sofish/Typo.css)
-
-[Pure.css](http://purecss.io/)
-
-[提示信息](https://github.com/sofish/essage)
-
-[日历](https://github.com/ciaoca/cxCalendar)
-
-[对话框](http://aui.github.io/artDialog/)
-
-[图片懒加载](https://github.com/tuupola/jquery_lazyload/)
-[A very lightweight jQuery|Zepto plugin to lazy load images](https://github.com/luis-almeida/unveil)
-
-[文件上传](https://github.com/fex-team/webuploader)
-
-[表单验证](https://github.com/posabsolute/jQuery-Validation-Engine)
-
-[自动完成](http://twitter.github.io/typeahead.js/)
-
-[dnd sortable list](https://github.com/RubaXa/Sortable)
-
-[引导](https://github.com/usablica/intro.js)
-
-[瀑布流](https://github.com/germanysbestkeptsecret/Wookmark-jQuery)
-
-[侧边栏](https://mango.github.io/slideout/)
-
-[drag and drop, resizing](https://github.com/taye/interact.js)
-
-[剪切板](https://github.com/zeroclipboard/ZeroClipboard/)
-
-[SVG](http://raphaeljs.com/)
-[Snap.svg](http://snapsvg.io)
-
-[图片裁剪](https://github.com/tapmodo/Jcrop/) http://odyniec.net/projects/imgareaselect/
-
-[Store](https://github.com/nbubna/store)
-
-[EXIF image metadata](https://github.com/jseidelin/exif-js/)
-
-[音乐播放器 flash](http://www.alsacreations.fr/dewplayer.html)
-http://www.schillmania.com/projects/soundmanager2
-
-[HTML5 video player](http://www.videojs.com/)
-
-[图像处理](https://github.com/AlloyTeam/AlloyImage)
-
-[jQuery Mouse Wheel Plugin](https://github.com/jquery/jquery-mousewheel/)
-
-[keyboard](https://github.com/ccampbell/mousetrap)
-
-[easing](https://github.com/gdsmith/jquery.easing/)
-
-[pjax](https://github.com/welefen/pjax)
-
-[YUI](https://github.com/yui/yui3)
-
-### UI类
-[switch](https://github.com/nostalgiaz/bootstrap-switch)
-
-[3D](https://github.com/mrdoob/three.js/)
-
-[code editor](https://github.com/ajaxorg/ace)
-
-[lightbox](https://github.com/lokesh/lightbox2/) http://odyniec.net/projects/imgzoom/
-
-[D3.js](http://d3js.org/) 数据可视化, 自定义图形
-
-[web based file manager](https://github.com/kalcaddle/KODExplorer)
-桌面, 文件管理, 代码编辑器, 文件预览、编辑、上传下载、在线解压缩、音乐视频播放
-
-[favicon](https://github.com/tommoor/tinycon)
-
-[图形/可视化](http://sigmajs.org/)
-http://paperjs.org
-
-### 游戏类
+## 游戏类
 [白鹭](https://github.com/egret-labs/egret-core)
 
 ## boilerplate
