@@ -7,38 +7,17 @@
 
 
 ## 在项目中运用过的
-jQuery, Zepto, Angular 1.2.x
+RequireJS 2.x
+
+jQuery, Zepto
+
+Backbone 1.x, Angular 1.2.x
 
 Bootstrap 3.x, Font Awesome
 
+Undercore 1.x, Moment, crypto-js, jStorage, Cordova 3.x
 
-[RequireJS](http://requirejs.org/) 2.x
-
-[Backbone](http://backbonejs.org/) 1.x
-
-[undercore](http://underscorejs.org/) 1.x
-
-[moment](http://momentjs.com/)
-
-[crypto-js](http://code.google.com/p/crypto-js/)  https://github.com/brix/crypto-js
-
-[iscroll](https://github.com/cubiq/iscroll/) 5.x
-
-[jStorage](https://github.com/andris9/jStorage)
-
-[Cordova](http://cordova.apache.org/) 3.x
-
-[Transit](http://ricostacruz.com/jquery.transit/) CSS transitions & transformations https://github.com/benbarnett/jQuery-Animate-Enhanced
-
-[highcharts](http://www.highcharts.com/)
-
-[bxslider](http://bxslider.com/)
-
-[iCheck](https://github.com/fronteed/iCheck/)
-
-[brute-select](https://github.com/grassator/jquery-brute-select)
-
-[Table plugin for jQuery](http://www.datatables.net/)
+iScroll 5.x, jquery.animate-enhanced, Transit, Highcharts, BxSlider, iCheck, Brute Select, DataTables
 
 
 ## 正在整理的
@@ -59,30 +38,74 @@ cdn.code.baidu.com 看到 oj.js
 A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 相当于bootstrap, 但组件更为丰富一些
 
-## 工具
-[表单验证](https://github.com/sofish/validator.js)
+[Pure.css](http://purecss.io/)
+CSS with a minimal footprint. Pure is ridiculously tiny. The entire set of modules clocks in at 4.0KB minified and gzipped. 
+* Base
+* Grids
+* Forms
+* Buttons
+* Tables
+* Menus
 
-[绑定input](http://refreshless.com/liblink/)
+
+## 工具
+[Undercore](http://underscorejs.org/)
+
+[moment](http://momentjs.com/)
+
+[crypto-js](http://code.google.com/p/crypto-js/)  https://github.com/brix/crypto-js
+
+[jStorage](https://github.com/andris9/jStorage)
+
+[Cordova](http://cordova.apache.org/) 3.x
+
+
+
+[wNumb](http://refreshless.com/wnumb/)
+格式化数字
+
+[Sugar.js](http://sugarjs.com/)
+可以参考其中一些工具方法的实现
+
+[Platform](https://github.com/bestiejs/platform.js)
+平台检测
 
 [SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager)
 A responsive state manager which allows you to run different javascript at different browser widths
 
-[Sugar.js 可以参考其中一些工具方法的实现](http://sugarjs.com/)
 
-[格式化数字](http://refreshless.com/wnumb/)
+[oj](https://github.com/ojjs/oj)
+build websites with objects
 
-[平台检测](https://github.com/bestiejs/platform.js)
+[绑定input](http://refreshless.com/liblink/)
 
-[build websites with objects](https://github.com/ojjs/oj)
+
+
 
 ### 基础库
-[jQuery](http://jquery.com)
+[RequireJS](http://requirejs.org/)
 
-[Zepto](http://zeptojs.com/)
+[jQuery](http://jquery.com) | [Zepto](http://zeptojs.com/)
 
-[Angular](https://angularjs.org/)
+[Backbone](http://backbonejs.org/) | [Angular](https://angularjs.org/) | [Avalon](https://github.com/RubyLouvre/avalon)
 
 [YUI](https://github.com/yui/yui3)
+
+
+### 表单验证
+[Validator](https://github.com/sofish/validator.js)
+
+[jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine)
+
+
+### 动画
+[jquery.animate-enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)
+Extend $.animate() to detect CSS transitions and convert animations automatically.
+
+[Transit](http://ricostacruz.com/jquery.transit/)
+CSS transitions & transformations
+
+
 
 
 ## UI
@@ -91,16 +114,7 @@ A responsive state manager which allows you to run different javascript at diffe
 [Sequence](https://github.com/IanLunn/Sequence)
 Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications
 
-[selectize](https://github.com/brianreavis/selectize.js)
-custom ```<select>``` UI control. It's useful for tagging, contact lists, country selectors
-
 [notify](https://github.com/sciactive/pnotify)
-
-[HTML5 input range slider element polyfill](https://github.com/andreruffert/rangeslider.js)
-
-[range](http://refreshless.com/nouislider/)
-
-[ng-range](https://github.com/darul75/angular-awesome-slider)
 
 [tip](https://github.com/qTip2/qTip2)
 
@@ -124,14 +138,9 @@ a tiny JS library that fixes the "website dragging" issue caused on iDevices
 [recorder](https://github.com/sofish/recorder.js)
 Using Capture API (HTML5) to capture video / photo via the camera of your device.
 
-
-[switch](https://github.com/nostalgiaz/bootstrap-switch)
-
 [3D](https://github.com/mrdoob/three.js/)
 
 [code editor](https://github.com/ajaxorg/ace)
-
-[lightbox](https://github.com/lokesh/lightbox2/) http://odyniec.net/projects/imgzoom/
 
 [D3.js](http://d3js.org/) 数据可视化, 自定义图形
 
@@ -141,26 +150,18 @@ Using Capture API (HTML5) to capture video / photo via the camera of your device
 [favicon](https://github.com/tommoor/tinycon)
 
 [图形/可视化](http://sigmajs.org/)
+
 http://paperjs.org
 
 
-
-[中文排版CSS](https://github.com/sofish/Typo.css)
-
-[Pure.css](http://purecss.io/)
-
 [提示信息](https://github.com/sofish/essage)
 
-[日历](https://github.com/ciaoca/cxCalendar)
-
-[对话框](http://aui.github.io/artDialog/)
 
 [图片懒加载](https://github.com/tuupola/jquery_lazyload/)
 [A very lightweight jQuery|Zepto plugin to lazy load images](https://github.com/luis-almeida/unveil)
 
 [文件上传](https://github.com/fex-team/webuploader)
 
-[表单验证](https://github.com/posabsolute/jQuery-Validation-Engine)
 
 [自动完成](http://twitter.github.io/typeahead.js/)
 
@@ -201,6 +202,37 @@ http://www.schillmania.com/projects/soundmanager2
 ### 图标
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 
+
+### 排版
+[typo.css](https://github.com/sofish/Typo.css)
+中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+
+
+### 表单组件
+[cxCalendar](https://github.com/ciaoca/cxCalendar)
+
+[iCheck](https://github.com/fronteed/iCheck/)
+
+[Switchery](https://github.com/abpetkov/switchery)
+iOS 7 style switches for your checkboxes
+
+[Brute Select](https://github.com/grassator/jquery-brute-select)
+Simple select implementation with customizable styles. It retains default browser behavior for dropdown list itself while making possible adjusting all aspects of collapsed view of select.
+
+[Selectize](https://github.com/brianreavis/selectize.js)
+custom ```<select>``` UI control. It's useful for tagging, contact lists, country selectors
+
+[Bootstrap Switch](https://github.com/nostalgiaz/bootstrap-switch)
+Turn checkboxes and radio buttons in toggle switches.
+
+[rangeslider](https://github.com/andreruffert/rangeslider.js)
+Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="range"> slider element.
+
+[range](http://refreshless.com/nouislider/)
+
+[ng-range](https://github.com/darul75/angular-awesome-slider)
+
+
 ### 单页(活动页)常用
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
 Smooth scrolling and smart navigation when user scrolls on one-page sites.
@@ -212,20 +244,52 @@ http://www.zcool.com.cn/special/znote2014/
 可用于幻灯片(可手势缩放), 滑动组件(图片或者DOM元素, 可实现滑动tab页), 支持水平或垂直滑动, 可用于做单页的活动推广页
 
 [slick](https://github.com/kenwheeler/slick/)
+* 功能超多
 * Responsive/CSS3/Swipe/Desktop mouse dragging
 * Infinite looping/Add, remove, filter & unfilter slides
 * Autoplay, dots, arrows, callbacks
 
 [OWL Carousel](https://github.com/OwlFonk/OwlCarousel)
-Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
+* 不支持垂直滑动
+* Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
+
+[BxSlider](http://bxslider.com/)
+* Responsive
+* Horizontal, vertical
+* Slides can contain images, video, or HTML content
+* Advanced touch / swipe support built-in
+* Uses CSS transitions for slide animation (native hardware acceleration!)
+* IE7+
 
 [Flux-Slider](https://github.com/joelambert/Flux-Slider)
 支持很多动画效果
 
+
+### 滚动条
+[iScroll](https://github.com/cubiq/iscroll/) 5.x
+主要用于移动端的Web App
+
+
 ### 弹窗
-[lightbox类](https://github.com/fancyapps/fancyBox)
+[artDialog](http://aui.github.io/artDialog/)
+经典的网页对话框组件
+* 普通对话框
+* 模态对话框
+* 气泡浮层
+
+[fancyBox](https://github.com/fancyapps/fancyBox)
 Mac风格的弹出窗口, 支持图片, iframe等等
 
+[Lightbox](https://github.com/lokesh/lightbox2/)
+http://odyniec.net/projects/imgzoom/
+
+
+### 图形
+[Highcharts](http://www.highcharts.com/)
+
+
+### 表格
+[DataTables](http://www.datatables.net/)
 
 
 ## 待测试的
