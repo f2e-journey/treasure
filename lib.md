@@ -57,7 +57,7 @@ CSS with a minimal footprint. Pure is ridiculously tiny. The entire set of modul
 
 [jStorage](https://github.com/andris9/jStorage)
 
-[Cordova](http://cordova.apache.org/) 3.x
+[Cordova](http://cordova.apache.org/)
 
 
 
