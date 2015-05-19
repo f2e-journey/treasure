@@ -153,6 +153,19 @@ v0.0.1 2015-5-5(还未正式发布版本)
 ## 工具
 * [Node.js](http://nodejs.org/)
 * [Grunt](http://gruntjs.com/)
+    常用Grunt任务(TODO添加更多常用任务)
+    https://github.com/Ensighten/grunt-spritesmith
+        sprite: {
+            all: {
+                src: 'all/imgs/*.jpg',
+                dest: 'all/imgs/_spritesheet.png',
+                destCss: 'all/imgs/a/sprites.css',
+                cssVarMap: function(sprite) {
+                    sprite.name = 'xxx-' + sprite.name;
+                }
+            }
+        }
+    
 * [RailsInstaller](http://railsinstaller.org/)
     
     顺带了[Git](http://www.git-scm.com/)
