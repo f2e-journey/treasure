@@ -158,6 +158,7 @@ module.exports = function(grunt) {
             }
         },
         // 自动雪碧图
+        // https://github.com/laoshu133/grunt-css-sprite
         sprite: {
             options: {
                 // sprite背景图源文件夹，只有匹配此路径才会处理，默认 images/slice/
