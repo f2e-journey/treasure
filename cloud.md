@@ -1,6 +1,9 @@
 开发一个应用一般需要什么云服务?
 在 风车里，我们使用了  Linode 作为应用服务器， Amazon S3 作为文件存储， 七牛作为静态文件 CDN， Pusher 作为实时消息推送系统， Olark 作为在线客服系统， FastSpring 作为付费订阅系统， SendCloud 和 SES 作为邮件发送服务商 
 
+[API Store_为开发者提供最全面的API服务](http://apistore.baidu.com/)
+
+
 应用服务器
 数据库服务器
 文件存储/CDN 
@@ -20,6 +23,9 @@
 [360网站安全监测]( http://webscan.360.cn/)
 [安全宝]( http://anquanbao.com/)
 
+
+## 云加速
+[百度云加速](http://next.su.baidu.com/)
 
 # CDN服务静态库
 [360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)
@@ -47,6 +53,7 @@ backend云服务, 一般提供开发一个应用所需的所有服务, 而不需
 在线开发跨平台HybridApp, 包含在线IDE, backend服务(Cloud Data, Cloud Files, Push, User, Cloud Code, Email Notifications), Analytics, Feedback, AppPrototyper
 [Monaca]( https://monaca.io/)
 和上面那个差不多
+[移动web应用开发整体解决方案 baidu clouda](http://clouda.baidu.com/)
 
 
 TODO
