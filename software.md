@@ -46,6 +46,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
     我最称手的兵器
     > _Cloud\Google\Code\sync-software\development\Sublime Text
+
+* [Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
+    > _Cloud\Tencent\QQMail\GoogleChromePortable
+
 * [BrowserSync](http://www.browsersync.io)
     
     不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
@@ -69,11 +73,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
     light static sever which will reload page when there are changes in server side! 
     > npm install f5 -g
-
-* [Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
-    > _Cloud\Tencent\QQMail\GoogleChromePortable
-
-* [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
 * [CssGaga](http://www.99css.com/cssgaga/)
     
@@ -144,7 +143,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [CasperJS](http://casperjs.org/)
     
     a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript
- 
+
+* [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
 ## 工具
 * [Node.js](http://nodejs.org/)
@@ -215,7 +215,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 ## 杂项
 * [Bower](http://bower.io/)
-* [component](http://component.github.io/)
+* [Component](http://component.github.io/)
 * [Yeoman](http://yeoman.io/)
 * [spm](http://spmjs.io/)
 * [Genymobile](http://www.genymobile.com/)
