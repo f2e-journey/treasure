@@ -75,14 +75,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 * [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
-* [ImageMagick](http://www.imagemagick.org/)
+* [CssGaga](http://www.99css.com/cssgaga/)
     
-    ImageMagick is a software suite to create, edit, compose, or convert bitmap images.
-    
-    主要用于制作CSS sprite
-    > _Cloud\Google\Gmail\ImageMagick
-    
-    > montage -background transparent -tile 2x5 -geometry +10+10 *.png *.gif *.jpg sprite.png
+    制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
+    > _Cloud\Google\Gmail\CssGaga
 
 * [weinre](http://people.apache.org/~pmuellr/weinre/)
     
