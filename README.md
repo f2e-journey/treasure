@@ -27,5 +27,5 @@
 * 性能
 * 响应式解决方案, 特别是图像的适配方案
 * Node.js
-* Full Stack developer(全端工程师)
+* Full Stack developer(全端工程师), 前后端融合
 * (Single Page) Web App
