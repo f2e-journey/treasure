@@ -20,8 +20,12 @@
 ## 前端趋势
 * 模块化 AMD CMD, 标准通用的模块化方案(ES6)
 * 组件化(标准, 通用), Web组件的标准化, 组件生态圈, 想想 npm 的发展势头
+* 前端单元测试, 功能测试, 多浏览器测试[karma](https://github.com/karma-runner/karma)
 * HTML5 CSS3 ES5 ES6
 * 工作流 Grunt Yeoman
 * 双向数据绑定 MVVM Angular
 * 性能
 * 响应式解决方案, 特别是图像的适配方案
+* Node.js
+* Full Stack developer(全端工程师)
+* (Single Page) Web App
