@@ -29,3 +29,4 @@
 * Node.js
 * Full Stack developer(全端工程师), 前后端融合
 * (Single Page) Web App
+* 前端安全
