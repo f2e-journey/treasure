@@ -225,6 +225,8 @@ custom ```<select>``` UI control. It's useful for tagging, contact lists, countr
 [Bootstrap Switch](https://github.com/nostalgiaz/bootstrap-switch)
 Turn checkboxes and radio buttons in toggle switches.
 
+[Plupload](https://github.com/moxiecode/plupload)
+
 [rangeslider](https://github.com/andreruffert/rangeslider.js)
 Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="range"> slider element.
 
