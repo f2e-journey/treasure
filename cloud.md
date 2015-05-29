@@ -12,16 +12,12 @@
 [七牛云存储](http://www.qiniu.com/)
 
 ## 监控与安全
-[阿里云监控(短信1000条)](http://console.aliyun.com/jiankong)
-    cdream01@sina.com/a123456
-[360网站服务监控(短信1000条)](http://jk.cloud.360.cn/Dashboard/index)
-    cdream01@sina.com/123456
-[百度云观测](http://ce.baidu.com/site/list)
-    ufologist/7220764
-[监控宝-网站监控神器](http://www.jiankongbao.com/) 
-
-[360网站安全监测]( http://webscan.360.cn/)
-[安全宝]( http://anquanbao.com/)
+* [阿里云监控(短信1000条)](http://console.aliyun.com/jiankong)
+* [360网站服务监控(短信1000条)](http://jk.cloud.360.cn/Dashboard/index)
+* [百度云观测](http://ce.baidu.com/site/list)
+* [监控宝-网站监控神器](http://www.jiankongbao.com/) 
+* [360网站安全监测]( http://webscan.360.cn/)
+* [安全宝]( http://anquanbao.com/)
 
 
 ## 云加速
