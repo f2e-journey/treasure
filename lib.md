@@ -249,6 +249,11 @@ Smooth scrolling and smart navigation when user scrolls on one-page sites.
 
 http://www.zcool.com.cn/special/znote2014/
 
+[One Page Scroll](https://github.com/peachananr/onepage-scroll)
+one page scroll website that allows users to scroll one page at a time. It is perfect for creating a website in which you want to present something to the viewers.
+
+[Zepto One Page Scroll](https://github.com/peachananr/zepto-onepage-scroll/)
+
 ### 滑动图片
 [iSlider](https://github.com/BE-FE/iSlider)
 可用于幻灯片(可手势缩放), 滑动组件(图片或者DOM元素, 可实现滑动tab页), 支持水平或垂直滑动, 可用于做单页的活动推广页
