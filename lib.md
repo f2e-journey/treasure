@@ -103,6 +103,8 @@ build websites with objects
 
 [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine)
 
+[jQuery Validation Plugin](https://github.com/jzaefferer/jquery-validation)
+
 
 ### 动画
 [jquery.animate-enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)
