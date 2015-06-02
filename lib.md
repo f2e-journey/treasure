@@ -1,3 +1,6 @@
+[js分页](http://luis-almeida.github.io/jPages/defaults.html)
+
+
 # 常用lib(TODO 分类整理)
 选择原则: Do one thing do good, K.I.S.S., micro, NO dependency, CN
 
