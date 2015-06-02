@@ -285,6 +285,12 @@ one page scroll website that allows users to scroll one page at a time. It is pe
 支持很多动画效果
 
 
+[Dragdealer](https://github.com/skidding/dragdealer)
+Drag-based JavaScript component, embracing endless UI solutions
+2d dragging and tapping, mouse and touch, ~12KB. No dependency.
+可以通过这个drag解决方案实现多种组件效果: slider, scroller, slide to unlock, carousel, zoom
+
+
 ### 滚动条
 [iScroll](https://github.com/cubiq/iscroll/) 5.x
 主要用于移动端的Web App
