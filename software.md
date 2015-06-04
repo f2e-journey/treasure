@@ -25,6 +25,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [AutoHotkey](http://www.autohotkey.com/)
         
         a scripting language for desktop automation
+* [Rolan](http://www.irolan.com/)
+    
+    管理所有软件的快捷方式
+    > _Cloud\Google\Code\sync-software\Rolan
 * [QTTabBar](http://qttabbar.wikidot.com/)
     
     增强文件管理器, 可以打开多个标签页
