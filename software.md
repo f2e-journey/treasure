@@ -143,7 +143,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
     > hexo server
 
+* [nginx](http://nginx.org)
+
 * [Apache](http://httpd.apache.org/)
+    
+    主要用ab工具做测试
 
 * [NW.js](https://github.com/nwjs/nw.js/)
     
