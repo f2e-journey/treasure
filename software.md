@@ -4,8 +4,6 @@
 更多的常用网站需要更新, 还有其他团队软件, 需要更新
 看是否有遗漏的什么软件
 
-[Brackets编辑器感觉不错, 再试试](http://brackets.io/)
-
 [Ghost博客平台不错, 试试看, 作为wordpress的取代品](https://ghost.org/)
 
 
@@ -239,3 +237,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
 ## 更多备选工具
 * [墨刀](https://modao.io/workspace) 原型设计
 * [Portable App](http://portableapps.com/apps)
+
+## 更多软件
+* [Portable software](http://portableapps.com/)
+* [我最喜欢的软件 Windows 版 - 小众软件](http://love.appinn.com/)
+* [善用佳软](http://xbeta.info/)
+* [异次元软件世界](http://www.iplaysoft.com/)
+* [精品绿色便携软件](http://www.portablesoft.org/)
