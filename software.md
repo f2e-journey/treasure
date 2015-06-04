@@ -236,10 +236,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 ## 更多备选工具
 * [墨刀](https://modao.io/workspace) 原型设计
-* [Portable App](http://portableapps.com/apps)
+
 
 ## 更多软件
-* [Portable software](http://portableapps.com/)
+* [Portable software](http://portableapps.com/apps)
 * [我最喜欢的软件 Windows 版 - 小众软件](http://love.appinn.com/)
 * [善用佳软](http://xbeta.info/)
 * [异次元软件世界](http://www.iplaysoft.com/)
