@@ -49,6 +49,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
     我最称手的兵器
     > _Cloud\Google\Code\sync-software\development\Sublime Text
 
+* [Brackets](http://brackets.io/)
+    
+    Inline Editors非常爽, 果断列入自己的兵器集
+    > _Cloud\Google\Code\sync-software\development\Brackets
+
 * [Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
     > _Cloud\Tencent\QQMail\GoogleChromePortable
 
