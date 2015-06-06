@@ -47,7 +47,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Calibre](http://calibre-ebook.com/)
     
     管理/转电子书格式, 例如pdf -> mobi
-
+    > _Cloud\Google\Gmail\Calibre Portable
 
 ## 前端开发
 * [Sublime Text](http://www.sublimetext.com/)
