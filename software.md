@@ -89,21 +89,54 @@ v0.0.1 2015-5-5(还未正式发布版本)
        light static sever which will reload page when there are changes in server side! 
        > npm install f5 -g
 
+    * [weinre](http://people.apache.org/~pmuellr/weinre/)
+    
+       weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
+       > npm install weinre -g
+    
+       > C:\Documents and Settings\Administrator\.weinre\server.properties
+    
+       > boundHost:    -all-
+    
+       > httpPort:     8081
+
+    * [harp](http://harpjs.com/)  
+    
+       The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
+
+       需要先安装 git 和 python
+       > npm install harp -g
+    
+       > harp init myproject
+    
+       > harp server myproject
+    
+       > harp compile myproject
+
+    * [Hexo](http://hexo.io)
+
+       A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台.
+       > npm install hexo-cli -g
+    
+       > hexo init blog
+    
+       > cd blog
+    
+       > npm install
+    
+       > hexo server
+
+    * [PackageTool](https://github.com/amfe/or.packagetool)
+
+       分析项目中所有的资源依赖, 把在线资源离线化, 将资源引用的url替换为离线化后的资源的相对路径, 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
+       > npm install -g packageapp
+    
+       > pack index.html
+
 * [CssGaga](http://www.99css.com/cssgaga/)
     
     制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
     > _Cloud\Google\Gmail\CssGaga
-
-* [weinre](http://people.apache.org/~pmuellr/weinre/)
-    
-    weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
-    > npm install weinre -g
-    
-    > C:\Documents and Settings\Administrator\.weinre\server.properties
-    
-    > boundHost:    -all-
-    
-    > httpPort:     8081
 
 * [Fiddler](http://www.telerik.com/fiddler)
     
@@ -123,32 +156,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on. 
     > _Cloud\Google\Gmail\ngrok.exe
 
-* [harp](http://harpjs.com/)  
-    
-    The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
-
-    需要先安装 git 和 python
-    > npm install harp -g
-    
-    > harp init myproject
-    
-    > harp server myproject
-    
-    > harp compile myproject
-
-* [Hexo](http://hexo.io)
-
-    A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台.
-    > npm install hexo-cli -g
-    
-    > hexo init blog
-    
-    > cd blog
-    
-    > npm install
-    
-    > hexo server
-
 * [nginx](http://nginx.org)
 
 * [Apache](http://httpd.apache.org/)
@@ -167,13 +174,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [CasperJS](http://casperjs.org/)
     
     a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript
-
-* [PackageTool](https://github.com/amfe/or.packagetool)
-
-    分析项目中所有的资源依赖, 把在线资源离线化, 将资源引用的url替换为离线化后的资源的相对路径, 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
-    > npm install -g packageapp
-    
-    > pack index.html
 
 * [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
