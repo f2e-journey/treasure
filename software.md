@@ -1,8 +1,11 @@
 # TODO
 2015-5-5
 看下还有什么软件是可以在电脑管家里面安装的?
-更多的常用网站需要更新, 还有其他团队软件, 需要更新
 看是否有遗漏的什么软件
+还差mactype没有放进来
+
+更多的常用网站需要更新, 还有其他团队软件, 需要更新
+
 
 [Ghost博客平台不错, 试试看, 作为wordpress的取代品](https://ghost.org/)
 
@@ -12,6 +15,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 ## 个人软件
 * [电脑管家](http://guanjia.qq.com/)
+    * [驱动精灵](http://www.drivergenius.com/)
     * [QQ](http://im.qq.com/download/)
     * [QQ输入法](http://qq.pinyin.cn/)
     * [QQ影音](http://player.qq.com/)
@@ -19,9 +23,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [WPS](http://www.wps.cn/product/wps2013/)
         
         替代MS-office
-    * [Calibre](http://calibre-ebook.com/)
-        
-        管理/转电子书格式, 例如pdf -> mobi
     * [AutoHotkey](http://www.autohotkey.com/)
         
         a scripting language for desktop automation
@@ -43,6 +44,9 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
     mind map
     > _Cloud\Tencent\QQMail\xmind-portable
+* [Calibre](http://calibre-ebook.com/)
+    
+    管理/转电子书格式, 例如pdf -> mobi
 
 
 ## 前端开发
