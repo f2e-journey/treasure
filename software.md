@@ -159,8 +159,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 * [ngrok](https://ngrok.com/)
     
-    Expose a local web server to the internet, ecurely expose a local web server to the internet.
-    ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on. 
+    I want to expose a local server behind a NAT or firewall to the internet.
+    ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on.
+    > ngrok http 3000 -subdomain myapp
+    
     > _Cloud\Google\Gmail\ngrok.exe
 
 * [nginx](http://nginx.org)
