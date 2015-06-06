@@ -60,12 +60,14 @@ v0.0.1 2015-5-5(还未正式发布版本)
     > _Cloud\Tencent\QQMail\GoogleChromePortable
 
 * [Node.js](http://nodejs.org/)
+    
     常用模块安装脚本
     > npm ls -depth 0 -g
 
     > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp -g
-
+    
     * [BrowserSync](http://www.browsersync.io)
+       
        不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
        > npm install browser-sync -g
        
@@ -75,15 +77,17 @@ v0.0.1 2015-5-5(还未正式发布版本)
        
        > browser-sync start --config bs-config.js
 
-     * [Web开发免刷新](http://getf5.com/)
-        支持HTML/CSS/JS自动刷新页面
-        > _Cloud\Google\Gmail\f5
+    * [Web开发免刷新](http://getf5.com/)
+       
+       支持HTML/CSS/JS自动刷新页面
+       > _Cloud\Google\Gmail\f5
         
-        PS: 原来使用的nodejs版本的F5(也就是下面这个), 但是自动刷新大概有5秒的延时, 只支持HTML页面的自动刷新, 不支持CSS/JS自动刷新, 不过用作本地静态服务器还是不错D.
+       PS: 原来使用的nodejs版本的F5(也就是下面这个), 但是自动刷新大概有5秒的延时, 只支持HTML页面的自动刷新, 不支持CSS/JS自动刷新, 不过用作本地静态服务器还是不错D.
 
-     * [F5](https://github.com/island205/f5)
-        light static sever which will reload page when there are changes in server side! 
-        > npm install f5 -g
+    * [F5](https://github.com/island205/f5)
+       
+       light static sever which will reload page when there are changes in server side! 
+       > npm install f5 -g
 
 * [CssGaga](http://www.99css.com/cssgaga/)
     
