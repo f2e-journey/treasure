@@ -59,6 +59,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
     > _Cloud\Tencent\QQMail\GoogleChromePortable
 
+* [CssGaga](http://www.99css.com/cssgaga/)
+    
+    制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
+    > _Cloud\Google\Gmail\CssGaga
+
 * [Node.js](http://nodejs.org/)
     
     常用模块安装脚本
@@ -66,6 +71,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
     > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp -g
     
+    * [Grunt](http://gruntjs.com/)
+       
+       JavaScript Task Runner 常用Grunt任务(TODO添加更多常用任务, 写到外面的grunt文件中)
+
     * [BrowserSync](http://www.browsersync.io)
        
        不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
@@ -100,7 +109,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
        > httpPort:     8081
 
-    * [harp](http://harpjs.com/)  
+    * [Harp](http://harpjs.com/)  
     
        The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
 
@@ -133,22 +142,20 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
        > pack index.html
 
-* [CssGaga](http://www.99css.com/cssgaga/)
+* [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
+
+    Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
     
-    制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
-    > _Cloud\Google\Gmail\CssGaga
+    常用PS扩展, 主要是方便切图
+    * [Cut&Slice me](http://www.cutandslice.me/)
+    * [Ink](http://ink.chrometaphore.com/)
+    * [Specctr](https://www.specctr.com/buy)
+    * [GuideGuide](http://guideguide.me/)
 
 * [Fiddler](http://www.telerik.com/fiddler)
     
     The free web debugging proxy for any browser, system or platform
     > _Cloud\Google\Gmail\Fiddler2
-
-* [Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865)
-    
-    Network Monitor 3.4 is the archive versioned tool for network traffic capture and protocol analysis. 
-
-* [Wireshark](https://www.wireshark.org/download.html)
-    > _Cloud\Google\Gmail\WiresharkPortable 
 
 * [ngrok](https://ngrok.com/)
     
@@ -175,36 +182,19 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
     a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript
 
-* [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
 ## 工具
-* [Grunt](http://gruntjs.com/)
-    常用Grunt任务(TODO添加更多常用任务)
-    https://github.com/Ensighten/grunt-spritesmith
-        sprite: {
-            all: {
-                src: 'all/imgs/*.jpg',
-                dest: 'all/imgs/_spritesheet.png',
-                destCss: 'all/imgs/a/sprites.css',
-                cssVarMap: function(sprite) {
-                    sprite.name = 'xxx-' + sprite.name;
-                }
-            }
-        }
-    
 * [RailsInstaller](http://railsinstaller.org/)
     
     顺带了[Git](http://www.git-scm.com/)
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
-* [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
-    Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
+* [Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865)
     
-    常用PS扩展, 主要是方便切图
-    * [Cut&Slice me](http://www.cutandslice.me/)
-    * [Ink](http://ink.chrometaphore.com/)
-    * [Specctr](https://www.specctr.com/buy)
-    * [GuideGuide](http://guideguide.me/)
+    Network Monitor 3.4 is the archive versioned tool for network traffic capture and protocol analysis. 
+
+* [Wireshark](https://www.wireshark.org/download.html)
+    > _Cloud\Google\Gmail\WiresharkPortable
 
 * [UIDesigner](http://uid.cdc.tencent.com/)
     
@@ -214,6 +204,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
     1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境. 现在版本收费了, 使用会有一些功能限制
     > _Cloud\Google\Gmail\MarkMan_1.40.7.air
+
+* [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
 * [TortoiseSVN](http://tortoisesvn.net/)
     > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
