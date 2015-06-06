@@ -148,6 +148,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Apache](http://httpd.apache.org/)
     
     主要用ab工具做测试
+    > ab -n 10 -c 5 http://qq.com/
+    
+    > abs -n 10 -c 5 https://mp.weixin.qq.com/
+    
+    > _Cloud\Google\Gmail\apache
 
 * [NW.js](https://github.com/nwjs/nw.js/)
     
