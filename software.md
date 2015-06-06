@@ -59,6 +59,12 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
     > _Cloud\Tencent\QQMail\GoogleChromePortable
 
+* [Node.js](http://nodejs.org/)
+    常用模块安装脚本
+    > npm ls -depth 0 -g
+
+    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp -g
+
 * [BrowserSync](http://www.browsersync.io)
     
     不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
@@ -172,7 +178,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
 ## 工具
-* [Node.js](http://nodejs.org/)
 * [Grunt](http://gruntjs.com/)
     常用Grunt任务(TODO添加更多常用任务)
     https://github.com/Ensighten/grunt-spritesmith
@@ -216,12 +221,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [禅道](http://www.zentao.net/)
     
     需求管理, bug跟踪, 版本计划
-
-
-## 安装脚本
-> npm ls -depth 0 -g
-
-> npm install browser-sync f5 grunt-cli harp hexo-cli weinre packageapp -g
 
 
 ## 备选项
