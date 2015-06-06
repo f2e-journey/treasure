@@ -186,10 +186,13 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 
 ## 工具
+* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [RailsInstaller](http://railsinstaller.org/)
     
     顺带了[Git](http://www.git-scm.com/)
-* [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+* [TortoiseSVN](http://tortoisesvn.net/)
+    > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
 
 * [Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865)
     
@@ -208,9 +211,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     > _Cloud\Google\Gmail\MarkMan_1.40.7.air
 
 * [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
-
-* [TortoiseSVN](http://tortoisesvn.net/)
-    > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
 
 * [禅道](http://www.zentao.net/)
     
