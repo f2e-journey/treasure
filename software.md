@@ -164,6 +164,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
     > _Cloud\Google\Gmail\ngrok.exe
 
 * [nginx](http://nginx.org)
+    
+    HTTP服务器, 主要用做反向代理和负载均衡
 
 * [Apache](http://httpd.apache.org/)
     
