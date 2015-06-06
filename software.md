@@ -129,7 +129,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [PackageTool](https://github.com/amfe/or.packagetool)
 
        分析项目中所有的资源依赖, 把在线资源离线化, 将资源引用的url替换为离线化后的资源的相对路径, 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
-       > npm install -g packageapp
+       > npm install packageapp -g
     
        > pack index.html
 
