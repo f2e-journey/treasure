@@ -192,7 +192,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [RailsInstaller](http://railsinstaller.org/)
     
     顺带了[Git](http://www.git-scm.com/)
-
+* [Python](https://www.python.org/downloads/)
 * [TortoiseSVN](http://tortoisesvn.net/)
     > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
 
