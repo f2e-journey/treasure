@@ -295,9 +295,17 @@ Drag-based JavaScript component, embracing endless UI solutions
 
 
 ### 滚动条
-[iScroll](https://github.com/cubiq/iscroll/) 5.x
+[iScroll](https://github.com/cubiq/iscroll/)
 主要用于移动端的Web App
 
+[custom scrollbar plugin](https://github.com/malihu/malihu-custom-scrollbar-plugin)
+Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc.
+
+[ScrollUp](https://github.com/markgoodyear/scrollup)
+create a customisable 'Scroll to top' feature that will work with any website
+
+[stickOnScroll](https://github.com/purtuga/jquery.stickOnScroll)
+Making elements fixed on the top of the page when scrolling and scrolling that item up when it a specified footer element gets "close".
 
 ### 弹窗
 [artDialog](http://aui.github.io/artDialog/)
