@@ -111,6 +111,8 @@ build websites with objects
 
 [jQuery Validation Plugin](https://github.com/jzaefferer/jquery-validation)
 
+[formvalidation](https://github.com/formvalidation/formvalidation)
+
 
 ### 动画
 [jquery.animate-enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)
@@ -119,6 +121,8 @@ Extend $.animate() to detect CSS transitions and convert animations automaticall
 [Transit](http://ricostacruz.com/jquery.transit/)
 CSS transitions & transformations
 
+[Animsition](https://github.com/blivesta/animsition/)
+css animated page transitions.
 
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
@@ -214,6 +218,8 @@ http://www.schillmania.com/projects/soundmanager2
 [easing](https://github.com/gdsmith/jquery.easing/)
 
 [pjax](https://github.com/welefen/pjax)
+[smoothState.js](https://github.com/miguel-perez/smoothState.js)
+Unobtrusive page transitions with jQuery
 
 ### 图标
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
@@ -250,6 +256,8 @@ Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="ran
 
 [ng-range](https://github.com/darul75/angular-awesome-slider)
 
+[clockpicker](https://github.com/weareoutman/clockpicker)
+
 
 ### 单页(活动页)常用
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
@@ -261,6 +269,18 @@ http://www.zcool.com.cn/special/znote2014/
 one page scroll website that allows users to scroll one page at a time. It is perfect for creating a website in which you want to present something to the viewers.
 
 [Zepto One Page Scroll](https://github.com/peachananr/zepto-onepage-scroll/)
+
+[fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+[fullscreen page scroll](https://github.com/alvarotrigo/pagePiling.js)
+
+[scrollme](https://github.com/nckprsn/scrollme)
+adding simple scrolling effects to web pages.
+[scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js)
+Easily reveal elements as they enter the viewport.
+
+[multiscroll](https://github.com/alvarotrigo/multiscroll.js)
+A simple plugin to create multi scrolling websites with two vertical scrolling panels.
+
 
 ### 滑动图片
 [iSlider](https://github.com/BE-FE/iSlider)
@@ -287,12 +307,18 @@ one page scroll website that allows users to scroll one page at a time. It is pe
 [Flux-Slider](https://github.com/joelambert/Flux-Slider)
 支持很多动画效果
 
+[simple-jQuery-slider](https://github.com/dirkgroenen/simple-jQuery-slider)
+Simple jQuery CSS3 slider. Simple to use and supports every browser! (IE7+)
+
 
 [Dragdealer](https://github.com/skidding/dragdealer)
 Drag-based JavaScript component, embracing endless UI solutions
 2d dragging and tapping, mouse and touch, ~12KB. No dependency.
 可以通过这个drag解决方案实现多种组件效果: slider, scroller, slide to unlock, carousel, zoom
 
+
+[skippr](https://github.com/austenpayan/skippr)
+A super simple slideshow plugin for jQuery.
 
 ### 滚动条
 [iScroll](https://github.com/cubiq/iscroll/)
@@ -307,6 +333,9 @@ create a customisable 'Scroll to top' feature that will work with any website
 [stickOnScroll](https://github.com/purtuga/jquery.stickOnScroll)
 Making elements fixed on the top of the page when scrolling and scrolling that item up when it a specified footer element gets "close".
 
+[Freewall](https://github.com/kombai/freewall)
+create many types of grid layouts: flexible layouts, images layouts, nested grid layouts, metro style layouts, pinterest like layouts.
+
 ### 弹窗
 [artDialog](http://aui.github.io/artDialog/)
 经典的网页对话框组件
@@ -320,6 +349,8 @@ Mac风格的弹出窗口, 支持图片, iframe等等
 [Lightbox](https://github.com/lokesh/lightbox2/)
 http://odyniec.net/projects/imgzoom/
 
+[Photopile JS](https://github.com/bigbhowell/Photopile-JS)
+image gallery that simulates a pile of photos scattered about on a surface, Thumbnails are draggable
 
 ### 图形
 [Highcharts](http://www.highcharts.com/)
@@ -327,6 +358,7 @@ http://odyniec.net/projects/imgzoom/
 
 ### 表格
 [DataTables](http://www.datatables.net/)
+[jQuery Bootgrid](https://github.com/rstaib/jquery-bootgrid)
 
 
 ## 待测试的
@@ -354,7 +386,7 @@ detects HTML5 and CSS3 features in the user’s browser
 
 [FitText](https://github.com/davatron5000/FitText.js)
 FitText makes font-sizes flexible. Use this plugin on your responsive design for ratio-based resizing of your headlines.
-
+[fontflex](https://github.com/nathco/jQuery.fontFlex)
 
 [Spritely](https://github.com/artlogicmedia/spritely)
 animating CSS sprites and dynamic scrolling backgrounds
