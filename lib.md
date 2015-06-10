@@ -92,6 +92,12 @@ build websites with objects
 [绑定input](http://refreshless.com/liblink/)
 
 
+[EventEmitter](https://github.com/Wolfy87/EventEmitter)
+Evented JavaScript for the browser
+
+[jquery-bridget](https://github.com/desandro/jquery-bridget)
+makes a jQuery plugin out of a constructor
+
 
 
 ### 基础库
@@ -124,12 +130,20 @@ CSS transitions & transformations
 [Animsition](https://github.com/blivesta/animsition/)
 css animated page transitions.
 
+[transitn](https://github.com/desandro/transitn)
+JS utility class for CSS transitions
+
+
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
 
 
 ## UI
 这里的还未整理分类
+
+[Draggabilly](https://github.com/desandro/draggabilly)
+Make that shiz draggable
+
 
 [Sequence](https://github.com/IanLunn/Sequence)
 Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications
@@ -188,8 +202,6 @@ http://paperjs.org
 [dnd sortable list](https://github.com/RubaXa/Sortable)
 
 [引导](https://github.com/usablica/intro.js)
-
-[瀑布流](https://github.com/germanysbestkeptsecret/Wookmark-jQuery)
 
 [drag and drop, resizing](https://github.com/taye/interact.js)
 
@@ -359,6 +371,28 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
 ### 表格
 [DataTables](http://www.datatables.net/)
 [jQuery Bootgrid](https://github.com/rstaib/jquery-bootgrid)
+
+
+### 多列布局(瀑布流)
+[Wookmark](https://github.com/germanysbestkeptsecret/Wookmark-jQuery)
+
+[isotope](https://github.com/metafizzy/isotope)
+Filter & sort magical layouts
+
+[Packery](https://github.com/metafizzy/packery)
+Bin-packing layout library
+
+[salvattore](https://github.com/rnmp/salvattore)
+A jQuery Masonry alternative with CSS-driven configuration.
+
+[Gridster.js](https://github.com/ducksboard/gridster.js)
+makes building intuitive draggable layouts from elements spanning multiple columns
+
+[gridstack.js](https://github.com/troolee/gridstack.js)
+for widget layout. This is drag-and-drop multi-column grid.
+
+[Shapeshift](https://github.com/McPants/jquery.shapeshift)
+A dynamic grid system with drag and drop functionality.
 
 
 ## 待测试的
