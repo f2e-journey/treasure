@@ -128,6 +128,9 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 2.亲加 亲加 | 移动应用沟通解决方案 (实时语音)
 
 
+## 代码托管
+* [Coding](https://coding.net/) 代码托管, 质量管理, 演示平台, 项目管理(任务, 讨论, 文档), WebIDE(Terminal)
+
 ## 邮件服务
 * [SendCloud](http://sendcloud.sohu.com/) 专业的邮件发送服务商
 
@@ -137,20 +140,31 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 
 
 ## 客服
-[美恰 - 实时在线的客户服务工具](http://meiqia.com)
-[待客 - 客户支持系统](https://daike.dk/)
+* [美恰](http://meiqia.com) 实时在线的客户服务工具
+* [待客](https://daike.dk/) 客户支持系统
 
 ## App加密
 * [梆梆](http://www.bangcle.com/)
 * [爱加密](http://www.ijiami.cn/)
+
+## App内测托管分发
+* [FIR.im](http://fir.im/)
+* [蒲公英](http://www.pgyer.com/)
 
 ## 支付
 * [Ping++](https://pingxx.com/)
 * http://beecloud.cn/
 
 
-## 团队
+## 团队(项目)管理
 * [Teambition](https://www.teambition.com) 最好的项目协作工具
 * [Tower](https://tower.im/) 管理他们的项目和团队
+* [TeamCola](https://teamcola.com) 最好用的团队工作日志软件
 * [白板](https://bearyboard.com) 设计图实时讨论工具
+* [风车](https://fengcheco.com) 团队协作任务
 * [绿狗](http://www.lvgou.com/) 安全你的创业
+* [App在线估价](http://www.chamobile.com/price.html)
+
+
+## 我喜欢的团队
+* [彩程设计](http://mycolorway.com/)
