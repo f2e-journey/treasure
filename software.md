@@ -157,9 +157,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
     常用PS扩展, 主要是方便切图
     * [Cut&Slice me](http://www.cutandslice.me/)
+    * [Cutterman](http://www.cutterman.cn/cutterman/feature)
     * [Ink](http://ink.chrometaphore.com/)
     * [Specctr](https://www.specctr.com/buy)
     * [GuideGuide](http://guideguide.me/)
+    * [LayerCraft](http://lab.rayps.com/lc/) Photoshop CC 以上才能用, 未测试
 
 * [Fiddler](http://www.telerik.com/fiddler)
     
