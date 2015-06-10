@@ -60,6 +60,13 @@ CSS with a minimal footprint. Pure is ridiculously tiny. The entire set of modul
 基于bootstrap开发的前端组件库, 同时也是一套设计规范
 国产的当然有很多符合国情的组件啦
 
+
+[framework7](http://www.idangero.us/framework7)
+Full Featured HTML Framework For Building iOS Apps
+http://www.idangero.us/template7
+
+
+
 ## 工具
 [Undercore](http://underscorejs.org/)
 
@@ -318,6 +325,11 @@ A simple plugin to create multi scrolling websites with two vertical scrolling p
 
 [Flux-Slider](https://github.com/joelambert/Flux-Slider)
 支持很多动画效果
+
+[Swiper](http://www.idangero.us/swiper/)
+感觉非常好的样式, 还需要对比其他的啊, 滑动组件太多了有没有啊
+http://www.idangero.us/ 上面还有一个收费的, N多3D动画的滑动组件
+
 
 [simple-jQuery-slider](https://github.com/dirkgroenen/simple-jQuery-slider)
 Simple jQuery CSS3 slider. Simple to use and supports every browser! (IE7+)
