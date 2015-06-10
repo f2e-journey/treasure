@@ -3,6 +3,10 @@
 
 [API Store_为开发者提供最全面的API服务](http://apistore.baidu.com/)
 
+http://www.rongcloud.cn/
+http://www.ucpaas.com/
+
+
 
 应用服务器
 数据库服务器
@@ -11,6 +15,7 @@
 # 应用服务器
 * [美团云](https://mos.meituan.com/)
 * [七牛云存储](http://www.qiniu.com/)
+* [UCloud](http://www.ucloud.cn/)
 
 ## 监控与安全
 * [阿里云监控(短信1000条)](http://console.aliyun.com/jiankong)
@@ -95,6 +100,7 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 2.班墨云测试 全球首款智能云测试系统
 3.DroidPilot Android自动化测试工具DroidPilot
 4.摩测 e世博,e世博注册首选平台
+5. http://www.testbird.com/
 
 应用发布
 1.一键云 关于我们
@@ -134,8 +140,17 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 [美恰 - 实时在线的客户服务工具](http://meiqia.com)
 [待客 - 客户支持系统](https://daike.dk/)
 
+## App加密
+* [梆梆](http://www.bangcle.com/)
+* [爱加密](http://www.ijiami.cn/)
+
+## 支付
+* [Ping++](https://pingxx.com/)
+* http://beecloud.cn/
+
 
 ## 团队
 * [Teambition](https://www.teambition.com) 最好的项目协作工具
 * [Tower](https://tower.im/) 管理他们的项目和团队
 * [白板](https://bearyboard.com) 设计图实时讨论工具
+* [绿狗](http://www.lvgou.com/) 安全你的创业
