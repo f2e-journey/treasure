@@ -157,13 +157,18 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 
 
 ## 团队(项目)管理
+* [今目标](http://jingoal.com) 企业工作平台
 * [Teambition](https://www.teambition.com) 最好的项目协作工具
 * [Tower](https://tower.im/) 管理他们的项目和团队
 * [TeamCola](https://teamcola.com) 最好用的团队工作日志软件
+* [Worktile](https://worktile.com) 团队协同工具
 * [白板](https://bearyboard.com) 设计图实时讨论工具
 * [风车](https://fengcheco.com) 团队协作任务
+* [Trello](https://trello.com/) 任务板 http://www.vbuluo.com 山寨版 https://jiandan.biz
+* [简聊](https://talk.ai) 一切从话题开始
 * [绿狗](http://www.lvgou.com/) 安全你的创业
 * [App在线估价](http://www.chamobile.com/price.html)
+* [iWorker工作家](http://home.iworker.cn/) 企业移动管理软件
 
 
 ## 我喜欢的团队
