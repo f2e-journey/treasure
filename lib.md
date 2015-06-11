@@ -27,8 +27,6 @@ iScroll 5.x, jquery.animate-enhanced, Transit, Highcharts, BxSlider, iCheck, Bru
 
 
 ## 正在整理的
-[滚动动画](https://github.com/matthieua/WOW)
-
 [timeline](https://github.com/NUKnightLab/TimelineJS)
 
 [tag input](https://github.com/max-favilli/tagmanager)
@@ -248,36 +246,6 @@ Unobtrusive page transitions with jQuery
 [typo.css](https://github.com/sofish/Typo.css)
 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 
-
-### 表单组件
-[cxCalendar](https://github.com/ciaoca/cxCalendar)
-
-[iCheck](https://github.com/fronteed/iCheck/)
-
-[Switchery](https://github.com/abpetkov/switchery)
-iOS 7 style switches for your checkboxes
-
-[Brute Select](https://github.com/grassator/jquery-brute-select)
-Simple select implementation with customizable styles. It retains default browser behavior for dropdown list itself while making possible adjusting all aspects of collapsed view of select.
-
-[Selectize](https://github.com/brianreavis/selectize.js)
-custom ```<select>``` UI control. It's useful for tagging, contact lists, country selectors
-
-[Bootstrap Switch](https://github.com/nostalgiaz/bootstrap-switch)
-Turn checkboxes and radio buttons in toggle switches.
-
-[Plupload](https://github.com/moxiecode/plupload)
-
-[rangeslider](https://github.com/andreruffert/rangeslider.js)
-Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="range"> slider element.
-
-[range](http://refreshless.com/nouislider/)
-
-[ng-range](https://github.com/darul75/angular-awesome-slider)
-
-[clockpicker](https://github.com/weareoutman/clockpicker)
-
-
 ### 单页(活动页)常用
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
 Smooth scrolling and smart navigation when user scrolls on one-page sites.
@@ -291,6 +259,9 @@ one page scroll website that allows users to scroll one page at a time. It is pe
 
 [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 animate based on scroll position
+
+[WOW.js](https://github.com/matthieua/WOW)
+Reveal CSS animation as you scroll down a page
 
 [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
 
@@ -348,6 +319,36 @@ Drag-based JavaScript component, embracing endless UI solutions
 
 [skippr](https://github.com/austenpayan/skippr)
 A super simple slideshow plugin for jQuery.
+
+
+### 表单组件
+[cxCalendar](https://github.com/ciaoca/cxCalendar)
+
+[iCheck](https://github.com/fronteed/iCheck/)
+
+[Switchery](https://github.com/abpetkov/switchery)
+iOS 7 style switches for your checkboxes
+
+[Brute Select](https://github.com/grassator/jquery-brute-select)
+Simple select implementation with customizable styles. It retains default browser behavior for dropdown list itself while making possible adjusting all aspects of collapsed view of select.
+
+[Selectize](https://github.com/brianreavis/selectize.js)
+custom ```<select>``` UI control. It's useful for tagging, contact lists, country selectors
+
+[Bootstrap Switch](https://github.com/nostalgiaz/bootstrap-switch)
+Turn checkboxes and radio buttons in toggle switches.
+
+[Plupload](https://github.com/moxiecode/plupload)
+
+[rangeslider](https://github.com/andreruffert/rangeslider.js)
+Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="range"> slider element.
+
+[range](http://refreshless.com/nouislider/)
+
+[ng-range](https://github.com/darul75/angular-awesome-slider)
+
+[clockpicker](https://github.com/weareoutman/clockpicker)
+
 
 ### 滚动条
 [iScroll](https://github.com/cubiq/iscroll/)
