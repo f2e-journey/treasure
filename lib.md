@@ -199,6 +199,11 @@ http://paperjs.org
 [图片懒加载](https://github.com/tuupola/jquery_lazyload/)
 [A very lightweight jQuery|Zepto plugin to lazy load images](https://github.com/luis-almeida/unveil)
 
+
+[Echo.js](https://github.com/toddmotto/echo)
+Echo is a standalone JavaScript lazy-loading image micro-library. Echo is fast, 2KB, and uses HTML5 data-* attributes for simple.
+
+
 [文件上传](https://github.com/fex-team/webuploader)
 
 
@@ -237,6 +242,16 @@ http://www.schillmania.com/projects/soundmanager2
 [pjax](https://github.com/welefen/pjax)
 [smoothState.js](https://github.com/miguel-perez/smoothState.js)
 Unobtrusive page transitions with jQuery
+
+[SlipHover](https://github.com/wayou/SlipHover)
+SlipHover apply direction aware hover animation for the caption of an image.
+
+[vTicker](https://github.com/johnantoni/jquery.vticker)
+[BreakingNews – jQuery间歇滚动插件](http://www.dowebok.com/121.html)
+
+[SlotMachine](http://www.dowebok.com/91.html)
+SlotMachine 是一个基于 jQuery 的插件，它能够制作类似老虎机的效果
+
 
 ### 图标
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
@@ -320,6 +335,19 @@ Drag-based JavaScript component, embracing endless UI solutions
 [skippr](https://github.com/austenpayan/skippr)
 A super simple slideshow plugin for jQuery.
 
+[ResponsiveSlides](https://github.com/viljamis/ResponsiveSlides.js)
+Simple & lightweight responsive slider plugin (in 1kb)
+
+[Pogo Slider](https://github.com/mdgriffin/pogo-slider)
+很多Slide Transitions和Element Animations
+
+[All-In-One Banner](http://www.responsivejqueryslider.com/)
+multiple effects, animated text
+
+[hero-slider](http://codyhouse.co/gem/hero-slider/)
+
+[Orbit](http://foundation.zurb.com/docs/components/orbit.html)
+
 
 ### 表单组件
 [cxCalendar](https://github.com/ciaoca/cxCalendar)
@@ -348,6 +376,9 @@ Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="ran
 [ng-range](https://github.com/darul75/angular-awesome-slider)
 
 [clockpicker](https://github.com/weareoutman/clockpicker)
+
+[jquery_chained](https://github.com/tuupola/jquery_chained)
+Chained Selects for jQuery and Zepto.
 
 
 ### 滚动条
@@ -378,6 +409,9 @@ Mac风格的弹出窗口, 支持图片, iframe等等
 
 [Lightbox](https://github.com/lokesh/lightbox2/)
 http://odyniec.net/projects/imgzoom/
+
+[baguetteBox](https://github.com/feimosi/baguetteBox.js)
+Simple and easy to use lightbox script. no dependencies required, Around 2.3KB gzipped
 
 [Photopile JS](https://github.com/bigbhowell/Photopile-JS)
 image gallery that simulates a pile of photos scattered about on a surface, Thumbnails are draggable
@@ -525,6 +559,9 @@ http://animajs.org/#standard/
 
 [CDN](http://cdn.code.baidu.com/)
 从CDN中搜集各种js/css框架找到合适的
+
+[CODYHOUSE](http://codyhouse.co/)
+A free library of HTML, CSS, JS nuggets
 
 
 ## 非WEB前端
