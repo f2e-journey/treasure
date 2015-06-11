@@ -161,6 +161,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [Ink](http://ink.chrometaphore.com/)
     * [Specctr](https://www.specctr.com/buy)
     * [GuideGuide](http://guideguide.me/)
+    * [Layrs Control](http://madebyvadim.com/layrs/)
     * [LayerCraft](http://lab.rayps.com/lc/) Photoshop CC 以上才能用, 未测试
 
 * [Fiddler](http://www.telerik.com/fiddler)
@@ -227,6 +228,9 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
     原型设计
 * [Justinmind Prototyper](http://www.justinmind.com/)
+* [PxCook像素大厨](http://www.fancynode.com.cn/pxcook/home)
+    
+    不再为标注切图而烦恼, 可用来替代MarkMan
 * [Mark Man](http://getmarkman.com/)
     
     1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境. 现在版本收费了, 使用会有一些功能限制
