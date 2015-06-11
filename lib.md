@@ -289,11 +289,16 @@ one page scroll website that allows users to scroll one page at a time. It is pe
 
 [Zepto One Page Scroll](https://github.com/peachananr/zepto-onepage-scroll/)
 
+[ScrollMagic](https://github.com/janpaepke/ScrollMagic)
+animate based on scroll position
+
 [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
+
 [fullscreen page scroll](https://github.com/alvarotrigo/pagePiling.js)
 
 [scrollme](https://github.com/nckprsn/scrollme)
 adding simple scrolling effects to web pages.
+
 [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js)
 Easily reveal elements as they enter the viewport.
 
