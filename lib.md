@@ -150,6 +150,22 @@ JS utility class for CSS transitions
 Make that shiz draggable
 
 
+[jquery.dad.js](https://github.com/williammustaffa/jquery.dad.js)
+* Horizontal D&D
+* Vertical D&D
+* Multiline D&D
+* Set draggable child area:
+* Droppable areas
+
+
+[tabulous.js](https://github.com/aarondo/tabulous.js)
+A jQuery tabs module for todays web!
+
+
+[Covering-Bad](https://github.com/seyedi/Covering-Bad)
+A simple jQuery Plugin for cover an item by another item with dragging ability
+
+
 [Sequence](https://github.com/IanLunn/Sequence)
 Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications
 
