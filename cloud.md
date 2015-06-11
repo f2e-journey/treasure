@@ -142,6 +142,7 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 ## 客服
 * [美恰](http://meiqia.com) 实时在线的客户服务工具
 * [待客](https://daike.dk/) 客户支持系统
+* [逸创云客服](http://kf5.com/) 
 
 ## App加密
 * [梆梆](http://www.bangcle.com/)
