@@ -146,6 +146,10 @@ JS utility class for CSS transitions
 ## UI
 这里的还未整理分类
 
+[jquery-fracs](https://github.com/lrsjng/jquery-fracs)
+determines some fractions for an HTML element (visible fraction, fraction of the viewport, ...) and also provides the coordinates of these areas. As a bonus there is a page outline feature as seen on the right.
+
+
 [Draggabilly](https://github.com/desandro/draggabilly)
 Make that shiz draggable
 
@@ -368,6 +372,9 @@ multiple effects, animated text
 ### 表单组件
 [cxCalendar](https://github.com/ciaoca/cxCalendar)
 
+[Pikaday](https://github.com/dbushell/Pikaday) 日历
+
+
 [iCheck](https://github.com/fronteed/iCheck/)
 
 [Switchery](https://github.com/abpetkov/switchery)
@@ -412,6 +419,10 @@ Making elements fixed on the top of the page when scrolling and scrolling that i
 
 [Freewall](https://github.com/kombai/freewall)
 create many types of grid layouts: flexible layouts, images layouts, nested grid layouts, metro style layouts, pinterest like layouts.
+
+
+[jquery-scrollpanel](https://github.com/lrsjng/jquery-scrollpanel)
+
 
 ### 弹窗
 [artDialog](http://aui.github.io/artDialog/)
