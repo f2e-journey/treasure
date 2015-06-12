@@ -1,7 +1,7 @@
 开发一个应用一般需要什么云服务?
 在 风车里，我们使用了  Linode 作为应用服务器， Amazon S3 作为文件存储， 七牛作为静态文件 CDN， Pusher 作为实时消息推送系统， Olark 作为在线客服系统， FastSpring 作为付费订阅系统， SendCloud 和 SES 作为邮件发送服务商 
 
-[API Store_为开发者提供最全面的API服务](http://apistore.baidu.com/)
+
 
 http://www.rongcloud.cn/
 http://www.ucpaas.com/
@@ -190,3 +190,8 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 
 ## 我喜欢的团队
 * [彩程设计](http://mycolorway.com/)
+
+
+## 参考
+* [API Store](http://apistore.baidu.com/) 为开发者提供最全面的API服务
+* [DevStore](http://www.devstore.cn/) 
