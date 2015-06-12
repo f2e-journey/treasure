@@ -24,6 +24,7 @@ http://www.ucpaas.com/
 * [监控宝-网站监控神器](http://www.jiankongbao.com/) 
 * [360网站安全监测]( http://webscan.360.cn/)
 * [安全宝]( http://anquanbao.com/)
+* [安全狗](http://www.safedog.cn/)
 
 
 ## 云加速
