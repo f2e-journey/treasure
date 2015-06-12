@@ -560,10 +560,12 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 
 
 ## 游戏类
-[Cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
-[iio Engine](http://iioengine.com)
-[Box2D](http://box2d.org/)
-[白鹭](https://github.com/egret-labs/egret-core)
+* [Cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
+* [iio Engine](http://iioengine.com)
+* [Box2D](http://box2d.org/)
+* [白鹭](https://github.com/egret-labs/egret-core)
+* [lufylegend](https://github.com/lufylegend/lufylegend.js) 仿ActionScript3.0的语法
+* [Flash2x](http://www.flash2x.org/) 支持Flash项目到HTML5项目或App的跨平台高效转换工具
 
 ## boilerplate
 [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
