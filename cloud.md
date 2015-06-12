@@ -28,12 +28,24 @@ http://www.ucpaas.com/
 
 ## 云加速
 [百度云加速](http://next.su.baidu.com/)
+加速(智能DNS解析, CDN)/云WAF/DDos/SEO
+
+[知道创宇 - 加速乐](https://www.jiasule.com/)
+
+[cloudflare](https://www.cloudflare.com/)
+
+## DNS
+[DNSLA](https://www.dns.la/)
+[八戒DNS](http://www.8jdns.com/)
+
 
 # CDN服务静态库
 [360网站卫士常用前端公共库CDN服务](http://libs.useso.com/)
 [cdnjs]( http://www.cdnjs.cn/)
 [bootcdn](http://www.bootcdn.cn/)
 [baiducdn](http://cdn.code.baidu.com)
+
+[CDN贝](http://cdnbest.com/)
 
 # BaaS 后端云
 backend云服务, 一般提供开发一个应用所需的所有服务, 而不需要自己搞服务器
