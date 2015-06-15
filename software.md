@@ -239,9 +239,20 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 * [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
+
+
+## 项目管理
 * [禅道](http://www.zentao.net/)
     
-    需求管理, bug跟踪, 版本计划
+    需求管理, bug跟踪, 版本计划, [集成禅道和svn](http://www.zentao.net/book/zentaopmshelp/137.html), [禅道配置https协议的svn](http://www.zentao.net/thread/83526.html), 当然还可以设置SVN必须在提交时填写提交日志
+
+* [Trac](http://trac.edgewall.org/)
+    
+    Trac is an enhanced wiki and issue tracking system for software development projects
+
+* [Redmine](http://www.redmine.org/)
+    
+    Redmine is a flexible project management web application
 
 
 ## 备选项
