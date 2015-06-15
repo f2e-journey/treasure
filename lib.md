@@ -1,5 +1,8 @@
 [js分页](http://luis-almeida.github.io/jPages/defaults.html)
 
+[Piwik](http://piwik.org/)
+open-source analytics platform
+
 http://unslider.com/
 http://www.woothemes.com/flexslider/
 
@@ -63,6 +66,13 @@ CSS with a minimal footprint. Pure is ridiculously tiny. The entire set of modul
 Full Featured HTML Framework For Building iOS Apps
 http://www.idangero.us/template7
 
+[GMU](https://github.com/fex-team/gmu)
+基于zepto的ui组件库，适用于移动端由百度GMU小组开发
+
+[AdminLTE](https://www.almsaeedstudio.com/)
+Dashboard & Control Panel Template
+* Responsive admin template
+* Built with Bootstrap 3
 
 
 ## 工具
@@ -103,7 +113,8 @@ Evented JavaScript for the browser
 [jquery-bridget](https://github.com/desandro/jquery-bridget)
 makes a jQuery plugin out of a constructor
 
-
+[director](https://github.com/flatiron/director)
+a tiny and isomorphic URL router
 
 ### 基础库
 [RequireJS](http://requirejs.org/)
@@ -224,9 +235,6 @@ http://paperjs.org
 Echo is a standalone JavaScript lazy-loading image micro-library. Echo is fast, 2KB, and uses HTML5 data-* attributes for simple.
 
 
-[文件上传](https://github.com/fex-team/webuploader)
-
-
 [自动完成](http://twitter.github.io/typeahead.js/)
 
 [dnd sortable list](https://github.com/RubaXa/Sortable)
@@ -272,6 +280,9 @@ SlipHover apply direction aware hover animation for the caption of an image.
 [SlotMachine](http://www.dowebok.com/91.html)
 SlotMachine 是一个基于 jQuery 的插件，它能够制作类似老虎机的效果
 
+[pace](https://github.com/HubSpot/pace/)
+An automatic web page progress bar.
+
 
 ### 图标
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
@@ -310,6 +321,8 @@ Easily reveal elements as they enter the viewport.
 
 [multiscroll](https://github.com/alvarotrigo/multiscroll.js)
 A simple plugin to create multi scrolling websites with two vertical scrolling panels.
+
+[jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 
 
 ### 滑动图片
@@ -391,6 +404,9 @@ Turn checkboxes and radio buttons in toggle switches.
 
 [Plupload](https://github.com/moxiecode/plupload)
 
+[webuploader](https://github.com/fex-team/webuploader/)
+以HTML5为主，FLASH为辅的现代文件上传组件
+
 [rangeslider](https://github.com/andreruffert/rangeslider.js)
 Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="range"> slider element.
 
@@ -402,6 +418,11 @@ Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="ran
 
 [jquery_chained](https://github.com/tuupola/jquery_chained)
 Chained Selects for jQuery and Zepto.
+
+[UEditor](http://ueditor.baidu.com/website/)
+
+[Simditor](https://github.com/mycolorway/simditor)
+富文本编辑器, 出自彩程设计, 还有其他表单组件
 
 
 ### 滚动条
@@ -444,12 +465,13 @@ Simple and easy to use lightbox script. no dependencies required, Around 2.3KB g
 image gallery that simulates a pile of photos scattered about on a surface, Thumbnails are draggable
 
 ### 图形
-[Highcharts](http://www.highcharts.com/)
-
+* [Highcharts](http://www.highcharts.com/)
+* [jsPlumb](https://github.com/sporritt/jsplumb/) Visual connectivity
+* [Kity Minder](https://github.com/fex-team/kityminder) 百度脑图
 
 ### 表格
-[DataTables](http://www.datatables.net/)
-[jQuery Bootgrid](https://github.com/rstaib/jquery-bootgrid)
+* [DataTables](http://www.datatables.net/)
+* [jQuery Bootgrid](https://github.com/rstaib/jquery-bootgrid)
 
 
 ### 多列布局(瀑布流)
