@@ -116,6 +116,17 @@ makes a jQuery plugin out of a constructor
 [director](https://github.com/flatiron/director)
 a tiny and isomorphic URL router
 
+* [Layzr.js](https://github.com/callmecavs/layzr.js)
+  dependency-free library for lazy loading img or iframe, 2kb
+* [jquery_lazyload](https://github.com/tuupola/jquery_lazyload/)
+* [unveil.js](https://github.com/luis-almeida/unveil)
+  A very lightweight jQuery|Zepto plugin to lazy load images, with retina displays - less than 1k.
+
+
+[Echo.js](https://github.com/toddmotto/echo)
+Echo is a standalone JavaScript lazy-loading image micro-library. Echo is fast, 2KB, and uses HTML5 data-* attributes for simple.
+
+
 ### 基础库
 [RequireJS](http://requirejs.org/)
 
@@ -225,14 +236,6 @@ http://paperjs.org
 
 
 [提示信息](https://github.com/sofish/essage)
-
-
-[图片懒加载](https://github.com/tuupola/jquery_lazyload/)
-[A very lightweight jQuery|Zepto plugin to lazy load images](https://github.com/luis-almeida/unveil)
-
-
-[Echo.js](https://github.com/toddmotto/echo)
-Echo is a standalone JavaScript lazy-loading image micro-library. Echo is fast, 2KB, and uses HTML5 data-* attributes for simple.
 
 
 [自动完成](http://twitter.github.io/typeahead.js/)
