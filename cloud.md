@@ -38,6 +38,7 @@ http://www.ucpaas.com/
 [cloudflare](https://www.cloudflare.com/)
 
 ## DNS
+[DNSPod](https://www.dnspod.cn/)
 [DNSLA](https://www.dns.la/)
 [八戒DNS](http://www.8jdns.com/)
 
