@@ -154,6 +154,18 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 [金数据](https://jinshuju.net)
 
 
+## 评论
+[多说](http://duoshuo.com/)
+
+[JiaThis](http://www.jiathis.com/)
+分享按钮, 社会化评论(友言), 猜你喜欢
+
+[搜狐-畅言](http://changyan.kuaizhan.com/)
+
+## 网站分析(统计)
+[百度统计](http://tongji.baidu.com/)
+
+
 ## 客服
 * [美恰](http://meiqia.com) 实时在线的客户服务工具
 * [待客](https://daike.dk/) 客户支持系统
