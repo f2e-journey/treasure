@@ -268,6 +268,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [GitHub](https://github.com/ufologist)
 * [GitBook](https://www.gitbook.com/)
 
+## 在线工具
+* [HTML5 Please](http://html5please.com/)
+* [CSS3, Please](http://css3please.com/)
+* [Can I use](http://caniuse.com/)
+
 
 ## 杂项
 * [Bower](http://bower.io/)
