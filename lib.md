@@ -432,6 +432,8 @@ Chained Selects for jQuery and Zepto.
 [iScroll](https://github.com/cubiq/iscroll/)
 主要用于移动端的Web App
 
+[jQuery.NiceScroll](https://github.com/inuyaksa/jquery.nicescroll)
+
 [custom scrollbar plugin](https://github.com/malihu/malihu-custom-scrollbar-plugin)
 Highly customizable custom scrollbar jQuery plugin, featuring vertical/horizontal scrollbars, scrolling momentum, mouse-wheel, keyboard and touch support etc.
 
