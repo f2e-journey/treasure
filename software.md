@@ -78,7 +78,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     常用模块安装脚本
     > npm ls -depth 0 -g
 
-    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp -g
+    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp flex-combo anyproxy -g
     
     * [Grunt](http://gruntjs.com/)
        
@@ -106,6 +106,14 @@ v0.0.1 2015-5-5(还未正式发布版本)
        
        light static sever which will reload page when there are changes in server side! 
        > npm install f5 -g
+
+    * [Flex Combo](https://github.com/wayfind/flex-combo)
+       
+       Combo技术是在服务端提供合并多个文件请求在一个响应中的技术, Flex Combo是在开发环境模拟实现了此功能的服务器，目的是方便前端开发调试。约等于一个支持Combo语法，只能访问js、css、iconfont等静态资源的Web服务器
+      
+    * [AnyProxy](https://github.com/alibaba/anyproxy)
+       
+       A fully configurable proxy in NodeJS, which can handle HTTPS requests perfectly
 
     * [weinre](http://people.apache.org/~pmuellr/weinre/)
     
