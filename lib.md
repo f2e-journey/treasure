@@ -427,6 +427,9 @@ Chained Selects for jQuery and Zepto.
 [Simditor](https://github.com/mycolorway/simditor)
 富文本编辑器, 出自彩程设计, 还有其他表单组件
 
+[jQuery Form](https://github.com/malsup/form)
+unobtrusively upgrade HTML forms to use AJAX
+
 
 ### 滚动条
 [iScroll](https://github.com/cubiq/iscroll/)
