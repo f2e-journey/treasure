@@ -126,6 +126,9 @@ a tiny and isomorphic URL router
 [Echo.js](https://github.com/toddmotto/echo)
 Echo is a standalone JavaScript lazy-loading image micro-library. Echo is fast, 2KB, and uses HTML5 data-* attributes for simple.
 
+[Hammer.js](https://github.com/hammerjs/hammer.js)
+recognize gestures made by touch, mouse and pointerEvents. It doesn't have any dependencies
+
 
 ### 基础库
 [RequireJS](http://requirejs.org/)
