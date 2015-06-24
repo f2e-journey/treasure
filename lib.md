@@ -74,6 +74,12 @@ Dashboard & Control Panel Template
 * Responsive admin template
 * Built with Bootstrap 3
 
+[Motion](https://github.com/tgideas/motion)
+基于ZeptoJS，为移动终端Web应用量身定制的组件库，重点开发结合HTML5新特征的创新实用组件
+
+[FrozenUI](https://github.com/frozenui/frozenui)
+腾讯移动端UI框架, FrozenUI的CSS组件库,基于腾讯手Q样式规范
+
 
 ## 工具
 [Undercore](http://underscorejs.org/)
@@ -317,6 +323,8 @@ Reveal CSS animation as you scroll down a page
 
 [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
 
+[zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)
+
 [fullscreen page scroll](https://github.com/alvarotrigo/pagePiling.js)
 
 [scrollme](https://github.com/nckprsn/scrollme)
@@ -386,6 +394,8 @@ multiple effects, animated text
 [hero-slider](http://codyhouse.co/gem/hero-slider/)
 
 [Orbit](http://foundation.zurb.com/docs/components/orbit.html)
+
+[jQuery.Switchable](https://github.com/jsw0528/jQuery.Switchable)
 
 
 ### 表单组件
@@ -624,6 +634,8 @@ http://animajs.org/#standard/
 
 [CODYHOUSE](http://codyhouse.co/)
 A free library of HTML, CSS, JS nuggets
+
+[开放静态文件 CDN](http://staticfile.org/)
 
 
 ## 非WEB前端
