@@ -87,8 +87,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [BrowserSync](http://www.browsersync.io)
        
        不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
-       > npm install browser-sync -g
-       
        > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
        
        > browser-sync init
@@ -105,7 +103,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [F5](https://github.com/island205/f5)
        
        light static sever which will reload page when there are changes in server side! 
-       > npm install f5 -g
 
     * [Flex Combo](https://github.com/wayfind/flex-combo)
        
@@ -118,8 +115,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [weinre](http://people.apache.org/~pmuellr/weinre/)
     
        weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone.
-       > npm install weinre -g
-    
        > C:\Documents and Settings\Administrator\.weinre\server.properties
     
        > boundHost:    -all-
@@ -131,8 +126,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
        The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
 
        需要先安装 git 和 python
-       > npm install harp -g
-    
        > harp init myproject
     
        > harp server myproject
@@ -142,8 +135,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [Hexo](http://hexo.io)
 
        A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台.
-       > npm install hexo-cli -g
-    
        > hexo init blog
     
        > cd blog
@@ -155,8 +146,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [PackageTool](https://github.com/amfe/or.packagetool)
 
        分析项目中所有的资源依赖, 把在线资源离线化, 将资源引用的url替换为离线化后的资源的相对路径, 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
-       > npm install packageapp -g
-    
        > pack index.html
 
 * [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
