@@ -169,6 +169,9 @@ css animated page transitions.
 [transitn](https://github.com/desandro/transitn)
 JS utility class for CSS transitions
 
+[animo.js](https://github.com/ThrivingKings/animo.js)
+managing CSS animations. Stack animations
+
 
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
