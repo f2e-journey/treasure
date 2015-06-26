@@ -501,6 +501,10 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
 ### 多列布局(瀑布流)
 [Wookmark](https://github.com/germanysbestkeptsecret/Wookmark-jQuery)
 
+[angular-masonry](https://github.com/passy/angular-masonry)
+[Static brick issue](https://github.com/passy/angular-masonry/issues/102)
+如何hack静态元素与动态元素一起组成瀑布流时带来的bug
+
 [isotope](https://github.com/metafizzy/isotope)
 Filter & sort magical layouts
 
