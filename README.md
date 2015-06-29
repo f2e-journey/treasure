@@ -34,3 +34,4 @@
 * Web Game
 * [淘宝UED](http://ued.taobao.org/blog/category/bowen/frontend/)/[百度](http://fex.baidu.com/)/[奇舞团](http://www.75team.com/weekly/)/[腾讯ISUX](http://isux.tencent.com/category/fd) [腾讯游戏](http://tgideas.qq.com/)/去哪儿, 前端团队blog
 * TODO: blog正在收集中, http://mweb.baidu.com/   http://mux.alimama.com/posts/front-end  http://www.aliued.cn/category/3%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91
+* https://github.com/foru17/front-end-collect
