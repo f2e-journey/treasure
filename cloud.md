@@ -55,6 +55,7 @@ http://www.ucpaas.com/
 [cdnjs]( http://www.cdnjs.cn/)
 [bootcdn](http://www.bootcdn.cn/)
 [baiducdn](http://cdn.code.baidu.com)
+[开放CDN](http://staticfile.org/)
 
 [CDN贝](http://cdnbest.com/)
 
