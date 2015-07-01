@@ -25,3 +25,5 @@
 * [Tair](https://github.com/alibaba/tair)
     A distributed key-value storage system
 * [Dubbo](https://github.com/alibaba/dubbo) 服务化框架
+* [TFS](https://tfs.taobao.org) + [nginx-tfs](https://github.com/alibaba/nginx-tfs)HTTP RESTful TFS客户端
+* [阿里核心系统团队博客](http://csrd.aliapp.com/)
