@@ -26,4 +26,16 @@
     A distributed key-value storage system
 * [Dubbo](https://github.com/alibaba/dubbo) 服务化框架
 * [TFS](https://tfs.taobao.org) + [nginx-tfs](https://github.com/alibaba/nginx-tfs)HTTP RESTful TFS客户端
+* [Cobar](https://github.com/alibaba/cobar)
+    > Cobar是提供关系型数据库（MySQL）分布式服务的中间件，它可以让传统的数据库得到良好的线性扩展，并看上去还是一个数据库,对应用保持透明。
+    > * 产品在阿里巴巴稳定运行3年以上
+    > * 接管了3000+个MySQL数据库的schema
+    > * 集群日处理在线SQL请求50亿次以上
+    > * 集群日处理在线数据流量TB级别以上
+* [OceanBase](https://github.com/alibaba/oceanbase/)
+
+    OceanBase是阿里巴巴集团自主研发的可扩展的关系型数据库，实现了跨行跨表的事务，支持数千亿条记录、数百TB数据上的SQL操作
+* [mdrill](https://github.com/alibaba/mdrill)
+    
+    for千亿数据即席分析
 * [阿里核心系统团队博客](http://csrd.aliapp.com/)
