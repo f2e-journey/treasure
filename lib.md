@@ -615,6 +615,7 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 * [Box2D](http://box2d.org/)
 * [白鹭](https://github.com/egret-labs/egret-core)
 * [lufylegend](https://github.com/lufylegend/lufylegend.js) 仿ActionScript3.0的语法
+* [CraftyJS](http://craftyjs.com/)
 * [Flash2x](http://www.flash2x.org/) 支持Flash项目到HTML5项目或App的跨平台高效转换工具
 
 ## boilerplate
