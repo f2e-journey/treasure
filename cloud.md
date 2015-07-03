@@ -2,6 +2,13 @@
 在 风车里，我们使用了  Linode 作为应用服务器， Amazon S3 作为文件存储， 七牛作为静态文件 CDN， Pusher 作为实时消息推送系统， Olark 作为在线客服系统， FastSpring 作为付费订阅系统， SendCloud 和 SES 作为邮件发送服务商 
 
 
+[会鸽](http://eventdove.com/index.html)
+[性能魔方](http://www.mmtrix.com/)
+[野狗](https://www.wilddog.com/) 轻松构建你的实时应用
+[cedexis](http://www.cedexis.com/)
+[GitCafe](https://gitcafe.com)
+
+
 
 [FPOImg](http://fpoimg.com/)
 [Dummy Image](http://dummyimage.com/)
