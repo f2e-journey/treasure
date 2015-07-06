@@ -154,7 +154,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
     * [node-inspector](https://github.com/node-inspector/node-inspector#advanced-use)
 
-       Node Inspector is a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector).
+       Node Inspector is a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector). 联合使用 node-inspector + supervisor 堪称 nodejs 领域的F5!
        > node-inspector
        
        > supervisor --debug-brk debugme.js
