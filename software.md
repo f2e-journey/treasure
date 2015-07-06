@@ -78,7 +78,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     常用模块安装脚本
     > npm ls -depth 0 -g
 
-    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp flex-combo anyproxy -g
+    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp flex-combo anyproxy supervisor node-inspector -g
     
     * [Grunt](http://gruntjs.com/)
        
@@ -147,6 +147,19 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
        分析项目中所有的资源依赖, 把在线资源离线化, 将资源引用的url替换为离线化后的资源的相对路径, 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
        > pack index.html
+
+    * [supervisor](https://github.com/petruisfan/node-supervisor)
+
+       Node Supervisor is used to restart programs when they crash.
+
+    * [node-inspector](https://github.com/node-inspector/node-inspector#advanced-use)
+
+       Node Inspector is a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector).
+       > node-inspector
+       
+       > supervisor --debug-brk debugme.js
+       
+       > Visit http://127.0.0.1:8080/
 
 * [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
