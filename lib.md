@@ -523,6 +523,8 @@ for widget layout. This is drag-and-drop multi-column grid.
 [Shapeshift](https://github.com/McPants/jquery.shapeshift)
 A dynamic grid system with drag and drop functionality.
 
+[waterfall](https://github.com/bingdian/waterfall)
+
 
 ## 待测试的
 [AmplifyJS](https://github.com/mikehostetler/amplify) jStorage 可以淘汰了
