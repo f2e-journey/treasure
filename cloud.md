@@ -170,6 +170,9 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 ## 邮件服务
 * [SendCloud](http://sendcloud.sohu.com/) 专业的邮件发送服务商
 
+## 备份
+* [多备份](http://www.dbfen.com/)
+
 ## 表单数据收集
 [麦客](http://www.mikecrm.com/)
 [金数据](https://jinshuju.net)
