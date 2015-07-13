@@ -163,6 +163,9 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 * [Coding](https://coding.net/) 代码托管, 质量管理, 演示平台, 项目管理(任务, 讨论, 文档), WebIDE(Terminal)
 * [Bitbucket](https://bitbucket.org/)
 
+## 验证码
+[极验验证](http://www.geetest.com/)
+
 ## 邮件服务
 * [SendCloud](http://sendcloud.sohu.com/) 专业的邮件发送服务商
 
