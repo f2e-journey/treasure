@@ -96,7 +96,7 @@ Dashboard & Control Panel Template
 
 [Cordova](http://cordova.apache.org/)
 
-
+[async](https://github.com/caolan/async)
 
 [wNumb](http://refreshless.com/wnumb/)
 格式化数字
