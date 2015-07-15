@@ -45,6 +45,8 @@ Material Design Lite Components in HTML/CSS/JS
 
 [Bootstrap](http://getbootstrap.com/)
 
+[Foundation](http://foundation.zurb.com/)
+
 [UIkit](https://github.com/uikit/uikit)
 A lightweight and modular front-end framework for developing fast and powerful web interfaces.
 相当于bootstrap, 但组件更为丰富一些
@@ -640,6 +642,8 @@ The High Velocity Web Framework For Java and Scala
 http://animajs.org/#standard/
 
 [Alice](http://aliceui.org/)
+
+[NEC](http://nec.netease.com/)
 
 [常用JavaScript](http://www.oschina.net/project/tag/165/javascript-utils)
 
