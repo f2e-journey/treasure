@@ -165,7 +165,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
     Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
     
-    常用PS扩展, 主要是方便切图
+    常用PS扩展, 主要是方便切图, 如果没有扩展插件的情况下, 一般通过复制图层或者切片工具(在裁剪工具下面)来切图, 切片工具配合参考线比较适合整块整块地切(例如那些类似图片拼接的页面)
     * [Cut&Slice me](http://www.cutandslice.me/)
     * [Cutterman](http://www.cutterman.cn/cutterman/feature)
     * [Ink](http://ink.chrometaphore.com/)
