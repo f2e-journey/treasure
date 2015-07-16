@@ -9,6 +9,8 @@
 [GitCafe](https://gitcafe.com)
 
 
+[百度图说](http://italk.baidu.com/console/#/) 可以弹幕
+
 
 [FPOImg](http://fpoimg.com/)
 [Dummy Image](http://dummyimage.com/)
