@@ -225,6 +225,8 @@ Responsive animation framework for creating unique sliders, presentations, banne
 [Slideout](https://github.com/mango/slideout)
 A touch slideout navigation menu for your mobile web apps.
 
+[jQuery.mmenu](https://github.com/BeSite/jQuery.mmenu) app look-alike on- and off-canvas menus with sliding submenus for your website and webapp
+
 [Shadow](https://github.com/bigspaceship/shine.js)
 
 [AppScroll](https://github.com/jakiestfu/AppScroll.js)
@@ -304,6 +306,9 @@ SlotMachine 是一个基于 jQuery 的插件，它能够制作类似老虎机的
 [pace](https://github.com/HubSpot/pace/)
 An automatic web page progress bar.
 
+[MixItUp](https://mixitup.kunkalabs.com/) animated filtering and sorting
+
+[wPaint](https://github.com/websanova/wPaint)
 
 ### 图标
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
@@ -347,6 +352,8 @@ A simple plugin to create multi scrolling websites with two vertical scrolling p
 
 [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 
+### 抽奖/活动
+[wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
 
 ### 滑动图片
 [iSlider](https://github.com/BE-FE/iSlider)
@@ -445,6 +452,12 @@ Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="ran
 
 [jscolor](http://jscolor.com/)
 
+[wColorPicker](https://github.com/websanova/wColorPicker)
+
+[wCheck](https://github.com/websanova/wCheck)
+
+[wSelect](https://github.com/websanova/wSelect)
+
 [jquery_chained](https://github.com/tuupola/jquery_chained)
 Chained Selects for jQuery and Zepto.
 
@@ -455,6 +468,8 @@ Chained Selects for jQuery and Zepto.
 
 [jQuery Form](https://github.com/malsup/form)
 unobtrusively upgrade HTML forms to use AJAX
+
+[wPaginate](https://github.com/websanova/wPaginate)
 
 
 ### 滚动条
@@ -497,6 +512,12 @@ Simple and easy to use lightbox script. no dependencies required, Around 2.3KB g
 
 [Photopile JS](https://github.com/bigbhowell/Photopile-JS)
 image gallery that simulates a pile of photos scattered about on a surface, Thumbnails are draggable
+
+[wModal](https://github.com/websanova/wModal)
+
+[wTooltip](https://github.com/websanova/wTooltip)
+
+[wHumanMsg](https://github.com/websanova/wHumanMsg)
 
 ### 图形
 * [Highcharts](http://www.highcharts.com/)
