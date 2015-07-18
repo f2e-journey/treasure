@@ -429,6 +429,8 @@ Turn checkboxes and radio buttons in toggle switches.
 
 [Plupload](https://github.com/moxiecode/plupload)
 
+[Uploadify](http://www.uploadify.com/)
+
 [webuploader](https://github.com/fex-team/webuploader/)
 以HTML5为主，FLASH为辅的现代文件上传组件
 
