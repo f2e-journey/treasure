@@ -443,6 +443,8 @@ Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="ran
 
 [clockpicker](https://github.com/weareoutman/clockpicker)
 
+[jscolor](http://jscolor.com/)
+
 [jquery_chained](https://github.com/tuupola/jquery_chained)
 Chained Selects for jQuery and Zepto.
 
