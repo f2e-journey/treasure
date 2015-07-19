@@ -39,6 +39,7 @@ http://www.ucpaas.com/
 * [百度云观测](http://ce.baidu.com/site/list)
 * [监控宝-网站监控神器](http://www.jiankongbao.com/) 
 * [360网站安全监测]( http://webscan.360.cn/)
+* [360网站卫士](http://wangzhan.360.cn)
 * [安全宝]( http://anquanbao.com/)
 * [安全狗](http://www.safedog.cn/)
 * [听云](http://www.tingyun.com/) 性能检测服务
