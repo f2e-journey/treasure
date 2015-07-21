@@ -112,6 +112,7 @@ Dashboard & Control Panel Template
 [SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager)
 A responsive state manager which allows you to run different javascript at different browser widths
 
+[enquire.js](https://github.com/WickyNilliams/enquire.js) programmatically responding to media queries.
 
 [oj](https://github.com/ojjs/oj)
 build websites with objects
