@@ -22,7 +22,7 @@
 * 模块化 AMD CMD, 标准通用的模块化方案(ES6)
 * 组件化(标准, 通用), Web组件的标准化, 组件生态圈, 想想 npm 的发展势头
 * 前端单元测试, 功能测试, 多浏览器测试[karma](https://github.com/karma-runner/karma)
-* HTML5 CSS3 ES5 ES6
+* HTML5 CSS3/[CSSNEXT](http://cssnext.io/) ES5 [ES6](http://babeljs.io/docs/learn-es2015/)
 * 工作流 Grunt Yeoman
 * 双向数据绑定 MVVM Angular
 * 性能
