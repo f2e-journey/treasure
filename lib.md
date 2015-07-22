@@ -179,6 +179,8 @@ JS utility class for CSS transitions
 [animo.js](https://github.com/ThrivingKings/animo.js)
 managing CSS animations. Stack animations
 
+[tween.js](https://github.com/tweenjs/tween.js)
+
 
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
@@ -524,6 +526,7 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
 * [Highcharts](http://www.highcharts.com/)
 * [jsPlumb](https://github.com/sporritt/jsplumb/) Visual connectivity
 * [Kity Minder](https://github.com/fex-team/kityminder) 百度脑图
+* [two.js](https://github.com/jonobr1/two.js)
 
 ### 表格
 * [DataTables](http://www.datatables.net/)
