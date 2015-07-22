@@ -39,6 +39,7 @@
 * https://github.com/foru17/front-end-collect
 * [财付通设计中心](http://tid.tenpay.com/)
 * [携程UED](http://ued.ctrip.com/blog/)
+* [W3CPlus周刊](http://www.w3cplus.com/collective) 以及其他前端社区
 
 ### 技术峰会
 * [D2前端技术论坛](http://www.d2forum.org/)
@@ -50,8 +51,6 @@
 * [w3ctech](http://www.w3ctech.com/event)
 * [HTML5梦工厂](http://www.html5dw.com/)
 * [前端圈](http://www.fequan.com/)
-* [QCon北京](http://qconbeijing.com/)
-* [QCon上海](http://qconshanghai.com/)
-* [QCon@InfoQ](http://www.infoq.com/cn/qcon)
+* [QCon北京](http://qconbeijing.com/) [QCon上海](http://qconshanghai.com/) [QCon@InfoQ](http://www.infoq.com/cn/qcon)
 * [ArchSummit](http://www.archsummit.com/)
 * [阿里技术沙龙](http://club.alibabatech.org)
