@@ -27,7 +27,7 @@
 * 双向数据绑定 MVVM Angular
 * 性能
 * 前端安全
-* 响应式解决方案, 特别是图像的适配方案
+* 响应式解决方案, 特别是[图像的适配方案](http://responsiveimages.org/)
 * Node.js
 * Full Stack developer(全端工程师), 前后端融合
 * (Single Page) Web App, 移动前端开发, Hybrid App
