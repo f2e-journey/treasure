@@ -39,6 +39,9 @@
 * https://github.com/foru17/front-end-collect
 * [财付通设计中心](http://tid.tenpay.com/)
 * [携程UED](http://ued.ctrip.com/blog/)
+* 首选是行业博客
+* 再是大牛的个人博客
+* [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com)
 * [W3CPlus周刊](http://www.w3cplus.com/collective) 以及其他前端社区
 
 ### 技术峰会
