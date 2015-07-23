@@ -444,6 +444,8 @@ Turn checkboxes and radio buttons in toggle switches.
 [webuploader](https://github.com/fex-team/webuploader/)
 以HTML5为主，FLASH为辅的现代文件上传组件
 
+[Dropzone.js](https://github.com/enyo/dropzone)
+
 [rangeslider](https://github.com/andreruffert/rangeslider.js)
 Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="range"> slider element.
 
