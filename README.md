@@ -25,7 +25,7 @@
 * HTML5 CSS3/[CSSNEXT](http://cssnext.io/) ES5 [ES6](http://babeljs.io/docs/learn-es2015/)
 * 工作流 Grunt Yeoman
 * 双向数据绑定 MVVM Angular
-* 性能
+* Web前端性能优化 WPO
 * 前端安全
 * 响应式解决方案, 特别是[图像的适配方案](http://responsiveimages.org/)
 * Node.js
