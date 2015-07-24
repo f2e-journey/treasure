@@ -142,6 +142,9 @@ Echo is a standalone JavaScript lazy-loading image micro-library. Echo is fast, 
 [Hammer.js](https://github.com/hammerjs/hammer.js)
 recognize gestures made by touch, mouse and pointerEvents. It doesn't have any dependencies
 
+[store.js](https://github.com/marcuswestin/store.js)
+localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood
+
 
 ### 基础库
 [RequireJS](http://requirejs.org/)
