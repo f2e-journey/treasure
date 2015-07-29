@@ -421,6 +421,8 @@ multiple effects, animated text
 
 
 ### 表单组件
+[Checkboxradio](https://github.com/filamentgroup/checkboxradio)
+
 [cxCalendar](https://github.com/ciaoca/cxCalendar)
 
 [Pikaday](https://github.com/dbushell/Pikaday) 日历
