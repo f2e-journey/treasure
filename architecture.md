@@ -41,6 +41,9 @@
     > * 接管了3000+个MySQL数据库的schema
     > * 集群日处理在线SQL请求50亿次以上
     > * 集群日处理在线数据流量TB级别以上
+
+  Cobar话说已经停止开发了? 现在使用基于 Cobar 的 [MyCAT](https://github.com/MyCATApache/Mycat-doc)
+
 * [OceanBase](https://github.com/alibaba/oceanbase/)
 
     OceanBase是阿里巴巴集团自主研发的可扩展的关系型数据库，实现了跨行跨表的事务，支持数千亿条记录、数百TB数据上的SQL操作
