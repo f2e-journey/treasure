@@ -82,7 +82,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     常用模块安装脚本
     > npm ls -depth 0 -g
 
-    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp flex-combo anyproxy supervisor node-inspector -g
+    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp flex-combo anyproxy supervisor node-inspector sails -g
     
     * [Grunt](http://gruntjs.com/)
        
@@ -164,6 +164,15 @@ v0.0.1 2015-5-5(还未正式发布版本)
        > supervisor --debug-brk debugme.js
        
        > Visit http://127.0.0.1:8080/
+    * [Sails](http://sailsjs.org/)
+    
+       Sails is a lightweight framework that sits on top of Express. Sails makes it easy to build custom, enterprise-grade Node.js apps. It is designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails.
+       > sails new sails-demo
+       
+       > cd sails-demo
+       
+       > sails lift
+
 
 * [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
