@@ -10,11 +10,21 @@
 * firebase
 
 ## 设计要点
-* 负载均衡
-* 静态(HTTP)服务器
+* 共享 Session (a shared session store)
+    去除服务器的单点 Session, 使用共享 Session 模式来集中存放Web Session(例如放在分布式缓存中), 这样才能有效地使用负载均衡来扩展
+* 负载均衡 / 集群(cluster)
+* 静态资源(HTTP)服务器 / CDN(后期租用)
 * 缓存
-* CDN(后期租用)
-* 数据库(偏后端)
+* 数据库集群(偏后端)
+
+参考 [Sails Scaling](http://sailsjs.org/documentation/concepts/deployment/scaling)
+
+```
+                    /  Sails.js server  \      /  Database (e.g. Mongo, Postgres, etc)
+Load Balancer  <-->    Sails.js server    <-->    
+                    \  Sails.js server  /      \  Session store (Redis)
+                             ....
+```
 
 ## 技术实现
 * 负责均衡/静态(HTTP)服务器
