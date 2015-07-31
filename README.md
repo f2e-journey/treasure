@@ -33,7 +33,7 @@
 * (Single Page) Web App, 移动前端开发, Hybrid App
 * Web Game
 
-### 博客
+### 博客 社区
 * [淘宝UED](http://ued.taobao.org/blog/category/bowen/frontend/)/[百度](http://fex.baidu.com/)/[奇舞团](http://www.75team.com/weekly/)/[腾讯ISUX](http://isux.tencent.com/category/fd) [腾讯AlloyTeam](http://www.alloyteam.com) [腾讯游戏](http://tgideas.qq.com/)/去哪儿, 前端团队blog
 * TODO: blog正在收集中, http://mweb.baidu.com/   http://mux.alimama.com/posts/front-end  http://www.aliued.cn/category/3%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91
 * https://github.com/foru17/front-end-collect
@@ -48,6 +48,7 @@
 * [W3CPlus周刊](http://www.w3cplus.com/collective) 以及其他前端社区
 * [Div.IO](http://div.io/#/welcome)
 * [F2E - 前端技术社区](http://f2e.im/)
+* [V2EX](http://v2ex.com)
 
 ### 技术峰会
 * [D2前端技术论坛](http://www.d2forum.org/)
