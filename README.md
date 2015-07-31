@@ -23,7 +23,7 @@
 * 组件化(标准, 通用), Web组件的标准化, 组件生态圈, 想想 npm 的发展势头
 * 前端单元测试, 功能测试, 多浏览器测试[karma](https://github.com/karma-runner/karma)
 * HTML5 CSS3/[CSSNEXT](http://cssnext.io/) ES5 [ES6](http://babeljs.io/docs/learn-es2015/)
-* 前端工程化, 开发流程标准化, 工业化, [前端集成解决方案](https://github.com/fouber/blog/issues/1) | Grunt Yeoman FIS JDF
+* 前端工程化, 开发流程标准化, 工业化, [前端集成解决方案](https://github.com/fouber/blog/issues/1) [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6) | Grunt Yeoman [FIS](http://fis.baidu.com) JDF
 * 双向数据绑定 MVVM Angular | React(Virtual DOM)
 * Web前端性能优化 WPO
 * 前端安全
@@ -46,6 +46,7 @@
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
 * [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com)
 * [W3CPlus周刊](http://www.w3cplus.com/collective) 以及其他前端社区
+* [Div.IO](http://div.io/#/welcome)
 
 ### 技术峰会
 * [D2前端技术论坛](http://www.d2forum.org/)
