@@ -47,6 +47,7 @@
 * [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com)
 * [W3CPlus周刊](http://www.w3cplus.com/collective) 以及其他前端社区
 * [Div.IO](http://div.io/#/welcome)
+* [F2E - 前端技术社区](http://f2e.im/)
 
 ### 技术峰会
 * [D2前端技术论坛](http://www.d2forum.org/)
