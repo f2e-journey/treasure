@@ -345,6 +345,8 @@ Reveal CSS animation as you scroll down a page
 
 [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)
 
+[fullpage](https://github.com/powy1993/fullpage)
+
 [fullscreen page scroll](https://github.com/alvarotrigo/pagePiling.js)
 
 [scrollme](https://github.com/nckprsn/scrollme)
