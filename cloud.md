@@ -85,11 +85,12 @@ backend云服务, 一般提供开发一个应用所需的所有服务, 而不需
 [Firebase](https://www.firebase.com/)
 
 一站式服务
-[Telerik Platform](https://platform.telerik.com)
+* [Telerik Platform](https://platform.telerik.com)
 在线开发跨平台HybridApp, 包含在线IDE, backend服务(Cloud Data, Cloud Files, Push, User, Cloud Code, Email Notifications), Analytics, Feedback, AppPrototyper
-[Monaca]( https://monaca.io/)
+* [Monaca]( https://monaca.io/)
 和上面那个差不多
-[移动web应用开发整体解决方案 baidu clouda](http://clouda.baidu.com/)
+* [See our new Enterprise App Platform](http://www.appgyver.com/steroids/getting_started)
+* [移动web应用开发整体解决方案 baidu clouda](http://clouda.baidu.com/)
 
 
 TODO
