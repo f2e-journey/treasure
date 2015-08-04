@@ -533,6 +533,8 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
 
 [wHumanMsg](https://github.com/websanova/wHumanMsg)
 
+[layui 跨设备模块化前端框架](http://www.layui.com/)
+
 ### 图形
 * [Highcharts](http://www.highcharts.com/)
 * [jsPlumb](https://github.com/sporritt/jsplumb/) Visual connectivity
