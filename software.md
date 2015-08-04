@@ -228,7 +228,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 * [CasperJS](http://casperjs.org/)
     
-    a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript
+    a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript.
+    另外可选的还有[Nightmare](https://github.com/segmentio/nightmare)
 
 
 ## 工具
