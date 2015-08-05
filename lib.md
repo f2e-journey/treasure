@@ -184,6 +184,11 @@ managing CSS animations. Stack animations
 
 [tween.js](https://github.com/tweenjs/tween.js)
 
+[snabbt](https://github.com/daniel-lundin/snabbt.js)
+[Dynamics](https://github.com/michaelvillar/dynamics.js)
+
+[CountUp.js](https://github.com/inorganik/countUp.js) Animates a numerical value
+
 
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
@@ -696,6 +701,8 @@ http://animajs.org/#standard/
 A free library of HTML, CSS, JS nuggets
 
 [开放静态文件 CDN](http://staticfile.org/)
+
+[Libscore](http://libscore.com/)
 
 
 ## 非WEB前端
