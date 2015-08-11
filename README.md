@@ -17,6 +17,7 @@
 * [个人常用云服务](https://github.com/f2e-journey/software/blob/master/cloud.md)
 * [个人常用App](https://github.com/f2e-journey/software/blob/master/app.md)
 * [前端架构beta](https://github.com/f2e-journey/software/blob/master/architecture.md)
+* 需不需要将一些经典的前端文章也列在这里
 
 ## 前端趋势
 * 模块化 AMD CMD, 标准通用的模块化方案(ES6)
