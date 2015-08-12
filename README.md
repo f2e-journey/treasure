@@ -1,4 +1,4 @@
-# 互联网时代"手工艺人"的[百宝箱](http://baike.baidu.com/view/123101.htm)
+# 互联网时代前端"手工艺人"的[百宝箱](http://baike.baidu.com/view/123101.htm)
 武林高手都有几件称手的兵器, 更别提手中无剑, 心中也无剑的世外高人了.
 
 软件开发者做为新时代的"手工艺人", 当然也需要自己称手的工具来改变这个世界.
@@ -12,12 +12,12 @@
 这份总结我会保持更新, 如果有任何问题, 欢迎大家提出各种[issues](https://github.com/f2e-journey/software/issues/new), 当然也鼓励大家[fork](https://github.com/f2e-journey/software#fork-destination-box)出自己的版本.
 
 ## 工具箱
-* [个人常用软件](https://github.com/f2e-journey/software/blob/master/software.md)
-* [个人常用框架](https://github.com/f2e-journey/software/blob/master/lib.md)
-* [个人常用云服务](https://github.com/f2e-journey/software/blob/master/cloud.md)
-* [个人常用App](https://github.com/f2e-journey/software/blob/master/app.md)
+* [常用软件](https://github.com/f2e-journey/software/blob/master/software.md)
+* [常用框架](https://github.com/f2e-journey/software/blob/master/lib.md)
+* [常用云服务](https://github.com/f2e-journey/software/blob/master/cloud.md)
+* [常用App](https://github.com/f2e-journey/software/blob/master/app.md)
 * [前端架构beta](https://github.com/f2e-journey/software/blob/master/architecture.md)
-* 需不需要将一些经典的前端文章也列在这里
+* [前端经典文集](https://github.com/f2e-journey/software/blob/master/article.md)
 
 ## 前端趋势
 * 模块化 AMD CMD, 标准通用的模块化方案(ES6)
