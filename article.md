@@ -10,4 +10,5 @@
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 * [这里的东西还需要整理一下, 还有顺序看是否稍微调整下](https://github.com/nimojs/blog/issues/18)
 * [xufei的blog和issue再过一遍](https://github.com/xufei/blog/tree/master/posts)
+* [lifesingerblog整理](https://github.com/lifesinger/lifesinger.github.com/issues/184)
 * [evernote里面的F2E再过一遍]()
