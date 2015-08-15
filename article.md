@@ -13,3 +13,4 @@
 * [xufei的blog和issue再过一遍](https://github.com/xufei/blog/tree/master/posts)
 * [lifesingerblog整理](https://github.com/lifesinger/lifesinger.github.com/issues/184)
 * [evernote里面的F2E再过一遍]()
+* [JavaScript与有限状态机](http://www.ruanyifeng.com/blog/2013/09/finite-state_machine_for_javascript.html)
