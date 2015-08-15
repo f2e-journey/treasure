@@ -146,6 +146,9 @@ recognize gestures made by touch, mouse and pointerEvents. It doesn't have any d
 localStorage wrapper for all browsers without using cookies or flash. Uses localStorage, globalStorage, and userData behavior under the hood
 
 
+[A finite state machine javascript micro framework](https://github.com/jakesgordon/javascript-state-machine)
+
+
 ### 基础库
 [RequireJS](http://requirejs.org/)
 
