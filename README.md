@@ -51,6 +51,7 @@
 * [F2E - 前端技术社区](http://f2e.im/)
 * [V2EX](http://v2ex.com)
 * [前端圈](http://sentsin.com/daohang/)
+* [Teahour.fm](http://teahour.fm/)
 
 ### 技术峰会
 * [D2前端技术论坛](http://www.d2forum.org/)
