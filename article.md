@@ -11,6 +11,8 @@
 * [影响企业应用前端开发效率的因素](https://github.com/xufei/blog/blob/master/posts/2014-01-06-%E5%BD%B1%E5%93%8D%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E7%9A%84%E5%9B%A0%E7%B4%A0.md)
 * [基于AngularJS的企业软件前端架构](https://github.com/xufei/blog/blob/master/posts/2014-04-27-%E5%9F%BA%E4%BA%8EAngularJS%E7%9A%84%E4%BC%81%E4%B8%9A%E8%BD%AF%E4%BB%B6%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84.md)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
+* [前端集成解决方案](https://github.com/fouber/blog/issues/1)
+* [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 * [这里的东西还需要整理一下, 还有顺序看是否稍微调整下](https://github.com/nimojs/blog/issues/18)
 * [xufei的blog和issue再过一遍](https://github.com/xufei/blog/tree/master/posts)
 * [lifesingerblog整理](https://github.com/lifesinger/lifesinger.github.com/issues/184)
