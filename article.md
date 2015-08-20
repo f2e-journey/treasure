@@ -11,6 +11,7 @@
 * [影响企业应用前端开发效率的因素](https://github.com/xufei/blog/blob/master/posts/2014-01-06-%E5%BD%B1%E5%93%8D%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E7%9A%84%E5%9B%A0%E7%B4%A0.md)
 * [基于AngularJS的企业软件前端架构](https://github.com/xufei/blog/blob/master/posts/2014-04-27-%E5%9F%BA%E4%BA%8EAngularJS%E7%9A%84%E4%BC%81%E4%B8%9A%E8%BD%AF%E4%BB%B6%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84.md)
 * [前端架构那些事儿](https://github.com/xufei/blog/blob/master/posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
+* [JavaScript 模块化七日谈](http://huangxuan.me/js-module-7day)
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 * [前端集成解决方案](https://github.com/fouber/blog/issues/1)
 * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
