@@ -12,13 +12,13 @@
 * [基于AngularJS的企业软件前端架构](https://github.com/xufei/blog/blob/master/posts/2014-04-27-%E5%9F%BA%E4%BA%8EAngularJS%E7%9A%84%E4%BC%81%E4%B8%9A%E8%BD%AF%E4%BB%B6%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84.md)
 * [前端架构那些事儿](https://github.com/xufei/blog/blob/master/posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
 * [JavaScript 模块化七日谈](https://github.com/Huxpro/js-module-7day)
-  > * 第一日 上古时期 Module? 从设计模式说起
-  > * 第二日 石器时代 Script Loader 只有封装性可不够，我们还需要加载
-  > * 第三日 蒸汽朋克 Module Loader 模块化架构的工业革命
-  > * 第四日 号角吹响 CommonJS 征服世界的第一步是跳出浏览器
-  > * 第五日 双塔奇兵 AMD/CMD 浏览器环境模块化方案
-  > * 第六日 精灵宝钻 Browserify/Webpack 大势所趋，去掉这层包裹！
-  > * 第七日 王者归来 ES6 Module 最后的战役
+    > * 第一日 上古时期 Module? 从设计模式说起
+    > * 第二日 石器时代 Script Loader 只有封装性可不够，我们还需要加载
+    > * 第三日 蒸汽朋克 Module Loader 模块化架构的工业革命
+    > * 第四日 号角吹响 CommonJS 征服世界的第一步是跳出浏览器
+    > * 第五日 双塔奇兵 AMD/CMD 浏览器环境模块化方案
+    > * 第六日 精灵宝钻 Browserify/Webpack 大势所趋，去掉这层包裹！
+    > * 第七日 王者归来 ES6 Module 最后的战役
 * [前端开发体系建设日记](https://github.com/fouber/blog/issues/2)
 * [前端集成解决方案](https://github.com/fouber/blog/issues/1)
 * [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
