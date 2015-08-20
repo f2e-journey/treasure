@@ -332,6 +332,9 @@ An automatic web page progress bar.
 [typo.css](https://github.com/sofish/Typo.css)
 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 
+[yue.css](https://github.com/lepture/yue.css)
+a typography stylesheet for readable content
+
 ### 单页(活动页)常用
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
 Smooth scrolling and smart navigation when user scrolls on one-page sites.
@@ -674,7 +677,9 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 * [白鹭](https://github.com/egret-labs/egret-core)
 * [lufylegend](https://github.com/lufylegend/lufylegend.js) 仿ActionScript3.0的语法
 * [CraftyJS](http://craftyjs.com/)
+* [Stage.js](https://github.com/piqnt/stage.js/) 2D HTML5 game development
 * [Flash2x](http://www.flash2x.org/) 支持Flash项目到HTML5项目或App的跨平台高效转换工具
+* [Proton](https://github.com/a-jie/Proton) 粒子效果
 
 ## boilerplate
 [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
