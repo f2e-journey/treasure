@@ -375,6 +375,16 @@ A simple plugin to create multi scrolling websites with two vertical scrolling p
 [wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
 
 ### 滑动图片
+[SuperSlide/TouchSlide](http://www.superslide2.com/)
+SuperSlide 致力于解决网站大部分特效展示问题，使网站代码规范整洁，方便维护更新。
+网站上常用的“焦点图/幻灯片”“Tab标签切换”“图片滚动”“无缝滚动”等只需要一个SuperSlide即可解决！
+从此无需网上苦苦寻觅特效，无需加载n个插件，无需害怕代码冲突，你需要的只是一个SuperSlide！
+还可以多个SuperSlide组合创造更多效果哦~
+
+很久之前我也是一个网站新手，在制作网页过程中，经常需要用到各种特效，于是到网上找合适的插件。找到后要熟悉它的参数、用法等，如果用到几种不同特效，就要找几个不同插件，结果页面代码臃肿，加载缓慢，还要害怕会不会冲突！实在痛苦。
+于是我就想可不可以将多个特效合一，以后只需要调用一个插件就能实现网页大部分特效。经过千锤百炼后一个能实现各种效果的插件就浮出水面了，为了表示其异于常人的能力，我给它起了一个霸气的名字 -- SuperSlide！
+
+
 [iSlider](https://github.com/BE-FE/iSlider)
 可用于幻灯片(可手势缩放), 滑动组件(图片或者DOM元素, 可实现滑动tab页), 支持水平或垂直滑动, 可用于做单页的活动推广页
 
