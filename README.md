@@ -72,3 +72,4 @@
 * [ArchSummit](http://www.archsummit.com/)
 * [阿里技术沙龙](http://club.alibabatech.org)
 * [Google I/O](https://events.google.com/io2015/)
+* [D-Day](http://segmentfault.com/t/segmentfault-d-day/info)
