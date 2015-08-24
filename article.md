@@ -29,3 +29,13 @@
 * [evernote里面的F2E再过一遍]()
 * [JavaScript与有限状态机](http://www.ruanyifeng.com/blog/2013/09/finite-state_machine_for_javascript.html)
 * [Build a Great Web Experience](https://developers.google.com/web/)
+* [Side Effects in CSS](http://philipwalton.com/articles/side-effects-in-css/)
+    
+    > The hardest problem in CSS
+    > 
+    > CSS is global, and every rule you write has the potential to affect entirely unrelated parts of the site. It’s this unpredictability that makes writing good CSS so hard.
+    > 
+    > Because all CSS rules live in the global scope, side effects are extremely common. And since your average stylesheet usually consist of an extremely fragile collection of highly-coupled rules, all intimately dependent on the presence, order, and specificity of other rules, even the most unassuming changes can have unforeseen consequences.
+    > * Base rule changes
+    > * Naming collisions
+    > * Subtree matches
