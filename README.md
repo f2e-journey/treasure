@@ -51,6 +51,7 @@
 * [叶小钗](http://www.cnblogs.com/yexiaochai/)
 * [张鑫旭](http://www.zhangxinxu.com)
 * [民工精髓](https://github.com/xufei/blog/tree/master/posts)
+* [Philip Walton](http://philipwalton.com/)
 * [W3CPlus周刊](http://www.w3cplus.com/collective) 以及其他前端社区
 * [Div.IO](http://div.io/#/welcome)
 * [F2E - 前端技术社区](http://f2e.im/)
