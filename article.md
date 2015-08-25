@@ -40,10 +40,11 @@
     > * Naming collisions
     > * Subtree matches
 * [CSS Modules](http://www.w3ctech.com/topic/1479)
-    1. Global Namespace
-    2. Dependencies
-    3. Dead Code Elimination
-    4. Minification
-    5. Sharing Constants
-    6. Non-deterministic Resolution
-    7. Isolation
+    
+    > 1. Global Namespace
+    > 2. Dependencies
+    > 3. Dead Code Elimination
+    > 4. Minification
+    > 5. Sharing Constants
+    > 6. Non-deterministic Resolution
+    > 7. Isolation
