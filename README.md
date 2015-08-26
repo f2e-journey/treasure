@@ -23,8 +23,7 @@
 * 模块化 AMD CMD, 标准通用的模块化方案(ES6)
 * 组件化(标准, 通用), Web组件的标准化([Polymer](https://www.polymer-project.org/)), 组件生态圈, 想想 npm 的发展势头
 * 前端单元测试, 功能测试, 多浏览器测试[karma](https://github.com/karma-runner/karma)
-* [HTML5](https://rawgit.com/paulrouget/html5dashboard/master/demo.html) CSS3/[CSSNEXT](http://cssnext.io/) [ES5](http://kangax.github.io/compat-table/es5) [ES6](http://babeljs.io/docs/learn-es2015/)
-* [HTTP/2](https://http2.akamai.com/)
+* [HTTP/2](https://http2.akamai.com/) [HTML5](https://rawgit.com/paulrouget/html5dashboard/master/demo.html) CSS3/[CSSNEXT](http://cssnext.io/) [ES5](http://kangax.github.io/compat-table/es5) [ES6](http://babeljs.io/docs/learn-es2015/)
 * 前端工程化, 开发流程标准化, 工业化 | Grunt Yeoman [FIS](http://fis.baidu.com) [JDF](https://github.com/putaoshu/jdf)
 * 双向数据绑定 MVVM Angular | React(Virtual DOM)
 * Web前端性能优化 WPO
