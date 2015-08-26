@@ -86,6 +86,8 @@ Dashboard & Control Panel Template
 [FrozenUI](https://github.com/frozenui/frozenui)
 腾讯移动端UI框架, FrozenUI的CSS组件库,基于腾讯手Q样式规范
 
+[Ant Design](https://github.com/ant-design/ant-design)
+蚂蚁金服体验技术部出品
 
 ## 工具
 [Undercore](http://underscorejs.org/)
