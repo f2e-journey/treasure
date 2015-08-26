@@ -28,6 +28,8 @@
 * [lifesingerblog整理](https://github.com/lifesinger/lifesinger.github.com/issues/184)
 * [evernote里面的F2E再过一遍]()
 * [JavaScript与有限状态机](http://www.ruanyifeng.com/blog/2013/09/finite-state_machine_for_javascript.html)
+
+    > 有限状态机的写法，逻辑清晰，表达力强，有利于封装事件。一个对象的状态越多、发生的事件越多，就越适合采用有限状态机的写法。
 * [Build a Great Web Experience](https://developers.google.com/web/)
 * [Decoupling Your HTML, CSS, and JavaScript](http://philipwalton.com/articles/decoupling-html-css-and-javascript/)
     
