@@ -37,9 +37,9 @@
     > 
     > It’s best to style all your visual components with one or more classes on the root element of the component itself.
     > 
-    > DON't use the same class for both styling purposes and behavior(a JavaScript hook). Use the prefix **js-*** to define class for JavaScript hook.
+    > DON't use the same class for both styling purposes and behavior(a JavaScript hook). Use the prefix `js-*` to define class for JavaScript hook.
     > 
-    > USE the prefix **is-*** to define class selectors that alter the state of a visual component
+    > USE the prefix `is-*` to define class selectors that alter the state of a visual component
 * [Side Effects in CSS](http://philipwalton.com/articles/side-effects-in-css/)
     
     > The hardest problem in CSS
