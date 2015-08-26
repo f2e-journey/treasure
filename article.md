@@ -18,18 +18,82 @@
 
 * [Web应用的组件化开发](https://github.com/xufei/blog/blob/master/posts/2013-11-20-Web%E5%BA%94%E7%94%A8%E7%9A%84%E7%BB%84%E4%BB%B6%E5%8C%96%E5%BC%80%E5%8F%91%EF%BC%88%E4%B8%80%EF%BC%89.md)
     
-    > 1. 为什么要做组件化？
-    > 2. 早期的前端怎么做组件化的？
-    > 3. SPA时代
-    > 4. 架构的变更
-    > 5. MV*框架的基本原理
-    > 6. 如何做组件化(HTML/JavaScript/CSS的组件化)
+    > 1) 为什么要做组件化？
+    >
+    > 2) 早期的前端怎么做组件化的？
+    >
+    > 3) SPA时代
+    >
+    > 4) 架构的变更
+    >
+    > 5) MV*框架的基本原理
+    >
+    > 6) 如何做组件化(HTML/JavaScript/CSS的组件化)
 
 * [从零开始编写自己的JavaScript框架](https://github.com/xufei/blog/blob/master/posts/2013-07-01-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%BC%96%E5%86%99%E8%87%AA%E5%B7%B1%E7%9A%84JavaScript%E6%A1%86%E6%9E%B6%EF%BC%88%E4%B8%80%EF%BC%89.md)
+
+    > 1) 模块的定义和加载
+    > 
+    > 2) 数据绑定
+
 * [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
+
+    > 1) 为什么组件化这么难做
+    > 
+    > 2) 标准的变革(ES6, observe, Web Components)
+    >
+    > 3) 当下最时髦的前端组件化框架/库
+    >
+    > 4) 前端组件的复用性
+    >
+    > 5) 为什么MVVM是一种很好的选择
+    >
+    > 6) 组件的长期积累
+    >
+    > 7) 我们需要关注什么(模块化, Web Components, 变更检测, Immutable Data, Promise与异步, Isomorphic JavaScript)
+
 * [关于前端开发中“模块”和“组件”概念的思考](https://github.com/hax/hax.github.com/issues/21)
+
+    > 模块（对应英文"module"）
+    > 
+    > 组件（对应英文"component"）
+    > 
+    > 组件与模块的关系
+    > 
+    > 通过JS Module Loader加载CSS等资源
+    > 
+    > CSS局域化问题
+
 * [影响企业应用前端开发效率的因素](https://github.com/xufei/blog/blob/master/posts/2014-01-06-%E5%BD%B1%E5%93%8D%E4%BC%81%E4%B8%9A%E5%BA%94%E7%94%A8%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E7%9A%84%E5%9B%A0%E7%B4%A0.md)
+
+    > 1) 命令式还是声明式
+    > 
+    > 2) 控件标签集
+    > 
+    > 3) 带逻辑的控件
+    > 
+    > 4) Polymer与Angular
+    > 
+    > 5) 为什么HTML默认标签集这么小
+    > 
+    > 6) 界面修饰
+    > 
+    > 7) 模块化和加载
+    > 
+    > 8) 逻辑的分层
+
 * [基于AngularJS的企业软件前端架构](https://github.com/xufei/blog/blob/master/posts/2014-04-27-%E5%9F%BA%E4%BA%8EAngularJS%E7%9A%84%E4%BC%81%E4%B8%9A%E8%BD%AF%E4%BB%B6%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84.md)
+
+    > * 企业应用前端的特点
+    > * 企业应用常见的前端框架
+    > * 曾经的企业B/S应用几件宝
+    > * 单页应用和前端分层
+    > * 前端的自定义标签体系
+    > * 业务逻辑
+    > * 二次开发平台
+    > * 移动开发
+    > * 工程化
+
 * [前端架构那些事儿](https://github.com/xufei/blog/blob/master/posts/2014-05-20-%E5%89%8D%E7%AB%AF%E6%9E%B6%E6%9E%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF.md)
 * [JavaScript 模块化七日谈](https://github.com/Huxpro/js-module-7day)
 
