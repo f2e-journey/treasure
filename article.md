@@ -32,10 +32,13 @@
 * [Decoupling Your HTML, CSS, and JavaScript](http://philipwalton.com/articles/decoupling-html-css-and-javascript/)
     
     > The mark of maintainable HTML, CSS, and JavaScript is when individual developers can easily and confidently edit parts of the code base without those changes inadvertently affecting other, unrelated parts.
+    > 
     > A back-end developer should be able to change the markup in an HTML template without worrying about accidentally breaking a CSS rule or some JavaScript functionality.
     > 
     > It’s best to style all your visual components with one or more classes on the root element of the component itself.
+    > 
     > DON't use the same class for both styling purposes and behavior(a JavaScript hook). Use the prefix **js-*** to define class for JavaScript hook.
+    > 
     > USE the prefix **is-*** to define class selectors that alter the state of a visual component
 * [Side Effects in CSS](http://philipwalton.com/articles/side-effects-in-css/)
     
