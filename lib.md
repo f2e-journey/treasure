@@ -89,6 +89,9 @@ Dashboard & Control Panel Template
 [Ant Design](https://github.com/ant-design/ant-design)
 蚂蚁金服体验技术部出品
 
+[KISSY](http://docs.kissyui.com/5.0/)
+
+
 ## 工具
 [Undercore](http://underscorejs.org/)
 
@@ -679,7 +682,6 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 支持循环效果, 水平/垂直滑动
 做出类似这样的专题页面: http://ued.qunar.com/qnext/6/index.html
 
-[Kissy](http://kissyui.com/)
 
 
 ## 游戏类
