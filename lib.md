@@ -726,6 +726,7 @@ A free library of HTML, CSS, JS nuggets
 
 [Libscore](http://libscore.com/)
 
+[Github资源收集](http://segmentfault.com/a/1190000003510001)
 
 ## 非WEB前端
 [启动界面插件](http://www.bangcle.com/solution/sdk-detail/?id=10)
