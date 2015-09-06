@@ -139,6 +139,7 @@ a tiny and isomorphic URL router
 * [jquery_lazyload](https://github.com/tuupola/jquery_lazyload/)
 * [unveil.js](https://github.com/luis-almeida/unveil)
   A very lightweight jQuery|Zepto plugin to lazy load images, with retina displays - less than 1k.
+* [LazyLoad](https://github.com/verlok/lazyload)
 
 
 [Echo.js](https://github.com/toddmotto/echo)
