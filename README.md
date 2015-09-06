@@ -59,6 +59,7 @@
 * [前端圈](http://sentsin.com/daohang/)
 * [Teahour.fm](http://teahour.fm/)
 * [Web technology for developers | MDN](https://developer.mozilla.org/en-US/docs/Web)
+* [醉前端](http://f2er.club/)
 
 ### 技术峰会
 * [D2前端技术论坛](http://www.d2forum.org/)
