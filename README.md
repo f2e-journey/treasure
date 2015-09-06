@@ -28,7 +28,7 @@
 * 双向数据绑定 MVVM Angular | React(Virtual DOM)
 * Web前端性能优化 WPO
 * 前端安全
-* 响应式解决方案, 特别是[图像的适配方案](http://responsiveimages.org/)
+* 响应式解决方案, 特别是[图像的适配方案](http://responsiveimages.org/) [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/)
 * Node.js
 * Full Stack developer(全端工程师), 前后端融合
 * (Single Page) Web App, 移动前端开发, Hybrid App
