@@ -600,6 +600,9 @@ A dynamic grid system with drag and drop functionality.
 
 [waterfall](https://github.com/bingdian/waterfall)
 
+[Dragula](https://github.com/bevacqua/dragula)
+Drag and drop so simple it hurts
+
 
 ## 待测试的
 [AmplifyJS](https://github.com/mikehostetler/amplify) jStorage 可以淘汰了
