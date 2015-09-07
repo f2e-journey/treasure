@@ -52,7 +52,7 @@ http://www.ucpaas.com/
 
 [知道创宇 - 加速乐](https://www.jiasule.com/)
 
-[cloudflare](https://www.cloudflare.com/)
+[CloudFlare](https://www.cloudflare.com)
 
 ## DNS
 [DNSPod](https://www.dnspod.cn/)
