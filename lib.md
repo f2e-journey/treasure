@@ -732,6 +732,8 @@ A free library of HTML, CSS, JS nuggets
 
 [Github资源收集](http://segmentfault.com/a/1190000003510001)
 
+[Use getAwesomeness()](http://getawesomeness.com/get/js)
+
 ## 非WEB前端
 [启动界面插件](http://www.bangcle.com/solution/sdk-detail/?id=10)
 很实用的Android SDK, 但还没有推出正式版本
