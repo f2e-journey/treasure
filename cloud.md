@@ -169,6 +169,7 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 * [Coding](https://coding.net/) 代码托管, 质量管理, 演示平台, 项目管理(任务, 讨论, 文档), WebIDE(Terminal)
 * [CODE](https://code.csdn.net)
 * [Bitbucket](https://bitbucket.org/)
+* [Koding](https://koding.com/IDE/koding-vm-0/my-workspace)
 
 ## 验证码
 [极验验证](http://www.geetest.com/)
