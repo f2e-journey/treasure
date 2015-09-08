@@ -126,6 +126,7 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 
 应用数据分析
 1. 友盟 友盟-专业的移动开发者服务平台
+2. [Bugtags](https://bugtags.com/) 连接发现缺陷与提交缺陷之间的用户体验
 2. TalkingData TalkingData-专业的无线互联网数据服务平台
 3. 魔方 魔方-移动应用服务平台
 4. AVOS Cloud Analytics 功能 - AVOS Cloud
