@@ -164,6 +164,7 @@ localStorage wrapper for all browsers without using cookies or flash. Uses local
 
 [YUI](https://github.com/yui/yui3)
 
+[colors](http://clrs.cc/) Better colors for the web
 
 ### 表单验证
 [Validator](https://github.com/sofish/validator.js)
