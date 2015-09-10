@@ -69,8 +69,10 @@ CSS with a minimal footprint. Pure is ridiculously tiny. The entire set of modul
 
 
 [framework7](http://www.idangero.us/framework7)
-Full Featured HTML Framework For Building iOS Apps
-http://www.idangero.us/template7
+Mobile HTML framework to develop web apps with iOS & Android native look and feel. 
+
+[SUI Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
+阿里巴巴国际UED团队基于 Framework7 开发的手机H5 UI库。它的特点是非常轻量，并且能很好兼容 iOS 6.0+ 和 Android 4.0+ 的设备。
 
 [GMU](https://github.com/fex-team/gmu)
 基于zepto的ui组件库，适用于移动端由百度GMU小组开发
