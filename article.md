@@ -189,13 +189,33 @@
 * [Side Effects in CSS](http://philipwalton.com/articles/side-effects-in-css/)
     
     > The hardest problem in CSS
+    >
+    > There are two types of problems in CSS: cosmetic problems and architectural problems.
     > 
-    > CSS is global, and every rule you write has the potential to affect entirely unrelated parts of the site. It’s this unpredictability that makes writing good CSS so hard.
+    > Cosmetic problems—issues like vertical centering or equal-height columns—usually engender the most vocal complaints, **but they’re almost never showstoppers**. They’re annoying, sure, but they don’t break the build.
+    >
+    > Architectural problems, on the other hand, can cripple development. I can remember distinct cases, at each of the companies I’ve worked for, where **we postponed developing a new feature because we were too afraid to make any changes to the CSS**.
+    > 
+    > **CSS is global, and every rule you write has the potential to affect entirely unrelated parts of the site. It’s this unpredictability that makes writing good CSS so hard.**
     > 
     > Because all CSS rules live in the global scope, side effects are extremely common. And since your average stylesheet usually consist of an extremely fragile collection of highly-coupled rules, all intimately dependent on the presence, order, and specificity of other rules, even the most unassuming changes can have unforeseen consequences.
+    >
+    > In CSS, side effects come in three main forms:
     > * Base rule changes
     > * Naming collisions
     > * Subtree matches
+    >
+    > CSS的副作用主要是由于CSS是全局的, 会造成各种各样的冲突.
+    > 
+    > CSS中最难的部分
+    > 
+    > 1) 如何实现某种效果(cosmetic problems)
+    > 
+    > 2) 如何组织管理CSS(architectural problems)
+    > 
+    > CSS的副作用主要体现为
+    > * 样式冲突
+    > * 命名冲突
 * [CSS Modules](http://www.w3ctech.com/topic/1479)
     
     > 1) Global Namespace
