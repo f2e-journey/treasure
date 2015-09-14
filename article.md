@@ -231,3 +231,11 @@
     > 6) Non-deterministic Resolution
     > 
     > 7) Isolation
+* [webpack Motivation](http://webpack.github.io/docs/motivation.html)
+    > Today’s websites are evolving into web apps:
+    > * More and more JavaScript is in a page.
+    > * You can do more stuff in modern browsers.
+    > * Fewer full page reloads → even more code in a page.
+    > As a result there is a lot of code on the client side!
+    > 
+    > A big code base needs to be organized. Module systems offer the option to split your code base into modules.
