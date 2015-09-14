@@ -77,3 +77,6 @@
 * [Google I/O](https://events.google.com/io2015/)
 * [D-Day](http://segmentfault.com/t/segmentfault-d-day/info)
 * [NationJS Conference](http://nationjs.com/)
+
+### 其他前端收集
+* [front-end-collect](https://github.com/foru17/front-end-collect)
