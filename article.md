@@ -232,6 +232,7 @@
     > 
     > 7) Isolation
 * [webpack Motivation](http://webpack.github.io/docs/motivation.html)
+
     > Today’s websites are evolving into web apps:
     > * More and more JavaScript is in a page.
     > * You can do more stuff in modern browsers.
