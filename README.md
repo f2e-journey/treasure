@@ -34,7 +34,7 @@
 * (Single Page) Web App, 移动前端开发, Hybrid App
 * Web Game
 
-### 博客 社区
+### 博客/社区
 * [百度 FEX](http://fex.baidu.com/)
 * [淘宝 UED](http://ued.taobao.org/blog/category/bowen/frontend/) / [THX](http://thx.github.io/) / [有一点设计UED](http://www.aliued.cn/category/3%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91) / [MUX](http://mux.alimama.com/posts/front-end)
 * [腾讯 ISUX](http://isux.tencent.com/category/fd) / [AlloyTeam](http://www.alloyteam.com) / [TGideas](http://tgideas.qq.com/) / [TID](http://tid.tenpay.com/)
@@ -78,5 +78,5 @@
 * [D-Day](http://segmentfault.com/t/segmentfault-d-day/info)
 * [NationJS Conference](http://nationjs.com/)
 
-### 其他前端收集
+### 其他收集
 * [front-end-collect](https://github.com/foru17/front-end-collect)
