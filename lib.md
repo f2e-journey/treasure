@@ -248,6 +248,9 @@ Responsive animation framework for creating unique sliders, presentations, banne
 [Slideout](https://github.com/mango/slideout)
 A touch slideout navigation menu for your mobile web apps.
 
+[jQuery.Stacky](https://github.com/jachinte/jquery.stacky)
+create UIs with panels that open horizontally using jQuery.
+
 [jQuery.mmenu](https://github.com/BeSite/jQuery.mmenu) app look-alike on- and off-canvas menus with sliding submenus for your website and webapp
 
 [Shadow](https://github.com/bigspaceship/shine.js)
