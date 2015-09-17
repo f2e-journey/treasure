@@ -10,7 +10,8 @@
 
 ## 设计要点
 * 共享 Session (a shared session store)
-    去除服务器的单点 Session, 使用共享 Session 模式来集中存放Web Session(例如放在分布式缓存中), 这样才能有效地使用负载均衡来扩展
+    
+    去除服务器的单点 Session, 使用共享 Session 模式来集中存放Web Session(例如放在分布式缓存中), 这样才能有效地使用负载均衡来进行横向扩展
 * 负载均衡 / 集群(cluster)
 * 静态资源(HTTP)服务器 / CDN(后期租用)
 * 缓存
