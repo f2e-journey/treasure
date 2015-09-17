@@ -32,7 +32,7 @@
 * Node.js
 * Full Stack developer(全端工程师), 前后端融合
 * (Single Page) Web App, 移动前端开发, Hybrid App
-* Web Game
+* [Web Game](https://developer.mozilla.org/en-US/docs/Games)
 
 ### 博客/社区
 * [百度 FEX](http://fex.baidu.com/)
