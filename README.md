@@ -46,6 +46,7 @@
 * [Smashing Magazine](http://www.smashingmagazine.com/)
 * [CSS-Tricks](https://css-tricks.com/)
 * [Codrops](http://tympanus.net/codrops/)
+* [AWWWARDS](http://www.awwwards.com/)
 * 首选是行业博客
 * 再是大牛的个人博客/前端著名人物博客
 * [Aaron](http://www.cnblogs.com/aaronjs/) / [叶小钗](http://www.cnblogs.com/yexiaochai/) / [张鑫旭](http://www.zhangxinxu.com) / [民工精髓](https://github.com/xufei/blog/tree/master/posts) / [Philip Walton](http://philipwalton.com/)
