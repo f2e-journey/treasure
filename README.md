@@ -58,6 +58,7 @@
 * [Web technology for developers | MDN](https://developer.mozilla.org/en-US/docs/Web)
 * [醉前端](http://f2er.club/)
 * [码农周刊](http://weekly.manong.io/issues/)
+* [Web技术日报](http://web.memect.com/)
 * [ThoughtWorks中国分享](http://insights.thoughtworkers.org/)
 
 ### 技术峰会
