@@ -383,6 +383,9 @@ A simple plugin to create multi scrolling websites with two vertical scrolling p
 
 [jquery-smooth-scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 
+[jQuery.scrollIntoView](https://github.com/egoist/jQuery.scrollIntoView)
+When a DIV is scrolled into or out of the visible part of browser it executes a function.
+
 ### 抽奖/活动
 [wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
 
