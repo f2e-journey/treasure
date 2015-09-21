@@ -243,6 +243,9 @@
     > A big code base needs to be organized. Module systems offer the option to split your code base into modules.
 * [淘宝前后端分离实践](http://2014.jsconf.cn/slides/herman-taobaoweb/index.html)
     
+    > 在服务器(Java) 与 浏览器(JS)的中间
+    > 架了一个中间层(NodeJS)
+    > 
     > | 后端            	|                                                                           	| 前端                                                      	|
     > |-----------------	|:-------------------------------------------------------------------------:	|-----------------------------------------------------------	|
     > | 服务器          	|                                                                           	| 浏览器                                                    	|
