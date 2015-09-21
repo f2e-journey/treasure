@@ -241,3 +241,10 @@
     > As a result there is a lot of code on the client side!
     > 
     > A big code base needs to be organized. Module systems offer the option to split your code base into modules.
+* [淘宝前后端分离实践](http://2014.jsconf.cn/slides/herman-taobaoweb/index.html)
+    
+    > | 后端            	|                                                                           	| 前端                                                      	|
+    > |-----------------	|:-------------------------------------------------------------------------:	|-----------------------------------------------------------	|
+    > | 服务器          	|                                                                           	| 浏览器                                                    	|
+    > | Java            	|                                   NodeJS                                  	| JS+HTML+CSS                                               	|
+    > | 服务层 提供数据 	| 跑在服务器上的JS 转发数据, 串接服务 路由设计, 控制逻辑 渲染页面, 体验优化 	| 跑在浏览器上的JS CSS, JS加载与运行 DOM操作 共用模版, 路由 	|
