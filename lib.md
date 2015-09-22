@@ -403,6 +403,7 @@ execute a function whenever you scroll to an element.
 
 ### 抽奖/活动
 [wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
+[lucky-card](https://github.com/Franslee/lucky-card) 刮刮卡
 
 ### 滑动图片
 [SuperSlide/TouchSlide](http://www.superslide2.com/)
