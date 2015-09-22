@@ -353,6 +353,8 @@ Smooth scrolling and smart navigation when user scrolls on one-page sites.
 
 http://www.zcool.com.cn/special/znote2014/
 
+[stickUp](http://lirancohen.github.io/stickUp/)
+
 [One Page Scroll](https://github.com/peachananr/onepage-scroll)
 one page scroll website that allows users to scroll one page at a time. It is perfect for creating a website in which you want to present something to the viewers.
 
@@ -360,6 +362,8 @@ one page scroll website that allows users to scroll one page at a time. It is pe
 
 [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 animate based on scroll position
+
+[SuperScrollorama](http://johnpolacek.github.io/superscrollorama/)
 
 [WOW.js](https://github.com/matthieua/WOW)
 Reveal CSS animation as you scroll down a page
@@ -385,6 +389,17 @@ A simple plugin to create multi scrolling websites with two vertical scrolling p
 
 [jQuery.scrollIntoView](https://github.com/egoist/jQuery.scrollIntoView)
 When a DIV is scrolled into or out of the visible part of browser it executes a function.
+
+[jQuery.Pin](http://webpop.github.io/jquery.pin/)
+Make your stuff stick
+
+[pagePiling.js](https://github.com/alvarotrigo/pagePiling.js)
+create beautiful fullscreen scrolling websites
+
+[animate-scroll](https://github.com/mpalpha/animate-scroll)
+
+[Waypoints](https://github.com/imakewebthings/waypoints)
+execute a function whenever you scroll to an element.
 
 ### 抽奖/活动
 [wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
@@ -457,6 +472,8 @@ multiple effects, animated text
 
 [jQuery.Switchable](https://github.com/jsw0528/jQuery.Switchable)
 
+
+[Sly](http://darsa.in/sly/)
 
 ### 表单组件
 [Checkboxradio](https://github.com/filamentgroup/checkboxradio)
@@ -542,6 +559,9 @@ create many types of grid layouts: flexible layouts, images layouts, nested grid
 
 
 [jquery-scrollpanel](https://github.com/lrsjng/jquery-scrollpanel)
+
+[infinity](https://github.com/airbnb/infinity)
+speeds up scrolling through long lists and keeps your infinite feeds smooth and stable
 
 
 ### 弹窗
