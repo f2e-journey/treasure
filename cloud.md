@@ -77,12 +77,13 @@ backend云服务, 一般提供开发一个应用所需的所有服务, 而不需
 定时任务
 消息推送
 [Bmob]( http://www.bmob.cn/app/list)
-    cdream01@sina.com/123456
 [LeanCloud](https://leancloud.cn)
-    cdream01@sina.com/aA12345678
 [ApiCloud]( http://apicloud.com/)
 [Parse](http://parse.com)
 [Firebase](https://www.firebase.com/)
+
+[Gametata](http://www.gametata.com/)
+一般通用的游戏的网路功能大概包括： 玩家信息，背包，pvp，聊天，排行榜，支付等功能。gametata为所有的常用功能提供接口，只需要3，5行代码，就可以为游戏接入各种网络功能。
 
 一站式服务
 * [Telerik Platform](https://platform.telerik.com)
