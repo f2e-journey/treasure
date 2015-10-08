@@ -201,6 +201,7 @@ managing CSS animations. Stack animations
 
 [CountUp.js](https://github.com/inorganik/countUp.js) Animates a numerical value
 
+[Popmotion](https://github.com/Popmotion/popmotion) motion engine. Make it pop with animation, physics, and input tracking.
 
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
