@@ -30,6 +30,17 @@
     >
     > 6) 如何做组件化(HTML/JavaScript/CSS的组件化)
 
+* [构建单页Web应用](https://github.com/xufei/blog/issues/5)
+
+    > * 代码隔离
+    > * 代码合并与加载策略
+    > * 组件化
+    > * 样式的规划
+    > * 路由与状态的管理
+    > * 服务端通信
+    > * 缓存与本地存储
+    > * 内存管理
+
 * [从零开始编写自己的JavaScript框架](https://github.com/xufei/blog/blob/master/posts/2013-07-01-%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%BC%96%E5%86%99%E8%87%AA%E5%B7%B1%E7%9A%84JavaScript%E6%A1%86%E6%9E%B6%EF%BC%88%E4%B8%80%EF%BC%89.md)
 
     > 1) 模块的定义和加载
