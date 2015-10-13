@@ -82,7 +82,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     常用模块安装脚本
     > npm ls -depth 0 -g
 
-    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp flex-combo anyproxy supervisor node-inspector sails -g
+    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp flex-combo anyproxy supervisor node-inspector sails nodeppt -g
     
     * [Grunt](http://gruntjs.com/)
        
@@ -172,7 +172,14 @@ v0.0.1 2015-5-5(还未正式发布版本)
        > cd sails-demo
        
        > sails lift
-
+    * [nodePPT](https://github.com/ksky521/nodePPT)
+    
+      用 ```markdown``` 写PPT可以导出 pdf 或者 html(网页上即可查看 PPT)
+      ```markdown
+      [slide]
+      # 标题
+      ## 副标题
+      ```
 
 * [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
