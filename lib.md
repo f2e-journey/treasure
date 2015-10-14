@@ -6,6 +6,8 @@ open-source analytics platform
 http://unslider.com/
 http://www.woothemes.com/flexslider/
 
+参考 [Awesomes - 前端资源库](http://www.awesomes.cn/)
+
 
 # 常用lib(TODO 分类整理)
 选择原则: Do one thing do good, K.I.S.S., micro, NO dependency, CN
