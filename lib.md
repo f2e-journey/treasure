@@ -187,6 +187,10 @@ Extend $.animate() to detect CSS transitions and convert animations automaticall
 [Transit](http://ricostacruz.com/jquery.transit/)
 CSS transitions & transformations
 
+[Velocity](https://github.com/julianshapiro/velocity)
+an animation engine with the same API as jQuery's $.animate().
+It's incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.
+
 [Animsition](https://github.com/blivesta/animsition/)
 css animated page transitions.
 
@@ -671,9 +675,6 @@ animating CSS sprites and dynamic scrolling backgrounds
 
 [GSAP](http://greensock.com/gsap)
  动画, Draggable and SplitText
- 
-[Velocity](https://github.com/julianshapiro/velocity)
-an animation engine with the same API as jQuery's $.animate(). It works with and without jQuery. It's incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.
 
 
 [表单验证](http://validform.rjboy.cn/)
