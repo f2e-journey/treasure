@@ -187,7 +187,7 @@ Extend $.animate() to detect CSS transitions and convert animations automaticall
 [Transit](http://ricostacruz.com/jquery.transit/)
 CSS transitions & transformations
 
-[Velocity](https://github.com/julianshapiro/velocity)
+[Velocity](http://julian.com/research/velocity/)
 an animation engine with the same API as jQuery's $.animate().
 It's incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.
 
