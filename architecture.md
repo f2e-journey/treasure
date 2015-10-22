@@ -26,6 +26,13 @@ Load Balancer  <-->    Sails.js server    <-->
                              ....
 ```
 
+[StackExchange performance](http://stackexchange.com/performance)
+* 670 MILLION PV/month
+* 9 WEB SERVERS / 300 REQ /S
+* 4 SQL SERVERS
+* 2 REDIS SERVERS
+* 2 HAPROXY SERVERS
+
 ## 技术实现
 * 负责均衡/静态(HTTP)服务器
     [Nginx]()
