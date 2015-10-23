@@ -610,8 +610,10 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
   * 韦恩图
   * 力导向布局图
   * 温度计图占比/扇形一维比例图/标签星系图/多触点关联图/环形关联图/等比流失图/流入流出关系图
-*[ECharts](http://echarts.baidu.com/doc/example.html)
+
+* [ECharts](http://echarts.baidu.com/doc/example.html)
   图形类型非常非常丰富 [Why ECharts?](http://echarts.baidu.com/doc/slide/whyEcharts.html)
+
 * [jsPlumb](https://github.com/sporritt/jsplumb/) Visual connectivity
 * [Kity Minder](https://github.com/fex-team/kityminder) 百度脑图
 * [two.js](https://github.com/jonobr1/two.js)
