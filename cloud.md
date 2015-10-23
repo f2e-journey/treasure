@@ -242,3 +242,4 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 * [DevStore](http://www.devstore.cn/)
 * [SDK.cn](http://sdk.cn) 开发者服务平台
 * [移动开发者服务联盟](http://mdsa.51cto.com/)
+* [聚合数据](https://www.juhe.cn/)
