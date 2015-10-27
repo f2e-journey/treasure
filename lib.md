@@ -13,7 +13,7 @@ http://www.woothemes.com/flexslider/
 选择原则: Do one thing do good, K.I.S.S., micro, NO dependency, CN
 
 ## 常用组合
-* 基础库:   jQuery | Zepto(IE10+) | Backbone + AmplifyJS | Angular | Avalon
+* 基础库:   jQuery | Zepto(IE10+) | Backbone/Vue.js + AmplifyJS | Angular | Avalon
 * 前端框架: Bootstrap | Pure.css
 
 
