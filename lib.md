@@ -581,6 +581,8 @@ speeds up scrolling through long lists and keeps your infinite feeds smooth and 
 
 [iGrowl](https://github.com/catc/iGrowl/) growl-like notifications with an emphasis on icons
 
+[SweetAlert](https://github.com/t4t5/sweetalert) An awesome replacement for JavaScript's alert.
+
 [fancyBox](https://github.com/fancyapps/fancyBox)
 Mac风格的弹出窗口, 支持图片, iframe等等
 
