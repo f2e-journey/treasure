@@ -579,6 +579,8 @@ speeds up scrolling through long lists and keeps your infinite feeds smooth and 
 * 模态对话框
 * 气泡浮层
 
+[iGrowl](https://github.com/catc/iGrowl/) growl-like notifications with an emphasis on icons
+
 [fancyBox](https://github.com/fancyapps/fancyBox)
 Mac风格的弹出窗口, 支持图片, iframe等等
 
