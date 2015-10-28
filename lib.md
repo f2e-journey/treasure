@@ -408,6 +408,9 @@ create beautiful fullscreen scrolling websites
 [Waypoints](https://github.com/imakewebthings/waypoints)
 execute a function whenever you scroll to an element.
 
+[AniJS](https://github.com/anijs/anijs) Raise your Web Design without Coding
+data-anijs="if: click, do: flipInY, to: .container-box"
+
 ### 抽奖/活动
 [wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
 [lucky-card](https://github.com/Franslee/lucky-card) 刮刮卡
