@@ -262,3 +262,9 @@
     > | 服务器          	|                                                                           	| 浏览器                                                    	|
     > | Java            	|                                   NodeJS                                  	| JS+HTML+CSS                                               	|
     > | 服务层 提供数据 	| 跑在服务器上的JS 转发数据, 串接服务 路由设计, 控制逻辑 渲染页面, 体验优化 	| 跑在浏览器上的JS CSS, JS加载与运行 DOM操作 共用模版, 路由 	|
+
+* [如何带好前端团队](http://mp.weixin.qq.com/s?__biz=MzAxNzM4OTE4Mg==&mid=208550775&idx=1&sn=444f94bdfb0b252c265e6afaab04841c&scene=4#wechat_redirect)
+
+    > ![技术团队的梯形互补](http://mmbiz.qpic.cn/mmbiz/DFAV2KytcbXtYd8ibFu41icWofvqFbxXxvrAYx9YviaMgtVsXmWtuJBsM3CQZyibKbic9OWPppavFAPfAOrZPWBibNRw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+    > * 第一类是将才，是编程高手
+    > * 第二类是帅才，是产品高手
