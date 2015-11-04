@@ -272,6 +272,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 
 ## 项目方案
+* [AOS](http://git.oschina.net/osworks/AOS)
+
+* [G4Studio](https://git.oschina.net/osworks/G4Studio)
+
 * [JeeSite](https://github.com/thinkgem/jeesite)
 
     > 企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等
@@ -288,6 +292,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
     > * 工作流引擎：实现业务工单流转、在线流程设计器。
     > 
     > 2013年就有的老平台了
+
+* [JEECG](http://git.oschina.net/jeecg/jeecg)
 
 * 其他可选项 - [WebX5/BeX5](http://wex5.com/cn/bex5/) 看还有哪些?
 
