@@ -348,12 +348,6 @@ An automatic web page progress bar.
 
 
 ### 排版
-[Entry.css](https://github.com/zmmbreeze/Entry.css/)
-更适合中文阅读
-
-[typo.css](https://github.com/sofish/Typo.css)
-reset + 中文排版
-
 [yue.css](https://github.com/lepture/yue.css)
 a typography stylesheet for readable content
 
