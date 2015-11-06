@@ -29,6 +29,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [QQ输入法](http://qq.pinyin.cn/)
     * [QQ影音](http://player.qq.com/)
     * [QQ旋风](http://xf.qq.com/) TODO 现在用的迅雷很老的版本, 可能以后就用这个了, 精简的迅雷老版本感觉太老了, 还是迅雷6, 现在QQ旋风也没有广告, 很好了
+    * [QQ浏览器](http://browser.qq.com/)
     * [WPS](http://www.wps.cn/product/wps2013/)
         
         替代MS-office
