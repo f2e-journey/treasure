@@ -348,8 +348,11 @@ An automatic web page progress bar.
 
 
 ### 排版
+[Entry.css](https://github.com/zmmbreeze/Entry.css/)
+更适合中文阅读
+
 [typo.css](https://github.com/sofish/Typo.css)
-中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+reset + 中文排版
 
 [yue.css](https://github.com/lepture/yue.css)
 a typography stylesheet for readable content
