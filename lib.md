@@ -79,13 +79,16 @@ Mobile HTML framework to develop web apps with iOS & Android native look and fee
 [GMU](https://github.com/fex-team/gmu)
 基于zepto的ui组件库，适用于移动端由百度GMU小组开发
 
+[NovaUI](https://github.com/75team/novaUI/)
+奇舞团基于Zepto的移动UI组件库
+
+[Motion](https://github.com/tgideas/motion)
+基于ZeptoJS，为移动终端Web应用量身定制的组件库，重点开发结合HTML5新特征的创新实用组件
+
 [AdminLTE](https://www.almsaeedstudio.com/)
 Dashboard & Control Panel Template
 * Responsive admin template
 * Built with Bootstrap 3
-
-[Motion](https://github.com/tgideas/motion)
-基于ZeptoJS，为移动终端Web应用量身定制的组件库，重点开发结合HTML5新特征的创新实用组件
 
 [FrozenUI](https://github.com/frozenui/frozenui)
 腾讯移动端UI框架, FrozenUI的CSS组件库,基于腾讯手Q样式规范
