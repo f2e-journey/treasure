@@ -61,6 +61,7 @@
 * [码农周刊](http://weekly.manong.io/issues/)
 * [Web技术日报](http://web.memect.com/)
 * [ThoughtWorks中国分享](http://insights.thoughtworkers.org/)
+* [技术流](http://uridb.com/t/frontend)
 
 ### 技术峰会
 * [D2前端技术论坛](http://www.d2forum.org/)
