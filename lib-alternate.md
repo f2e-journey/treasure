@@ -3,6 +3,11 @@ lib.md中放置常用框架, lib-alternate 放置备用框架, 用于做对比�
 
 * [YOU MIGHT NOT NEED JQUERY PLUGINS](http://youmightnotneedjqueryplugins.com/)
 
+## 类 bootstrap UI框架
+* [ZUI](http://www.zui.sexy/)
+* [AmazeUI](http://amazeui.org/)
+* [Pintuer](http://www.pintuer.com/)
+
 ## 排版
 * [typo.css](https://github.com/xiangming/typo)
 感觉像yue.css的克隆
