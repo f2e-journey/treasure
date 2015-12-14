@@ -554,6 +554,7 @@ unobtrusively upgrade HTML forms to use AJAX
 
 [zTree](https://github.com/zTree/zTree_v3)
 
+[jQuery-Knob](https://github.com/aterrien/jQuery-Knob) touchable, jQuery dial
 
 ### 滚动条
 [iScroll](https://github.com/cubiq/iscroll/)
