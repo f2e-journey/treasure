@@ -18,3 +18,10 @@ lib.md中放置常用框架, lib-alternate 放置备用框架, 用于做对比�
 
 * [typo.css](https://github.com/sofish/Typo.css)
 reset + 中文排版
+
+## UI
+* [noty](https://github.com/needim/noty/)
+a jQuery notification plugin that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
+
+* [kwicks](https://github.com/jmar777/kwicks)
+sliding panels for jQuery
