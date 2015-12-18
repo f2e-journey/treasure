@@ -582,11 +582,8 @@ speeds up scrolling through long lists and keeps your infinite feeds smooth and 
 
 
 ### 弹窗
-[artDialog](http://aui.github.io/artDialog/)
-经典的网页对话框组件
-* 普通对话框
-* 模态对话框
-* 气泡浮层
+[layerui | layer](layer.layui.com)
+* alert, confirm, prompt, msg, load, tips, iframe(window)
 
 [iGrowl](https://github.com/catc/iGrowl/) growl-like notifications with an emphasis on icons
 
@@ -795,6 +792,8 @@ A free library of HTML, CSS, JS nuggets
 [Github资源收集](http://segmentfault.com/a/1190000003510001)
 
 [Use getAwesomeness()](http://getawesomeness.com/get/js)
+
+[一些移动Web开发的干货](https://coding.net/u/f2e/p/Books/git/tree/master/%E7%A7%BB%E5%8A%A8Web)
 
 ## 非WEB前端
 [启动界面插件](http://www.bangcle.com/solution/sdk-detail/?id=10)
