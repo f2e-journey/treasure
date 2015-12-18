@@ -27,7 +27,7 @@ a jQuery notification plugin that makes it easy to create alert - success - erro
 sliding panels for jQuery
 
 * [artDialog](http://aui.github.io/artDialog/)
-经典的网页对话框组件
-* 普通对话框
-* 模态对话框
-* 气泡浮层
+  经典的网页对话框组件
+  * 普通对话框
+  * 模态对话框
+  * 气泡浮层
