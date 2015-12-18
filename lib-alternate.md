@@ -25,3 +25,9 @@ a jQuery notification plugin that makes it easy to create alert - success - erro
 
 * [kwicks](https://github.com/jmar777/kwicks)
 sliding panels for jQuery
+
+* [artDialog](http://aui.github.io/artDialog/)
+经典的网页对话框组件
+* 普通对话框
+* 模态对话框
+* 气泡浮层
