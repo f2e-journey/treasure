@@ -186,7 +186,22 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
     Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
     
-    常用PS扩展, 主要是方便切图, 如果没有扩展插件的情况下, 一般通过复制图层或者切片工具(在裁剪工具下面)来切图, 切片工具配合参考线比较适合整块整块地切(例如那些类似图片拼接的页面), 或者试一试[直接将 PSD 转换成页面的工具](https://github.com/zswang/h5psd)
+    切图打法
+    * 选中图层 + 图层选取(ctrl + 鼠标单击图层缩略图) + 拷贝(合并拷贝) + 文件/新建(剪贴板) + 粘帖
+    * 选中图层(可多个) + (合并图层) + 复制图层 + 文档/新建 + 裁切
+    * 切片工具(适合整块的切类似图片拼接的页面) + 参考线
+    * 各种切图插件(例如: [Cut&Slice me]())
+    * Photoshop CC 2014 自动切图(自动导出图片资源)
+    
+    > 开启方式
+    > 1. 首选项 - 增效工具 - 启用生成器
+    > 2. 文件(菜单) - 生成 - 图像资源
+    > 3. 命名图层为 xxx.png 或者 xxx.jpg 即可
+    > 4. {PSD名}-assets 文件夹中就会出现我们想要的切图了
+    
+    * Photoshop CC 2014 复制 CSS
+    
+    常用PS扩展, 主要是方便切图
     * [Cutterman](http://www.cutterman.cn/cutterman/feature)
     * [Cut&Slice me](http://www.cutandslice.me/)
     * [LayerCraft](http://lab.rayps.com/lc/)
