@@ -190,7 +190,16 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * 选中图层 + 图层选取(ctrl + 鼠标单击图层缩略图) + 拷贝(合并拷贝) + 文件/新建(剪贴板) + 粘帖
     * 选中图层(可多个) + (合并图层) + 复制图层 + 文档/新建 + 裁切
     * 切片工具(适合整块的切类似图片拼接的页面) + 参考线
-    * 各种切图插件(例如: [Cut&Slice me]())
+    * 各种切图插件
+       > 常用PS扩展, 主要是方便切图
+       
+       > * [Cutterman](http://www.cutterman.cn/cutterman/feature)
+       > * [Cut&Slice me](http://www.cutandslice.me/)
+       > * [LayerCraft](http://lab.rayps.com/lc/)
+       > * [Ink](http://ink.chrometaphore.com/)
+       > * [Specctr](https://www.specctr.com/buy)
+       > * [GuideGuide](http://guideguide.me/)
+       > * [Layrs Control](http://madebyvadim.com/layrs/)
     * Photoshop CC 2014 自动切图(自动导出图片资源)
     
        > 开启方式
@@ -204,15 +213,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
        > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
     
     * Photoshop CC 2014 选中图层 + 复制 CSS
-    
-    常用PS扩展, 主要是方便切图
-    * [Cutterman](http://www.cutterman.cn/cutterman/feature)
-    * [Cut&Slice me](http://www.cutandslice.me/)
-    * [LayerCraft](http://lab.rayps.com/lc/)
-    * [Ink](http://ink.chrometaphore.com/)
-    * [Specctr](https://www.specctr.com/buy)
-    * [GuideGuide](http://guideguide.me/)
-    * [Layrs Control](http://madebyvadim.com/layrs/)
 
 * [Fiddler](http://www.telerik.com/fiddler)
     
