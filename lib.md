@@ -795,6 +795,8 @@ A free library of HTML, CSS, JS nuggets
 
 [一些移动Web开发的干货](https://coding.net/u/f2e/p/Books/git/tree/master/%E7%A7%BB%E5%8A%A8Web)
 
+[awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
+
 ## 非WEB前端
 [启动界面插件](http://www.bangcle.com/solution/sdk-detail/?id=10)
 很实用的Android SDK, 但还没有推出正式版本
