@@ -216,7 +216,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     常用快捷键
     * 按住空格键 + 鼠标拖拽        | 移动画布
     * alt + 鼠标滚轮               | 放大/缩小画布
-    * alt + 鼠标单击某图层眼睛图标 | 显示/隐藏所有其他层, 即仅显示该图层)
+    * alt + 鼠标单击某图层眼睛图标 | 显示/隐藏所有其他层, 即仅显示某图层
 * [Fiddler](http://www.telerik.com/fiddler)
     
     The free web debugging proxy for any browser, system or platform
