@@ -187,7 +187,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
     
     切图打法(现在使用 Photoshop CC 2014)
-    * 显示/隐藏所有其他层(即仅显示某图层 快捷键: alt + 鼠标单击该图层眼睛图标)
     * 选中图层 + 图层选区(ctrl + 鼠标单击图层缩略图/ctrl+d[取消选择]) + 拷贝(合并拷贝) + 文件/新建(剪贴板) + 粘帖
     * 选中图层(可多个) + (合并图层) + 复制图层 + 文档/新建 + 裁切
     * 切片工具(适合整块的切类似图片拼接的页面) + 参考线
@@ -214,6 +213,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
        > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
     * Photoshop CC 2014 选中图层 + 复制 CSS
 
+    常用快捷键
+    * 按住空格键 + 鼠标拖拽        | 移动画布
+    * alt + 鼠标滚轮               | 放大/缩小画布
+    * alt + 鼠标单击某图层眼睛图标 | 显示/隐藏所有其他层, 即仅显示该图层)
 * [Fiddler](http://www.telerik.com/fiddler)
     
     The free web debugging proxy for any browser, system or platform
