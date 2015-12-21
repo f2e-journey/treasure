@@ -187,7 +187,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
     
     切图打法(现在使用 Photoshop CC 2014)
-    * 选中图层 + 图层选取(ctrl + 鼠标单击图层缩略图) + 拷贝(合并拷贝) + 文件/新建(剪贴板) + 粘帖
+    * 选中图层 + 图层选区(ctrl + 鼠标单击图层缩略图/ctrl + d[取消选择]) + 拷贝(合并拷贝) + 文件/新建(剪贴板) + 粘帖
     * 选中图层(可多个) + (合并图层) + 复制图层 + 文档/新建 + 裁切
     * 切片工具(适合整块的切类似图片拼接的页面) + 参考线
     * 各种切图插件
