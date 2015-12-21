@@ -193,17 +193,17 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * 各种切图插件(例如: [Cut&Slice me]())
     * Photoshop CC 2014 自动切图(自动导出图片资源)
     
-    > 开启方式
+       > 开启方式
+       
+       > 1、 首选项 - 增效工具 - 启用生成器
+       
+       > 2、 文件(菜单) - 生成 - 图像资源
+       
+       > 3、命名图层为 xxx.png 或者 xxx.jpg 即可
+       
+       > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
     
-    > 1、 首选项 - 增效工具 - 启用生成器
-    
-    > 2、 文件(菜单) - 生成 - 图像资源
-    
-    > 3、命名图层为 xxx.png 或者 xxx.jpg 即可
-    
-    > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
-    
-    * Photoshop CC 2014 复制 CSS
+    * Photoshop CC 2014 选中图层 + 复制 CSS
     
     常用PS扩展, 主要是方便切图
     * [Cutterman](http://www.cutterman.cn/cutterman/feature)
