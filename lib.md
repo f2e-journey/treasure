@@ -491,6 +491,8 @@ multiple effects, animated text
 
 [Sly](http://darsa.in/sly/)
 
+[Glide](https://github.com/jedrzejchalubek/Glide.js)
+
 ### 表单组件
 [Checkboxradio](https://github.com/filamentgroup/checkboxradio)
 
