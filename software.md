@@ -6,6 +6,8 @@
 
 更多的常用网站需要更新, 还有其他团队软件, 需要更新
 
+[Don’t Use Sails (or Waterline)](https://kev.inburke.com/kevin/dont-use-sails-or-waterline/)
+
 
 [Ghost博客平台不错, 试试看, 作为wordpress的取代品](https://ghost.org/)
 
