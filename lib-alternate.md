@@ -3,7 +3,11 @@ lib.md中放置常用框架, lib-alternate 放置备用框架, 用于做对比�
 
 * [YOU MIGHT NOT NEED JQUERY PLUGINS](http://youmightnotneedjqueryplugins.com/)
 
-## 类 bootstrap UI框架
+## 前端基础框架
+* [YUI](https://github.com/yui/yui3)
+* [KISSY](http://docs.kissyui.com/5.0/)
+
+## 类 bootstrap UI 前端框架
 * [ZUI](http://www.zui.sexy/)
 * [AmazeUI](http://amazeui.org/)
 * [Pintuer](http://www.pintuer.com/)
