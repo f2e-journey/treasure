@@ -94,9 +94,7 @@ Dashboard & Control Panel Template
 腾讯移动端UI框架, FrozenUI的CSS组件库,基于腾讯手Q样式规范
 
 [Ant Design](https://github.com/ant-design/ant-design)
-蚂蚁金服体验技术部出品
-
-[KISSY](http://docs.kissyui.com/5.0/)
+蚂蚁金服体验技术部出品, 提供了很多炫酷的组件, 值得借鉴, 特别是 QueueAnim 进出场动画
 
 
 ## 工具
@@ -168,8 +166,6 @@ localStorage wrapper for all browsers without using cookies or flash. Uses local
 [jQuery](http://jquery.com) | [Zepto](http://zeptojs.com/)
 
 [Backbone](http://backbonejs.org/) | [Angular](https://angularjs.org/) | [Avalon](https://github.com/RubyLouvre/avalon)
-
-[YUI](https://github.com/yui/yui3)
 
 [colors](http://clrs.cc/) Better colors for the web
 
