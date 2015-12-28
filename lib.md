@@ -767,6 +767,9 @@ The High Velocity Web Framework For Java and Scala
 相当于Java界的rails
 
 ## Web 桌面应用
+
+Build cross platform desktop apps with web technologies
+
 * [Electron](https://github.com/atom/electron)
 * [node-webkit](https://github.com/nwjs/nw.js)
 * [heX](https://github.com/netease-youdao/hex)
