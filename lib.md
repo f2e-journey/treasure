@@ -766,6 +766,11 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 The High Velocity Web Framework For Java and Scala
 相当于Java界的rails
 
+## Web 桌面应用
+* [Electron](https://github.com/atom/electron)
+* [node-webkit](https://github.com/nwjs/nw.js)
+* [heX](https://github.com/netease-youdao/hex)
+
 ## 参考
 [前端开发仓库](http://code.ciaoca.com/)
 
