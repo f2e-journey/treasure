@@ -201,6 +201,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
        > * [Ink](http://ink.chrometaphore.com/)
        > * [Specctr](https://www.specctr.com/buy)
        > * [GuideGuide](http://guideguide.me/)
+       > * [Assistor PS](http://witstudio.net/)
        > * [Layrs Control](http://madebyvadim.com/layrs/)
     * Photoshop CC 2014 自动切图(自动导出图片资源)
     
