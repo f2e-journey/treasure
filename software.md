@@ -85,7 +85,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     常用模块安装脚本
     > npm ls -depth 0 -g
 
-    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp flex-combo anyproxy supervisor node-inspector sails nodeppt -g
+    > npm install grunt-cli browser-sync f5 harp hexo-cli weinre packageapp flex-combo anyproxy supervisor node-inspector sails nodeppt surge -g
     
     * [Grunt](http://gruntjs.com/)
        
@@ -234,6 +234,15 @@ v0.0.1 2015-5-5(还未正式发布版本)
     > ngrok http 3000 -subdomain myapp
     
     > _Cloud\Google\Gmail\ngrok.exe
+
+* [Surge](http://surge.sh/)
+    
+    Static web publishing(Free custom domain support) for Front-End Developers
+    > surge list
+    
+    > surge --domain ufologist.surge.sh
+    
+    > surge teardown ufologist.surge.sh
 
 * [nginx](http://nginx.org)
     
