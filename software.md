@@ -121,7 +121,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
     * [weinre](http://people.apache.org/~pmuellr/weinre/)
     
-       weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone. 如果是临时使用一下, 可以用百度Clouda+提供的在线服务[clouda+weinre](http://weinre123.duapp.com/)
+       weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone. 如果是临时使用一下, 可以用百度Clouda+提供的在线服务[clouda+weinre](http://weinre123.duapp.com/), 也可以试一试[微信web开发者工具](http://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)调试微信网页授权, JS-SDK, 基于 weinre 的移动调试
        > C:\Documents and Settings\Administrator\.weinre\server.properties
     
        > boundHost:    -all-
