@@ -190,6 +190,12 @@ It's incredibly fast, and it features color animation, transforms, loops, easing
 * [GSAP](http://greensock.com/gsap)
 TweenLite, TimelineLite, TweenMax, TimelineMax, Draggable and SplitText, 早在 flash 时代就已经称霸动画界了
 
+* [Tweene](https://github.com/SkidX/tweene)
+Tweene is an animation proxy: used as a wrapper of your chosen library, it may allow you to
+write animations easily, thanks to its versatile interface that adapts itself to your programming style
+gain extra features (play, pause, reverse, resume, restart and speed control, Timelines)
+switch easily from one library to another any time you want.
+
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
 
