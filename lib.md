@@ -180,38 +180,15 @@ localStorage wrapper for all browsers without using cookies or flash. Uses local
 
 
 ### 动画
-[jquery.animate-enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)
-Extend $.animate() to detect CSS transitions and convert animations automatically.
+* [Popmotion](https://github.com/Popmotion/popmotion)
+motion engine. Make it pop with animation, physics, and input tracking.
 
-[Transit](http://ricostacruz.com/jquery.transit/)
-CSS transitions & transformations
-
-[Velocity](http://julian.com/research/velocity/)
+* [Velocity](http://julian.com/research/velocity/)
 an animation engine with the same API as jQuery's $.animate().
 It's incredibly fast, and it features color animation, transforms, loops, easings, SVG support, and scrolling. It is the best of jQuery and CSS transitions combined.
 
-[Animsition](https://github.com/blivesta/animsition/)
-css animated page transitions.
-
-[transitn](https://github.com/desandro/transitn)
-JS utility class for CSS transitions
-
-[animo.js](https://github.com/ThrivingKings/animo.js)
-managing CSS animations. Stack animations
-
-[tween.js](https://github.com/tweenjs/tween.js)
-
-[snabbt](https://github.com/daniel-lundin/snabbt.js)
-[Dynamics](https://github.com/michaelvillar/dynamics.js)
-
-[CountUp.js](https://github.com/inorganik/countUp.js) Animates a numerical value
-
-https://github.com/HubSpot/odometer
-
-http://aishek.github.io/jquery-animateNumber/
-
-
-[Popmotion](https://github.com/Popmotion/popmotion) motion engine. Make it pop with animation, physics, and input tracking.
+* [GSAP](http://greensock.com/gsap)
+TweenLite, TimelineLite, TweenMax, TimelineMax, Draggable and SplitText, 早在 flash 时代就已经称霸动画界了
 
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
@@ -697,10 +674,6 @@ FitText makes font-sizes flexible. Use this plugin on your responsive design for
 
 [Spritely](https://github.com/artlogicmedia/spritely)
 animating CSS sprites and dynamic scrolling backgrounds
-
-
-[GSAP](http://greensock.com/gsap)
- 动画, Draggable and SplitText
 
 
 [表单验证](http://validform.rjboy.cn/)
