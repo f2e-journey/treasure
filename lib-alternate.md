@@ -36,3 +36,27 @@ sliding panels for jQuery
   * 普通对话框
   * 模态对话框
   * 气泡浮层
+
+### 动画
+* [jquery.animate-enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)
+Extend $.animate() to detect CSS transitions and convert animations automatically.
+
+* [Transit](http://ricostacruz.com/jquery.transit/)
+CSS transitions & transformations
+
+* [Animsition](https://github.com/blivesta/animsition/)
+css animated page transitions.
+
+* [transitn](https://github.com/desandro/transitn)
+JS utility class for CSS transitions
+
+* [animo.js](https://github.com/ThrivingKings/animo.js)
+managing CSS animations. Stack animations
+
+* [tween.js](https://github.com/tweenjs/tween.js)
+
+* [snabbt](https://github.com/daniel-lundin/snabbt.js)
+* [Dynamics](https://github.com/michaelvillar/dynamics.js)
+
+* [CountUp.js](https://github.com/inorganik/countUp.js) Animates a numerical value
+http://aishek.github.io/jquery-animateNumber/
