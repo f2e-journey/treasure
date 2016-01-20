@@ -141,7 +141,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
     * [Hexo](http://hexo.io)
 
-       A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台.
+       A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台, 也可以试一试 [Nico](https://github.com/lepture/nico) 或者更多的[Static Site Generators](https://staticsitegenerators.net/)
        > hexo init blog
     
        > cd blog
