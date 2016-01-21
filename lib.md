@@ -6,6 +6,8 @@ open-source analytics platform
 http://unslider.com/
 http://www.woothemes.com/flexslider/
 
+https://www.meteor.com/
+
 参考 [Awesomes - 前端资源库](http://www.awesomes.cn/)
 
 
