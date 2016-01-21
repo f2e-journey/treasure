@@ -402,8 +402,9 @@ execute a function whenever you scroll to an element.
 data-anijs="if: click, do: flipInY, to: .container-box"
 
 ### 抽奖/活动
-[wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
-[lucky-card](https://github.com/Franslee/lucky-card) 刮刮卡
+* [wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
+* [lucky-card](https://github.com/Franslee/lucky-card) 刮刮卡
+* [fruit-slot](https://github.com/ufologist/fruit-slot) 经典水果机和其他可供参考的抽奖活动
 
 ### 滑动图片
 [SuperSlide/TouchSlide](http://www.superslide2.com/)
