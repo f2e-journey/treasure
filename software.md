@@ -74,6 +74,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 * [Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
     > _Cloud\Tencent\QQMail\GoogleChromePortable
+    > [DevTools tips](https://umaar.com/dev-tips/)
 
 * [CssGaga](http://www.99css.com/cssgaga/)
     
