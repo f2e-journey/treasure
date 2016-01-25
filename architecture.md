@@ -42,12 +42,35 @@ Load Balancer  <-->    Sails.js server    <-->
                              ....
 ```
 
-[StackExchange performance](http://stackexchange.com/performance)
-* 670 MILLION PV/month
-* 9 WEB SERVERS / 300 REQ /S
-* 4 SQL SERVERS
-* 2 REDIS SERVERS
-* 2 HAPROXY SERVERS
+* [StackExchange performance](http://stackexchange.com/performance)
+    * 670 MILLION PV/month
+    * 9 WEB SERVERS / 300 REQ /S
+    * 4 SQL SERVERS
+    * 2 REDIS SERVERS
+    * 2 HAPROXY SERVERS
+
+* [The Twelve-Factor App](http://12factor.net/zh_cn/)
+> 如今，软件通常会作为一种服务来交付，它们被称为网络应用程序，或软件即服务（SaaS）。12-Factor 为构建如下的 SaaS 应用提供了方法论：
+> * 使用标准化流程自动配置，从而使新的开发者花费最少的学习成本加入这个项目。
+> * 和操作系统之间尽可能的划清界限，在各个系统中提供最大的可移植性。
+> * 适合部署在现代的云计算平台，从而在服务器和系统管理方面节省资源。
+> * 将开发环境和生产环境的差异降至最低，并使用持续交付实施敏捷开发。
+> * 可以在工具、架构和开发流程不发生明显变化的前提下实现扩展。
+> 
+> 这套理论适用于任意语言和后端服务（数据库、消息队列、缓存等）开发的应用程序。
+>
+> 1. 基准代码 一份基准代码，多份部署
+> 2. 依赖 显式声明依赖关系
+> 3. 配置 在环境中存储配置
+> 4. 后端服务 把后端服务当作附加资源
+> 5. 构建，发布，运行 严格分离构建和运行
+> 6. 进程 以一个或多个无状态进程运行应用
+> 7. 端口绑定 通过端口绑定提供服务
+> 8. 并发 通过进程模型进行扩展
+> 9. 易处理 快速启动和优雅终止可最大化健壮性
+> 10. 开发环境与线上环境等价 尽可能的保持开发，预发布，线上环境相同
+> 11. 日志 把日志当作事件流
+> 12. 管理进程 后台管理任务当作一次性进程运行
 
 ## 技术实现
 * 负责均衡/静态(HTTP)服务器
