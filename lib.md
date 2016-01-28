@@ -47,7 +47,7 @@ cdn.code.baidu.com 看到 oj.js
 Material Design Lite Components in HTML/CSS/JS
 太惊艳了, OMG~ 谁用谁知道啊!
 
-[Bootstrap](http://getbootstrap.com/)
+[Bootstrap](http://getbootstrap.com/) | [Material design theme for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design)
 
 [Foundation](http://foundation.zurb.com/)
 
