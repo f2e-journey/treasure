@@ -176,6 +176,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
        > cd sails-demo
        
        > sails lift
+       
+       或者试一试 IBM 出品的[StrongLoop](https://strongloop.com/)可以快速的Compose APIs, Build, Deploy and Monitor Node
     * [nodePPT](https://github.com/ksky521/nodePPT)
     
       用 ```markdown``` 写PPT可以导出 pdf 或者 html(网页上即可查看 PPT)
