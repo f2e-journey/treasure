@@ -73,12 +73,14 @@ CSS with a minimal footprint. Pure is ridiculously tiny. The entire set of modul
 
 [framework7](http://www.idangero.us/framework7)
 Mobile HTML framework to develop web apps with iOS & Android native look and feel. 
+其他可选[Light7](http://light7.org/) 兼容性和 SUI Mobile 一样
 
 [WeUI](https://github.com/weui/weui)
 WeUI是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信 Web 开发量身设计，可以令用户的使用感知更加统一
 
 [SUI Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
 阿里巴巴国际UED团队基于 Framework7 开发的手机H5 UI库。它的特点是非常轻量，并且能很好兼容 iOS 6.0+ 和 Android 4.0+ 的设备。
+兼容性 iOS 6+ 以及 Android 4.0+
 
 [GMU](https://github.com/fex-team/gmu)
 基于zepto的ui组件库，适用于移动端由百度GMU小组开发
