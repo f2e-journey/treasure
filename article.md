@@ -242,6 +242,19 @@
     > 6) Non-deterministic Resolution
     > 
     > 7) Isolation
+* [时尚且健壮: 实现更优秀的CSS](http://www.infoq.com/cn/articles/guide-to-better-css)
+
+    > * 创建你自己的样式指南
+    > 
+    >   启动这一工作的最简单方式就是在你的项目根目录下新建一个style-guide.html文件，在其中包含整个网站中的CSS。
+    > 
+    > * 限定特定样式的范围
+    >
+    >   让这些代码只在这种场景中生效，而在其他场景中将自动忽略， 这种方式能够帮助我们确保在这个范围内的任何代码都不会影响网站的其余部分。
+    > 
+    > * 批判性地看待每一行CSS
+    > 
+    >   当完成代码的编写后，你应当重新审视你的代码。你可以试着删除你所编写的每一行CSS代码，并检查这一行代码有没有什么实际的作用。你是否真的需要overflow: hidden，将display属性改为inline有没有实际意义？如果答案是否定的，那就删除它。你所留下的代码越少，等到你下一次回顾这些代码时，它们为你所造成的困扰就越少。
 * [webpack Motivation](http://webpack.github.io/docs/motivation.html)
 
     > Today’s websites are evolving into web apps:
