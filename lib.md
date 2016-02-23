@@ -71,8 +71,9 @@ CSS with a minimal footprint. Pure is ridiculously tiny. The entire set of modul
 基于bootstrap开发的前端组件库, 同时也是一套设计规范
 国产的当然有很多符合国情的组件啦
 
-[framework7](http://www.idangero.us/framework7)
+[Framework7](http://www.idangero.us/framework7)
 Mobile HTML framework to develop web apps with iOS & Android native look and feel. 
+对 Android 兼容性不是很好, 可以选择试一试[Framework7-Plus](https://github.com/sdc-fe/Framework7-Plus)
 其他可选[Light7](http://light7.org/) 兼容性和 SUI Mobile 一样
 
 [WeUI](https://github.com/weui/weui)
@@ -90,6 +91,9 @@ WeUI是一套同微信原生视觉体验一致的基础样式库，由微信官�
 
 [Motion](https://github.com/tgideas/motion)
 基于ZeptoJS，为移动终端Web应用量身定制的组件库，重点开发结合HTML5新特征的创新实用组件
+
+[OnsenUI](http://components.onsen.io/)
+CSS 组件都是独立的, 可以选择性使用, 非常方便
 
 [AdminLTE](https://www.almsaeedstudio.com/)
 Dashboard & Control Panel Template
