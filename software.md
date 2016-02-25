@@ -111,6 +111,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [Puer](https://github.com/leeluolee/puer)
        
        more than a live-reload server , built for efficient frontend development
+       > puer -i -t http://localhost:8080 -a route.js
 
     * [Flex Combo](https://github.com/wayfind/flex-combo)
        
