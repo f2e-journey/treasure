@@ -1,4 +1,4 @@
-# 前端工程师常用软件(备选项)(Windows7 x64)
+# 前端工程师常用软件(备选项)
 [前端工程师常用软件(Windows7 x64)](https://github.com/f2e-journey/treasure/blob/master/software.md)
 
 ## 前端开发必备
