@@ -79,6 +79,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
   >
   > npm ls -depth 0 -g
 
+* [Puer](https://github.com/leeluolee/puer)
+
+  more than a live-reload server , built for efficient frontend development
+  > puer -i -t http://localhost:8080 -a route.js
+
 * [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
   Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
@@ -116,62 +121,16 @@ v0.0.1 2015-5-5(还未正式发布版本)
     > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
   * Photoshop CC 2014 选中图层 + 复制 CSS
 
-* [ngrok](https://ngrok.com/)
-    
-  I want to expose a local server behind a NAT or firewall to the internet.
-  ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on.
-  > ngrok http 3000 -subdomain myapp
-  >  
-  > _Cloud\Google\Gmail\ngrok.exe
-
-* [Surge](http://surge.sh/)
-
-  Static web publishing(Free custom domain support) for Front-End Developers
-  > surge list
-  >  
-  > surge --domain ufologist.surge.sh
-  >  
-  > surge teardown ufologist.surge.sh
-
-* [nginx](http://nginx.org)
-
-  HTTP服务器, 主要用做反向代理和负载均衡
-  > _Cloud\Google\Code\sync-software\nginx
-  >
-  > nginx
-  >  
-  > nginx -t
-  >  
-  > nginx -s reload
-  >  
-  > nginx -s stop
-
-* [Apache](http://httpd.apache.org/)
-
-  主要用ab工具做测试
-  > _Cloud\Google\Gmail\apache
-  >
-  > ab -n 10 -c 5 http://qq.com/
-  >  
-  > abs -n 10 -c 5 https://mp.weixin.qq.com/
-
 * [NW.js](https://github.com/nwjs/nw.js/)
     
-  node-webkit is renamed NW.js, You can write native apps in HTML and JavaScript with NW.js. 
+  node-webkit is renamed NW.js, You can write native apps in HTML and JavaScript with NW.js.
 
 * [CasperJS](http://casperjs.org/)
     
   a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript. 另外可选的还有[Nightmare](https://github.com/segmentio/nightmare)
 
-* [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
-
 
 ## 前端开发效率
-* [Puer](https://github.com/leeluolee/puer)
-
-  more than a live-reload server , built for efficient frontend development
-  > puer -i -t http://localhost:8080 -a route.js
-
 * [BrowserSync](http://www.browsersync.io)
    
   不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
@@ -206,14 +165,14 @@ v0.0.1 2015-5-5(还未正式发布版本)
   制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
   > _Cloud\Google\Gmail\CssGaga
 
-* [supervisor](https://github.com/petruisfan/node-supervisor)
-
-  Node Supervisor is used to restart programs when they crash.
-
 * [PxCook像素大厨](http://www.fancynode.com.cn/pxcook/home)
   
   不再为标注切图而烦恼, 可用来替代MarkMan
   > _Cloud\Google\Gmail\PxCook
+
+* [supervisor](https://github.com/petruisfan/node-supervisor)
+
+  Node Supervisor is used to restart programs when they crash.
 
 * [node-inspector](https://github.com/node-inspector/node-inspector#advanced-use)
 
@@ -223,6 +182,32 @@ v0.0.1 2015-5-5(还未正式发布版本)
   > supervisor --debug-brk debugme.js
   > 
   > Visit http://127.0.0.1:8080/
+
+* [ngrok](https://ngrok.com/)
+    
+  I want to expose a local server behind a NAT or firewall to the internet.
+  ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on.
+  > ngrok http 3000 -subdomain myapp
+  >  
+  > _Cloud\Google\Gmail\ngrok.exe
+
+* [Surge](http://surge.sh/)
+
+  Static web publishing(Free custom domain support) for Front-End Developers
+  > surge list
+  >  
+  > surge --domain ufologist.surge.sh
+  >  
+  > surge teardown ufologist.surge.sh
+
+* [Apache](http://httpd.apache.org/)
+
+  主要用ab工具做测试
+  > _Cloud\Google\Gmail\apache
+  >
+  > ab -n 10 -c 5 http://qq.com/
+  >  
+  > abs -n 10 -c 5 https://mp.weixin.qq.com/
 
 * [Sails](http://sailsjs.org/)
 
@@ -235,12 +220,28 @@ v0.0.1 2015-5-5(还未正式发布版本)
    
    或者试一试 IBM 出品的[StrongLoop](https://strongloop.com/)可以快速的Compose APIs, Build, Deploy and Monitor Node
 
+* [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
+
 ## 辅助工具
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [RailsInstaller](http://railsinstaller.org/)
 
   顺带了[Git](http://www.git-scm.com/)
 * [Python](https://www.python.org/downloads/)
+
+* [nginx](http://nginx.org)
+
+  HTTP服务器, 主要用做反向代理和负载均衡
+  > _Cloud\Google\Code\sync-software\nginx
+  >
+  > nginx
+  >  
+  > nginx -t
+  >  
+  > nginx -s reload
+  >  
+  > nginx -s stop
+
 * [TortoiseSVN](http://tortoisesvn.net/)
 
   > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
