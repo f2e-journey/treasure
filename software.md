@@ -30,7 +30,9 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [QQ](http://im.qq.com/download/)
     * [QQ输入法](http://qq.pinyin.cn/)
     * [QQ影音](http://player.qq.com/)
-    * [QQ旋风](http://xf.qq.com/) TODO 现在用的迅雷很老的版本, 可能以后就用这个了, 精简的迅雷老版本感觉太老了, 还是迅雷6, 现在QQ旋风也没有广告, 很好了
+    * [QQ旋风](http://xf.qq.com/)
+        
+        以前都是用的迅雷精简版很老的版本了(迅雷6), 然后用过QQ旋风后那个清爽, 没有广告终于可以专注于下载了. 如果还是想使用迅雷, 推荐使用[迅雷极速版](http://vip.xunlei.com/fast_xl/)或者[迅雷精简版](http://mini.xunlei.com/)
     * [QQ浏览器](http://browser.qq.com/)
     * [WPS](http://www.wps.cn/product/wps2013/)
         
