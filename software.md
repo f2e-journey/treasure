@@ -63,7 +63,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
   管理/转电子书格式, 例如pdf -> mobi
   > _Cloud\Google\Gmail\Calibre Portable
 
-## 前端开发
+## 前端必备
 * [Sublime Text](http://www.sublimetext.com/)
  
   我最称手的兵器
@@ -80,7 +80,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Node.js](http://nodejs.org/)
     
   常用模块安装脚本
-  > npm install puer browser-sync weinre grunt-cli harp hexo-cli flex-combo anyproxy supervisor node-inspector sails nodeppt surge -g
+  > npm install puer browser-sync weinre grunt-cli gulp-cli harp hexo-cli flex-combo anyproxy supervisor node-inspector sails nodeppt surge -g
   >
   > npm ls -depth 0 -g
 
@@ -88,6 +88,22 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
   more than a live-reload server , built for efficient frontend development
   > puer -i -t http://localhost:8080 -a route.js
+
+  * [Web开发免刷新](http://getf5.com/)
+   
+    支持HTML/CSS/JS自动刷新页面
+    > _Cloud\Google\Gmail\f5
+    
+    PS: 原来使用的nodejs版本的[F5](https://github.com/island205/f5), 但是自动刷新大概有5秒的延时, 只支持HTML页面的自动刷新, 不支持CSS/JS自动刷新, 已经用 Puer 替代了.
+
+  * [weinre](http://people.apache.org/~pmuellr/weinre/)
+
+    weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone. 如果是临时使用一下, 可以用百度Clouda+提供的在线服务[clouda+weinre](http://weinre123.duapp.com/), 也可以试一试[微信web开发者工具](http://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)调试微信网页授权, JS-SDK, 基于 weinre 的移动调试, 已经用 Puer 替代了.
+    > C:\Documents and Settings\Administrator\.weinre\server.properties
+    >
+    > boundHost:    -all-
+    >
+    > httpPort:     8081
 
 * [BrowserSync](http://www.browsersync.io)
    
@@ -98,23 +114,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
   >
   > browser-sync start --config bs-config.js
 
-* [Web开发免刷新](http://getf5.com/)
-   
-  支持HTML/CSS/JS自动刷新页面
-  > _Cloud\Google\Gmail\f5
-    
-  PS: 原来使用的nodejs版本的[F5](https://github.com/island205/f5), 但是自动刷新大概有5秒的延时, 只支持HTML页面的自动刷新, 不支持CSS/JS自动刷新, 已经用 Puer 替代了.
-
-* [weinre](http://people.apache.org/~pmuellr/weinre/)
-
-  weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone. 如果是临时使用一下, 可以用百度Clouda+提供的在线服务[clouda+weinre](http://weinre123.duapp.com/), 也可以试一试[微信web开发者工具](http://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)调试微信网页授权, JS-SDK, 基于 weinre 的移动调试
-  > C:\Documents and Settings\Administrator\.weinre\server.properties
-  >
-  > boundHost:    -all-
-  >
-  > httpPort:     8081
-
-* [Grunt](http://gruntjs.com/)
+* [Grunt](http://gruntjs.com/) | [Gulp](http://gulpjs.com/)
 
   JavaScript Task Runner 常用Grunt任务(TODO添加更多常用任务, 写到外面的grunt文件中)
 
@@ -129,28 +129,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
   > 
   > wget -mk http://www.example.com
 
-* [Harp](http://harpjs.com/)
-
-  The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
-
-  需要先安装 git 和 python
-  > harp init myproject
-  >
-  > harp server myproject
-  >
-  > harp compile myproject
-
-* [Hexo](http://hexo.io)
-
-  A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台, 也可以试一试 [Nico](https://github.com/lepture/nico) 或者更多的[Static Site Generators](https://staticsitegenerators.net/)
-  > hexo init blog
-  >
-  > cd blog
-  >
-  > npm install
-  >
-  > hexo server
-
 * [supervisor](https://github.com/petruisfan/node-supervisor)
 
   Node Supervisor is used to restart programs when they crash.
@@ -163,32 +141,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
   > supervisor --debug-brk debugme.js
   > 
   > Visit http://127.0.0.1:8080/
-* [Sails](http://sailsjs.org/)
-
-  Sails is a lightweight framework that sits on top of Express. Sails makes it easy to build custom, enterprise-grade Node.js apps. It is designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails.
-  > sails new sails-demo
-  > 
-  > cd sails-demo
-  > 
-  > sails lift
-   
-   或者试一试 IBM 出品的[StrongLoop](https://strongloop.com/)可以快速的Compose APIs, Build, Deploy and Monitor Node
-* [nodePPT](https://github.com/ksky521/nodePPT)
-
-  用 ```markdown``` 写PPT可以导出 pdf 或者 html(网页上即可查看 PPT)
-  ```markdown
-  [slide]
-  # 标题
-  ## 副标题
-  ```
-* [Flex Combo](https://github.com/wayfind/flex-combo)
-  
-  Combo技术是在服务端提供合并多个文件请求在一个响应中的技术, Flex Combo是在开发环境模拟实现了此功能的服务器，目的是方便前端开发调试。约等于一个支持Combo语法，只能访问js、css、iconfont等静态资源的Web服务器
-
-* [CssGaga](http://www.99css.com/cssgaga/)
-
-  制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
-  > _Cloud\Google\Gmail\CssGaga
 
 * [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
@@ -286,6 +238,25 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 * [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
+
+## 前端效率
+* [Sails](http://sailsjs.org/)
+
+  Sails is a lightweight framework that sits on top of Express. Sails makes it easy to build custom, enterprise-grade Node.js apps. It is designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails.
+  > sails new sails-demo
+  > 
+  > cd sails-demo
+  > 
+  > sails lift
+   
+   或者试一试 IBM 出品的[StrongLoop](https://strongloop.com/)可以快速的Compose APIs, Build, Deploy and Monitor Node
+
+* [CssGaga](http://www.99css.com/cssgaga/)
+
+  制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
+  > _Cloud\Google\Gmail\CssGaga
+
+
 ## 辅助工具
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [RailsInstaller](http://railsinstaller.org/)
@@ -295,6 +266,42 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [TortoiseSVN](http://tortoisesvn.net/)
 
   > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
+
+* [nodePPT](https://github.com/ksky521/nodePPT)
+
+  用 ```markdown``` 写PPT可以导出 pdf 或者 html(网页上即可查看 PPT)
+  ```markdown
+  [slide]
+  # 标题
+  ## 副标题
+  ```
+
+* [Hexo](http://hexo.io)
+
+  A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台, 也可以试一试 [Nico](https://github.com/lepture/nico) 或者更多的[Static Site Generators](https://staticsitegenerators.net/)
+  > hexo init blog
+  >
+  > cd blog
+  >
+  > npm install
+  >
+  > hexo server
+
+* [Harp](http://harpjs.com/)
+
+  The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
+
+  需要先安装 git 和 python
+  > harp init myproject
+  >
+  > harp server myproject
+  >
+  > harp compile myproject
+
+* [Flex Combo](https://github.com/wayfind/flex-combo)
+  
+  Combo技术是在服务端提供合并多个文件请求在一个响应中的技术, Flex Combo是在开发环境模拟实现了此功能的服务器，目的是方便前端开发调试。约等于一个支持Combo语法，只能访问js、css、iconfont等静态资源的Web服务器
+
 * [Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865)
     
   Network Monitor 3.4 is the archive versioned tool for network traffic capture and protocol analysis. 
