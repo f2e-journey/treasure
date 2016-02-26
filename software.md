@@ -227,6 +227,12 @@ v0.0.1 2015-5-5(还未正式发布版本)
     >
     > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
   * Photoshop CC 2014 选中图层 + 复制 CSS
+
+* [PxCook像素大厨](http://www.fancynode.com.cn/pxcook/home)
+  
+  不再为标注切图而烦恼, 可用来替代MarkMan
+  > _Cloud\Google\Gmail\PxCook
+
 * [Fiddler](http://www.telerik.com/fiddler)
     
   The free web debugging proxy for any browser, system or platform
@@ -288,25 +294,19 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Python](https://www.python.org/downloads/)
 * [TortoiseSVN](http://tortoisesvn.net/)
   > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
-
 * [Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865)
     
-    Network Monitor 3.4 is the archive versioned tool for network traffic capture and protocol analysis. 
+  Network Monitor 3.4 is the archive versioned tool for network traffic capture and protocol analysis. 
 
 * [Wireshark](https://www.wireshark.org/download.html)
-    > _Cloud\Google\Gmail\WiresharkPortable
-
+  > _Cloud\Google\Gmail\WiresharkPortable
 * [UIDesigner](http://uid.cdc.tencent.com/)
-    
-    原型设计
+
+  原型设计
 * [Justinmind Prototyper](http://www.justinmind.com/)
-* [PxCook像素大厨](http://www.fancynode.com.cn/pxcook/home)
-    
-    不再为标注切图而烦恼, 可用来替代MarkMan
-    > _Cloud\Google\Gmail\PxCook
 * [Mark Man](http://getmarkman.com/)
-    
-    1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境. 现在版本收费了, 使用会有一些功能限制
+
+  1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境. 现在版本收费了, 使用会有一些功能限制
     > _Cloud\Google\Gmail\MarkMan_1.40.7.air
 
 * [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
@@ -314,25 +314,23 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 ## 项目方案
 * [AOS](http://git.oschina.net/osworks/AOS)
-
 * [G4Studio](https://git.oschina.net/osworks/G4Studio)
-
 * [JeeSite](https://github.com/thinkgem/jeesite)
 
-    > 企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等
-    > 
-    > 内置功能
-    > * 用户管理：用户是系统操作者，该功能主要完成系统用户配置。
-    > * 机构管理：配置系统组织机构（公司、部门、小组），树结构展现，可随意调整上下级。
-    > * 区域管理：系统城市区域模型，如：国家、省市、地市、区县的维护。
-    > * 菜单管理：配置系统菜单，操作权限，按钮权限标识等。
-    > * 角色管理：角色菜单权限分配、设置角色按机构进行数据范围权限划分。
-    > * 字典管理：对系统中经常使用的一些较为固定的数据进行维护，如：是否、男女、类别、级别等。
-    > * 操作日志：系统正常操作日志记录和查询；系统异常信息日志记录和查询。
-    > * 连接池监视：监视当期系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
-    > * 工作流引擎：实现业务工单流转、在线流程设计器。
-    > 
-    > 2013年就有的老平台了
+  > 企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等
+  > 
+  > 内置功能
+  > * 用户管理：用户是系统操作者，该功能主要完成系统用户配置。
+  > * 机构管理：配置系统组织机构（公司、部门、小组），树结构展现，可随意调整上下级。
+  > * 区域管理：系统城市区域模型，如：国家、省市、地市、区县的维护。
+  > * 菜单管理：配置系统菜单，操作权限，按钮权限标识等。
+  > * 角色管理：角色菜单权限分配、设置角色按机构进行数据范围权限划分。
+  > * 字典管理：对系统中经常使用的一些较为固定的数据进行维护，如：是否、男女、类别、级别等。
+  > * 操作日志：系统正常操作日志记录和查询；系统异常信息日志记录和查询。
+  > * 连接池监视：监视当期系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
+  > * 工作流引擎：实现业务工单流转、在线流程设计器。
+  > 
+  > 2013年就有的老平台了
 
 * [JEECG](http://git.oschina.net/jeecg/jeecg)
 
@@ -340,22 +338,22 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 ## 项目管理
 * [禅道](http://www.zentao.net/)
-    
-    需求管理, bug跟踪, 版本计划, [集成禅道和svn](http://www.zentao.net/book/zentaopmshelp/137.html), [禅道配置https协议的svn](http://www.zentao.net/thread/83526.html), 当然还可以设置SVN必须在提交时填写提交日志
+
+  需求管理, bug跟踪, 版本计划, [集成禅道和svn](http://www.zentao.net/book/zentaopmshelp/137.html), [禅道配置https协议的svn](http://www.zentao.net/thread/83526.html), 当然还可以设置SVN必须在提交时填写提交日志
 
 * [Trac](http://trac.edgewall.org/)
     
-    Trac is an enhanced wiki and issue tracking system for software development projects
+  Trac is an enhanced wiki and issue tracking system for software development projects
 
 * [Redmine](http://www.redmine.org/)
-    
-    Redmine is a flexible project management web application
+
+  Redmine is a flexible project management web application
 
 
 ## 备选项
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-    
-    前端开发最强的IDE了, 功能非常全, 适合团队开发 
+
+  前端开发最强的IDE了, 功能非常全, 适合团队开发 
 
 * [HBuilder](http://dcloud.io/)
 * [NetBeans]( https://netbeans.org/downloads/6.8/index.html)
@@ -365,12 +363,12 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [GitHub](https://github.com/ufologist)
 * [GitBook](https://www.gitbook.com/)
 
+
 ## 在线工具
 * [HTML5 Please](http://html5please.com/)
 * [CSS3, Please](http://css3please.com/)
 * [Can I use](http://caniuse.com/)
 * [CSS3 Generator](http://enjoycss.com/)
-
 
 ## 杂项
 * [Bower](http://bower.io/)
