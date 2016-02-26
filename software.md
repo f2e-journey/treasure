@@ -266,6 +266,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
   顺带了[Git](http://www.git-scm.com/)
 * [Python](https://www.python.org/downloads/)
 
+* [Cygwin](https://cygwin.com/) Get that Linux feeling - on Windows
+
 * [nginx](http://nginx.org)
 
   HTTP服务器, 主要用做反向代理和负载均衡
