@@ -63,7 +63,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
   管理/转电子书格式, 例如pdf -> mobi
   > _Cloud\Google\Gmail\Calibre Portable
 
-## 前端开发必备(编辑器/浏览器/Node.js/PS)
+## 前端开发必备
 * [Sublime Text](http://www.sublimetext.com/)
  
   我最称手的兵器
