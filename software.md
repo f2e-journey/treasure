@@ -26,157 +26,157 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 ## 个人软件
 * [腾讯电脑管家](http://guanjia.qq.com/)
-    * [驱动精灵](http://www.drivergenius.com/)
-    * [QQ](http://im.qq.com/download/) | [轻聊版](http://im.qq.com/lightqq/) | [国际版](http://www.imqq.com/)
-    * [QQ输入法](http://qq.pinyin.cn/)
-    * [QQ影音](http://player.qq.com/)
-    * [QQ旋风](http://xf.qq.com/)
-        
-        以前都是用的迅雷精简版很老的版本了(迅雷6), 然后用过QQ旋风后那个清爽, 没有广告终于可以专注于下载了. 如果还是想使用迅雷, 推荐使用[迅雷极速版](http://vip.xunlei.com/fast_xl/)或者[迅雷精简版](http://mini.xunlei.com/)
-    * [QQ浏览器](http://browser.qq.com/)
-    * [WPS](http://www.wps.cn/)
-        
-        替代MS-office
-    * [AutoHotkey](http://www.autohotkey.com/)
-        
-        a scripting language for desktop automation
+  * [驱动精灵](http://www.drivergenius.com/)
+  * [QQ](http://im.qq.com/download/) | [轻聊版](http://im.qq.com/lightqq/) | [国际版](http://www.imqq.com/)
+  * [QQ输入法](http://qq.pinyin.cn/)
+  * [QQ影音](http://player.qq.com/)
+  * [QQ旋风](http://xf.qq.com/)
+  
+    以前都是用的迅雷精简版很老的版本了(迅雷6), 然后用过QQ旋风后那个清爽, 没有广告终于可以专注于下载了. 如果还是想使用迅雷, 推荐使用[迅雷极速版](http://vip.xunlei.com/fast_xl/)或者[迅雷精简版](http://mini.xunlei.com/)
+  * [QQ浏览器](http://browser.qq.com/)
+  * [WPS](http://www.wps.cn/)
+
+    替代MS-office
+  * [AutoHotkey](http://www.autohotkey.com/)
+   
+    a scripting language for desktop automation
 * [Rolan](http://www.irolan.com/)
-    
-    管理所有软件的快捷方式
-    > _Cloud\Google\Code\sync-software\Rolan
+   
+  管理所有软件的快捷方式
+  > _Cloud\Google\Code\sync-software\Rolan
 * [QTTabBar](http://qttabbar.wikidot.com/)
-    
-    增强文件管理器, 可以打开多个标签页
-    > _Cloud\Google\Code\sync-software\QTTabBarConfig.xml
+  
+  增强文件管理器, 可以打开多个标签页
+  > _Cloud\Google\Code\sync-software\QTTabBarConfig.xml
 * [Skitch](https://evernote.com/skitch/)
-    
-    截图/标注
+
+  截图/标注
 * [f.lux](https://justgetflux.com/)
-    
-    自动调节屏幕亮度
+
+  自动调节屏幕亮度
 * [XMind](http://www.xmind.net/)
-    
-    mind map
-    > _Cloud\Tencent\QQMail\xmind-portable
+
+  mind map
+  > _Cloud\Tencent\QQMail\xmind-portable
 * [Calibre](http://calibre-ebook.com/)
-    
-    管理/转电子书格式, 例如pdf -> mobi
-    > _Cloud\Google\Gmail\Calibre Portable
+ 
+  管理/转电子书格式, 例如pdf -> mobi
+  > _Cloud\Google\Gmail\Calibre Portable
 
 ## 前端开发
 * [Sublime Text](http://www.sublimetext.com/)
-    
-    我最称手的兵器
-    > _Cloud\Google\Code\sync-software\development\Sublime Text
+ 
+  我最称手的兵器
+  > _Cloud\Google\Code\sync-software\development\Sublime Text
 
 * [Brackets](http://brackets.io/)
-    
-    Inline Editors非常爽, 果断列入自己的兵器集
-    > _Cloud\Google\Code\sync-software\development\Brackets
+
+  Inline Editors非常爽, 果断列入自己的兵器集
+  > _Cloud\Google\Code\sync-software\development\Brackets
 
 * [Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
-    > _Cloud\Tencent\QQMail\GoogleChromePortable
-    > [DevTools tips](https://umaar.com/dev-tips/)
+  > _Cloud\Tencent\QQMail\GoogleChromePortable
+  > [DevTools tips](https://umaar.com/dev-tips/)
 
 * [CssGaga](http://www.99css.com/cssgaga/)
-    
-    制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
-    > _Cloud\Google\Gmail\CssGaga
+
+  制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
+  > _Cloud\Google\Gmail\CssGaga
 
 * [Node.js](http://nodejs.org/)
     
-    常用模块安装脚本
-    > npm install puer browser-sync weinre grunt-cli harp hexo-cli flex-combo anyproxy supervisor node-inspector sails nodeppt surge -g
-    >
-    > npm ls -depth 0 -g
-    
+  常用模块安装脚本
+  > npm install puer browser-sync weinre grunt-cli harp hexo-cli flex-combo anyproxy supervisor node-inspector sails nodeppt surge -g
+  >
+  > npm ls -depth 0 -g
+
 * [Puer](https://github.com/leeluolee/puer)
-   
-   more than a live-reload server , built for efficient frontend development
-   > puer -i -t http://localhost:8080 -a route.js
+
+  more than a live-reload server , built for efficient frontend development
+  > puer -i -t http://localhost:8080 -a route.js
 
 * [BrowserSync](http://www.browsersync.io)
    
-   不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
-   > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
-   >
-   > browser-sync init
-   >
-   > browser-sync start --config bs-config.js
+  不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
+  > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
+  >
+  > browser-sync init
+  >
+  > browser-sync start --config bs-config.js
 
 * [Web开发免刷新](http://getf5.com/)
    
-   支持HTML/CSS/JS自动刷新页面
-   > _Cloud\Google\Gmail\f5
+  支持HTML/CSS/JS自动刷新页面
+  > _Cloud\Google\Gmail\f5
     
-   PS: 原来使用的nodejs版本的[F5](https://github.com/island205/f5), 但是自动刷新大概有5秒的延时, 只支持HTML页面的自动刷新, 不支持CSS/JS自动刷新, 已经用 Puer 替代了.
+  PS: 原来使用的nodejs版本的[F5](https://github.com/island205/f5), 但是自动刷新大概有5秒的延时, 只支持HTML页面的自动刷新, 不支持CSS/JS自动刷新, 已经用 Puer 替代了.
 
 * [weinre](http://people.apache.org/~pmuellr/weinre/)
 
-   weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone. 如果是临时使用一下, 可以用百度Clouda+提供的在线服务[clouda+weinre](http://weinre123.duapp.com/), 也可以试一试[微信web开发者工具](http://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)调试微信网页授权, JS-SDK, 基于 weinre 的移动调试
-   > C:\Documents and Settings\Administrator\.weinre\server.properties
-   >
-   > boundHost:    -all-
-   >
-   > httpPort:     8081
+  weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone. 如果是临时使用一下, 可以用百度Clouda+提供的在线服务[clouda+weinre](http://weinre123.duapp.com/), 也可以试一试[微信web开发者工具](http://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)调试微信网页授权, JS-SDK, 基于 weinre 的移动调试
+  > C:\Documents and Settings\Administrator\.weinre\server.properties
+  >
+  > boundHost:    -all-
+  >
+  > httpPort:     8081
 
 * [Grunt](http://gruntjs.com/)
-       
-   JavaScript Task Runner 常用Grunt任务(TODO添加更多常用任务, 写到外面的grunt文件中)
+
+  JavaScript Task Runner 常用Grunt任务(TODO添加更多常用任务, 写到外面的grunt文件中)
 
 * [AnyProxy](https://github.com/alibaba/anyproxy)
-       
-   A fully configurable proxy in NodeJS, which can handle HTTPS requests perfectly
+
+  A fully configurable proxy in NodeJS, which can handle HTTPS requests perfectly
 
 * [GNU Wget](http://wget.addictivecode.org/FrequentlyAskedQuestions#Where_can_I_download_Wget.3F)
 
-   download all the HTML from a webpage along with the CSS, Images, JS, etc. A bonus feature would be if it could even rewrite URLs and even grab images referenced in CSS files. 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
-   > _Cloud\Google\Gmail\wget
-   > 
-   > wget -mk http://www.example.com
+  use [wget](https://eternallybored.org/misc/wget/) to [download all the HTML from a webpage along with the CSS, Images, JS](http://stackoverflow.com/questions/7421046/looking-for-an-app-that-will-download-html-and-all-resources), etc. A bonus feature would be if it could even rewrite URLs and even grab images referenced in CSS files. 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
+  > _Cloud\Google\Gmail\wget
+  > 
+  > wget -mk http://www.example.com
 
 * [Harp](http://harpjs.com/)
 
-   The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
+  The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
 
-   需要先安装 git 和 python
-   > harp init myproject
-
-   > harp server myproject
-
-   > harp compile myproject
+  需要先安装 git 和 python
+  > harp init myproject
+  >
+  > harp server myproject
+  >
+  > harp compile myproject
 
 * [Hexo](http://hexo.io)
 
-   A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台, 也可以试一试 [Nico](https://github.com/lepture/nico) 或者更多的[Static Site Generators](https://staticsitegenerators.net/)
-   > hexo init blog
-
-   > cd blog
-
-   > npm install
-
-   > hexo server
+  A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台, 也可以试一试 [Nico](https://github.com/lepture/nico) 或者更多的[Static Site Generators](https://staticsitegenerators.net/)
+  > hexo init blog
+  >
+  > cd blog
+  >
+  > npm install
+  >
+  > hexo server
 
 * [supervisor](https://github.com/petruisfan/node-supervisor)
 
-   Node Supervisor is used to restart programs when they crash.
+  Node Supervisor is used to restart programs when they crash.
 
 * [node-inspector](https://github.com/node-inspector/node-inspector#advanced-use)
 
-   Node Inspector is a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector). 联合使用 node-inspector + supervisor 堪称 nodejs 领域的F5!
-   > node-inspector
-   
-   > supervisor --debug-brk debugme.js
-   
-   > Visit http://127.0.0.1:8080/
+  Node Inspector is a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector). 联合使用 node-inspector + supervisor 堪称 nodejs 领域的F5!
+  > node-inspector
+  >
+  > supervisor --debug-brk debugme.js
+  > 
+  > Visit http://127.0.0.1:8080/
 * [Sails](http://sailsjs.org/)
 
-   Sails is a lightweight framework that sits on top of Express. Sails makes it easy to build custom, enterprise-grade Node.js apps. It is designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails.
-   > sails new sails-demo
-   
-   > cd sails-demo
-   
-   > sails lift
+  Sails is a lightweight framework that sits on top of Express. Sails makes it easy to build custom, enterprise-grade Node.js apps. It is designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails.
+  > sails new sails-demo
+  > 
+  > cd sails-demo
+  > 
+  > sails lift
    
    或者试一试 IBM 出品的[StrongLoop](https://strongloop.com/)可以快速的Compose APIs, Build, Deploy and Monitor Node
 * [nodePPT](https://github.com/ksky521/nodePPT)
@@ -188,109 +188,106 @@ v0.0.1 2015-5-5(还未正式发布版本)
   ## 副标题
   ```
 * [Flex Combo](https://github.com/wayfind/flex-combo)
-   
-   Combo技术是在服务端提供合并多个文件请求在一个响应中的技术, Flex Combo是在开发环境模拟实现了此功能的服务器，目的是方便前端开发调试。约等于一个支持Combo语法，只能访问js、css、iconfont等静态资源的Web服务器
+  
+  Combo技术是在服务端提供合并多个文件请求在一个响应中的技术, Flex Combo是在开发环境模拟实现了此功能的服务器，目的是方便前端开发调试。约等于一个支持Combo语法，只能访问js、css、iconfont等静态资源的Web服务器
 
 * [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
-    Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
-    
-    切图打法(现在使用 Photoshop CC 2014)
-    * 选中图层 + 图层选区(ctrl + 鼠标单击图层缩略图/ctrl+d[取消选择]) + 拷贝(合并拷贝) + 文件/新建(剪贴板) + 粘帖
-    * 选中图层(可多个) + (合并图层) + 复制图层 + 文档/新建 + 裁切
-    * 切片工具(适合整块的切类似图片拼接的页面) + 参考线
-    * 各种切图插件
-       > 常用PS扩展, 主要是方便切图
-       
-       > * [Cutterman](http://www.cutterman.cn/cutterman/feature)
-       > * [Cut&Slice me](http://www.cutandslice.me/)
-       > * [LayerCraft](http://lab.rayps.com/lc/)
-       > * [Ink](http://ink.chrometaphore.com/)
-       > * [Specctr](https://www.specctr.com/buy)
-       > * [GuideGuide](http://guideguide.me/)
-       > * [Assistor PS](http://witstudio.net/)
-       > * [Layrs Control](http://madebyvadim.com/layrs/)
-    * Photoshop CC 2014 自动切图(自动导出图片资源)
-    
-       > 开启方式
-       
-       > 1、 首选项 - 增效工具 - 启用生成器
-       
-       > 2、 文件(菜单) - 生成 - 图像资源
-       
-       > 3、命名图层为 xxx.png 或者 xxx.jpg 即可
-       
-       > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
-    * Photoshop CC 2014 选中图层 + 复制 CSS
+  Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
 
-    常用快捷键
-    * 按住空格键 + 鼠标拖拽        | 移动画布
-    * alt + 鼠标滚轮               | 放大/缩小画布
-    * alt + 鼠标单击某图层眼睛图标 | 显示/隐藏所有其他层, 即仅显示某图层
-    * ctrl + ;                     | 显示/隐藏参考线
-    * ctrl + alt + shift + e       | 新建盖印图层, 即新增一个所有可见图层合并后的图层
+  **常用快捷键**
+  * 按住空格键 + 鼠标拖拽        | 移动画布
+  * alt + 鼠标滚轮               | 放大/缩小画布
+  * alt + 鼠标单击某图层眼睛图标 | 显示/隐藏所有其他层, 即仅显示某图层
+  * ctrl + ;                     | 显示/隐藏参考线
+  * ctrl + alt + shift + e       | 新建盖印图层, 即新增一个所有可见图层合并后的图层
+
+  **切图法(使用 Photoshop CC 2014)**
+  * 选中图层 + 图层选区(ctrl + 鼠标单击图层缩略图/ctrl+d[取消选择]) + 拷贝(合并拷贝) + 文件/新建(剪贴板) + 粘帖
+  * 选中图层(可多个) + (合并图层) + 复制图层 + 文档/新建 + 裁切
+  * 切片工具(适合整块的切类似图片拼接的页面) + 参考线
+  * 切图插件(PS扩展)
+    * [Cutterman](http://www.cutterman.cn/cutterman/feature)
+    * [Cut&Slice me](http://www.cutandslice.me/)
+    * [LayerCraft](http://lab.rayps.com/lc/)
+    * [Ink](http://ink.chrometaphore.com/)
+    * [Specctr](https://www.specctr.com/buy)
+    * [GuideGuide](http://guideguide.me/)
+    * [Assistor PS](http://witstudio.net/)
+    * [Layrs Control](http://madebyvadim.com/layrs/)
+  * Photoshop CC 2014 自动切图(自动导出图片资源)
+
+    > 开启方式
+    >
+    > 1、 首选项 - 增效工具 - 启用生成器
+    >
+    > 2、 文件(菜单) - 生成 - 图像资源
+    >
+    > 3、命名图层为 xxx.png 或者 xxx.jpg 即可
+    >
+    > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
+  * Photoshop CC 2014 选中图层 + 复制 CSS
 * [Fiddler](http://www.telerik.com/fiddler)
     
-    The free web debugging proxy for any browser, system or platform
-    > _Cloud\Google\Gmail\Fiddler2
+  The free web debugging proxy for any browser, system or platform
+  > _Cloud\Google\Gmail\Fiddler2
 
 * [ngrok](https://ngrok.com/)
     
-    I want to expose a local server behind a NAT or firewall to the internet.
-    ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on.
-    > ngrok http 3000 -subdomain myapp
-    
-    > _Cloud\Google\Gmail\ngrok.exe
+  I want to expose a local server behind a NAT or firewall to the internet.
+  ngrok lets you expose a locally running web service to the internet. Just tell ngrok which port your web server is running on.
+  > ngrok http 3000 -subdomain myapp
+  >  
+  > _Cloud\Google\Gmail\ngrok.exe
 
 * [Surge](http://surge.sh/)
-    
-    Static web publishing(Free custom domain support) for Front-End Developers
-    > surge list
-    
-    > surge --domain ufologist.surge.sh
-    
-    > surge teardown ufologist.surge.sh
+
+  Static web publishing(Free custom domain support) for Front-End Developers
+  > surge list
+  >  
+  > surge --domain ufologist.surge.sh
+  >  
+  > surge teardown ufologist.surge.sh
 
 * [nginx](http://nginx.org)
-    
-    HTTP服务器, 主要用做反向代理和负载均衡
-    > nginx
-    
-    > nginx -t
-    
-    > nginx -s reload
-    
-    > nginx -s stop
 
-    > _Cloud\Google\Code\sync-software\nginx
+  HTTP服务器, 主要用做反向代理和负载均衡
+  > _Cloud\Google\Code\sync-software\nginx
+  >
+  > nginx
+  >  
+  > nginx -t
+  >  
+  > nginx -s reload
+  >  
+  > nginx -s stop
 
 * [Apache](http://httpd.apache.org/)
-    
-    主要用ab工具做测试
-    > ab -n 10 -c 5 http://qq.com/
-    
-    > abs -n 10 -c 5 https://mp.weixin.qq.com/
-    
-    > _Cloud\Google\Gmail\apache
+
+  主要用ab工具做测试
+  > _Cloud\Google\Gmail\apache
+  >
+  > ab -n 10 -c 5 http://qq.com/
+  >  
+  > abs -n 10 -c 5 https://mp.weixin.qq.com/
 
 * [NW.js](https://github.com/nwjs/nw.js/)
     
-    node-webkit is renamed NW.js, You can write native apps in HTML and JavaScript with NW.js. 
+  node-webkit is renamed NW.js, You can write native apps in HTML and JavaScript with NW.js. 
 
 * [CasperJS](http://casperjs.org/)
     
-    a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript.
-    另外可选的还有[Nightmare](https://github.com/segmentio/nightmare)
+  a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript. 另外可选的还有[Nightmare](https://github.com/segmentio/nightmare)
 
 
 ## 工具
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [RailsInstaller](http://railsinstaller.org/)
-    
-    顺带了[Git](http://www.git-scm.com/)
+
+  顺带了[Git](http://www.git-scm.com/)
 * [Python](https://www.python.org/downloads/)
 * [TortoiseSVN](http://tortoisesvn.net/)
-    > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
+  > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
 
 * [Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865)
     
