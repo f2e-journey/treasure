@@ -63,6 +63,26 @@ v0.0.1 2015-5-5(还未正式发布版本)
   管理/转电子书格式, 例如pdf -> mobi
   > _Cloud\Google\Gmail\Calibre Portable
 
+* [nodePPT](https://github.com/ksky521/nodePPT)
+
+  用 ```markdown``` 写PPT可以导出 pdf 或者 html(网页上即可查看 PPT)
+  ```markdown
+  [slide]
+  # 标题
+  ## 副标题
+  ```
+
+* [Hexo](http://hexo.io)
+
+  A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台, 也可以试一试 [Nico](https://github.com/lepture/nico) 或者更多的[Static Site Generators](https://staticsitegenerators.net/)
+  > hexo init blog
+  >
+  > cd blog
+  >
+  > npm install
+  >
+  > hexo server
+
 ## 前端开发必备
 * [Sublime Text](http://www.sublimetext.com/)
  
@@ -144,15 +164,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
   JavaScript Task Runner 常用Grunt任务(TODO添加更多常用任务, 写到外面的grunt文件中)
 
-* [AnyProxy](https://github.com/alibaba/anyproxy)
-
-  A fully configurable proxy in NodeJS, which can handle HTTPS requests perfectly
-
-* [Fiddler](http://www.telerik.com/fiddler)
-    
-  The free web debugging proxy for any browser, system or platform
-  > _Cloud\Google\Gmail\Fiddler2
-
 * [GNU Wget](http://wget.addictivecode.org/FrequentlyAskedQuestions#Where_can_I_download_Wget.3F)
 
   use [wget](https://eternallybored.org/misc/wget/) to [download all the HTML from a webpage along with the CSS, Images, JS](http://stackoverflow.com/questions/7421046/looking-for-an-app-that-will-download-html-and-all-resources), etc. A bonus feature would be if it could even rewrite URLs and even grab images referenced in CSS files. 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
@@ -169,6 +180,30 @@ v0.0.1 2015-5-5(还未正式发布版本)
   
   不再为标注切图而烦恼, 可用来替代MarkMan
   > _Cloud\Google\Gmail\PxCook
+
+* [AnyProxy](https://github.com/alibaba/anyproxy)
+
+  A fully configurable proxy in NodeJS, which can handle HTTPS requests perfectly
+
+* [Fiddler](http://www.telerik.com/fiddler)
+    
+  The free web debugging proxy for any browser, system or platform
+  > _Cloud\Google\Gmail\Fiddler2
+
+* [Flex Combo](https://github.com/wayfind/flex-combo)
+  
+  Combo技术是在服务端提供合并多个文件请求在一个响应中的技术, Flex Combo是在开发环境模拟实现了此功能的服务器，目的是方便前端开发调试。约等于一个支持Combo语法，只能访问js、css、iconfont等静态资源的Web服务器
+
+* [Harp](http://harpjs.com/)
+
+  The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
+
+  需要先安装 git 和 python
+  > harp init myproject
+  >
+  > harp server myproject
+  >
+  > harp compile myproject
 
 * [supervisor](https://github.com/petruisfan/node-supervisor)
 
@@ -245,41 +280,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [TortoiseSVN](http://tortoisesvn.net/)
 
   > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
-
-* [nodePPT](https://github.com/ksky521/nodePPT)
-
-  用 ```markdown``` 写PPT可以导出 pdf 或者 html(网页上即可查看 PPT)
-  ```markdown
-  [slide]
-  # 标题
-  ## 副标题
-  ```
-
-* [Hexo](http://hexo.io)
-
-  A fast, simple & powerful blog framework, powered by Node.js. 全静态文件来写blog, 支持markdown, 相当于Jekyll或者Octopress, 但这些是ruby平台, 也可以试一试 [Nico](https://github.com/lepture/nico) 或者更多的[Static Site Generators](https://staticsitegenerators.net/)
-  > hexo init blog
-  >
-  > cd blog
-  >
-  > npm install
-  >
-  > hexo server
-
-* [Harp](http://harpjs.com/)
-
-  The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
-
-  需要先安装 git 和 python
-  > harp init myproject
-  >
-  > harp server myproject
-  >
-  > harp compile myproject
-
-* [Flex Combo](https://github.com/wayfind/flex-combo)
-  
-  Combo技术是在服务端提供合并多个文件请求在一个响应中的技术, Flex Combo是在开发环境模拟实现了此功能的服务器，目的是方便前端开发调试。约等于一个支持Combo语法，只能访问js、css、iconfont等静态资源的Web服务器
 
 * [Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865)
     
