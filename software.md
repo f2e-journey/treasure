@@ -122,13 +122,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
   A fully configurable proxy in NodeJS, which can handle HTTPS requests perfectly
 
-* [GNU Wget](http://wget.addictivecode.org/FrequentlyAskedQuestions#Where_can_I_download_Wget.3F)
-
-  use [wget](https://eternallybored.org/misc/wget/) to [download all the HTML from a webpage along with the CSS, Images, JS](http://stackoverflow.com/questions/7421046/looking-for-an-app-that-will-download-html-and-all-resources), etc. A bonus feature would be if it could even rewrite URLs and even grab images referenced in CSS files. 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
-  > _Cloud\Google\Gmail\wget
-  > 
-  > wget -mk http://www.example.com
-
 * [supervisor](https://github.com/petruisfan/node-supervisor)
 
   Node Supervisor is used to restart programs when they crash.
@@ -240,6 +233,18 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 
 ## 前端效率
+* [GNU Wget](http://wget.addictivecode.org/FrequentlyAskedQuestions#Where_can_I_download_Wget.3F)
+
+  use [wget](https://eternallybored.org/misc/wget/) to [download all the HTML from a webpage along with the CSS, Images, JS](http://stackoverflow.com/questions/7421046/looking-for-an-app-that-will-download-html-and-all-resources), etc. A bonus feature would be if it could even rewrite URLs and even grab images referenced in CSS files. 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
+  > _Cloud\Google\Gmail\wget
+  > 
+  > wget -mk http://www.example.com
+
+* [CssGaga](http://www.99css.com/cssgaga/)
+
+  制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
+  > _Cloud\Google\Gmail\CssGaga
+
 * [Sails](http://sailsjs.org/)
 
   Sails is a lightweight framework that sits on top of Express. Sails makes it easy to build custom, enterprise-grade Node.js apps. It is designed to emulate the familiar MVC pattern of frameworks like Ruby on Rails.
@@ -250,12 +255,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
   > sails lift
    
    或者试一试 IBM 出品的[StrongLoop](https://strongloop.com/)可以快速的Compose APIs, Build, Deploy and Monitor Node
-
-* [CssGaga](http://www.99css.com/cssgaga/)
-
-  制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
-  > _Cloud\Google\Gmail\CssGaga
-
 
 ## 辅助工具
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
