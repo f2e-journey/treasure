@@ -19,7 +19,9 @@ The Friendly & Fun Javascript Fullstack for your next web application
 # 前端工程师常用软件(Windows7 x64)
 从2010年5月13号开始构思出一套属于自己的"云端"工作空间, 主要是想整理出自己最常用的绿色软件和习惯配置, 期间不断优化调整完善使用至今, 事实证明这套"云端"工作空间是高效且值得信赖的, 可以以最快的速度在一台新电脑上搭建出自己熟悉的工作环境, 也算是自己多年来对各种软件的总结.
 
-原来这套系统主要托管在[Google Code](https://code.google.com/p/sync-software/)上, 但是由于[Google Code要关闭了](http://google-opensource.blogspot.jp/2015/03/farewell-to-google-code.html), 因此不得不转移到 [Github](https://github.com/ufologist/sync-software) 上来
+原来这套系统主要托管在[Google Code](https://code.google.com/p/sync-software/)上, 但是由于[Google Code要关闭了](http://google-opensource.blogspot.jp/2015/03/farewell-to-google-code.html), 因此不得不转移到 [Github](https://github.com/ufologist/sync-software) 上来.
+
+还有一些[前端工程师常用软件(备选项)](https://github.com/f2e-journey/treasure/blob/master/software-alternate.md)
 
 
 v0.0.1 2015-5-5(还未正式发布版本)
