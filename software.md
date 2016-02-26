@@ -63,16 +63,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
   管理/转电子书格式, 例如pdf -> mobi
   > _Cloud\Google\Gmail\Calibre Portable
 
-## 前端必备
+## 前端开发必备(编辑器/浏览器/Node.js/PS)
 * [Sublime Text](http://www.sublimetext.com/)
  
   我最称手的兵器
   > _Cloud\Google\Code\sync-software\development\Sublime Text
-
-* [Brackets](http://brackets.io/)
-
-  Inline Editors非常爽, 果断列入自己的兵器集
-  > _Cloud\Google\Code\sync-software\development\Brackets
 
 * [Chrome](http://portableapps.com/apps/internet/google_chrome_portable) | [DevTools tips](https://umaar.com/dev-tips/)
   > _Cloud\Tencent\QQMail\GoogleChromePortable
@@ -83,57 +78,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
   > npm install puer browser-sync weinre grunt-cli gulp-cli harp hexo-cli flex-combo anyproxy supervisor node-inspector sails nodeppt surge -g
   >
   > npm ls -depth 0 -g
-
-* [Puer](https://github.com/leeluolee/puer)
-
-  more than a live-reload server , built for efficient frontend development
-  > puer -i -t http://localhost:8080 -a route.js
-
-  * [Web开发免刷新](http://getf5.com/)
-   
-    支持HTML/CSS/JS自动刷新页面
-    > _Cloud\Google\Gmail\f5
-    
-    PS: 原来使用的nodejs版本的[F5](https://github.com/island205/f5), 但是自动刷新大概有5秒的延时, 只支持HTML页面的自动刷新, 不支持CSS/JS自动刷新, 已经用 Puer 替代了.
-
-  * [weinre](http://people.apache.org/~pmuellr/weinre/)
-
-    weinre is WEb INspector REmote. A debugger for web pages, like Web Inspector (for WebKit-based browsers), except it's designed to work remotely, and in particular, to allow you debug web pages on a mobile device such as a phone. 如果是临时使用一下, 可以用百度Clouda+提供的在线服务[clouda+weinre](http://weinre123.duapp.com/), 也可以试一试[微信web开发者工具](http://mp.weixin.qq.com/wiki/10/e5f772f4521da17fa0d7304f68b97d7e.html)调试微信网页授权, JS-SDK, 基于 weinre 的移动调试, 已经用 Puer 替代了.
-    > C:\Documents and Settings\Administrator\.weinre\server.properties
-    >
-    > boundHost:    -all-
-    >
-    > httpPort:     8081
-
-* [BrowserSync](http://www.browsersync.io)
-   
-  不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
-  > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
-  >
-  > browser-sync init
-  >
-  > browser-sync start --config bs-config.js
-
-* [Grunt](http://gruntjs.com/) | [Gulp](http://gulpjs.com/)
-
-  JavaScript Task Runner 常用Grunt任务(TODO添加更多常用任务, 写到外面的grunt文件中)
-
-* [AnyProxy](https://github.com/alibaba/anyproxy)
-
-  A fully configurable proxy in NodeJS, which can handle HTTPS requests perfectly
-
-* [supervisor](https://github.com/petruisfan/node-supervisor)
-
-  Node Supervisor is used to restart programs when they crash.
-
-* [node-inspector](https://github.com/node-inspector/node-inspector#advanced-use)
-
-  Node Inspector is a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector). 联合使用 node-inspector + supervisor 堪称 nodejs 领域的F5!
-  > node-inspector
-  >
-  > supervisor --debug-brk debugme.js
-  > 
-  > Visit http://127.0.0.1:8080/
 
 * [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
@@ -171,16 +115,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
     >
     > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
   * Photoshop CC 2014 选中图层 + 复制 CSS
-
-* [PxCook像素大厨](http://www.fancynode.com.cn/pxcook/home)
-  
-  不再为标注切图而烦恼, 可用来替代MarkMan
-  > _Cloud\Google\Gmail\PxCook
-
-* [Fiddler](http://www.telerik.com/fiddler)
-    
-  The free web debugging proxy for any browser, system or platform
-  > _Cloud\Google\Gmail\Fiddler2
 
 * [ngrok](https://ngrok.com/)
     
@@ -232,7 +166,34 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
 
-## 前端效率
+## 前端开发效率
+* [Puer](https://github.com/leeluolee/puer)
+
+  more than a live-reload server , built for efficient frontend development
+  > puer -i -t http://localhost:8080 -a route.js
+
+* [BrowserSync](http://www.browsersync.io)
+   
+  不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
+  > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
+  >
+  > browser-sync init
+  >
+  > browser-sync start --config bs-config.js
+
+* [Grunt](http://gruntjs.com/) | [Gulp](http://gulpjs.com/)
+
+  JavaScript Task Runner 常用Grunt任务(TODO添加更多常用任务, 写到外面的grunt文件中)
+
+* [AnyProxy](https://github.com/alibaba/anyproxy)
+
+  A fully configurable proxy in NodeJS, which can handle HTTPS requests perfectly
+
+* [Fiddler](http://www.telerik.com/fiddler)
+    
+  The free web debugging proxy for any browser, system or platform
+  > _Cloud\Google\Gmail\Fiddler2
+
 * [GNU Wget](http://wget.addictivecode.org/FrequentlyAskedQuestions#Where_can_I_download_Wget.3F)
 
   use [wget](https://eternallybored.org/misc/wget/) to [download all the HTML from a webpage along with the CSS, Images, JS](http://stackoverflow.com/questions/7421046/looking-for-an-app-that-will-download-html-and-all-resources), etc. A bonus feature would be if it could even rewrite URLs and even grab images referenced in CSS files. 简而言之就是可以一下抓出别人的页面, 把所有相关资源全部本地化
@@ -244,6 +205,24 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
   制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
   > _Cloud\Google\Gmail\CssGaga
+
+* [supervisor](https://github.com/petruisfan/node-supervisor)
+
+  Node Supervisor is used to restart programs when they crash.
+
+* [PxCook像素大厨](http://www.fancynode.com.cn/pxcook/home)
+  
+  不再为标注切图而烦恼, 可用来替代MarkMan
+  > _Cloud\Google\Gmail\PxCook
+
+* [node-inspector](https://github.com/node-inspector/node-inspector#advanced-use)
+
+  Node Inspector is a debugger interface for Node.js applications that uses the Blink Developer Tools (formerly WebKit Web Inspector). 联合使用 node-inspector + supervisor 堪称 nodejs 领域的F5!
+  > node-inspector
+  >
+  > supervisor --debug-brk debugme.js
+  > 
+  > Visit http://127.0.0.1:8080/
 
 * [Sails](http://sailsjs.org/)
 
