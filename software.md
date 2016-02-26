@@ -74,14 +74,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
   Inline Editors非常爽, 果断列入自己的兵器集
   > _Cloud\Google\Code\sync-software\development\Brackets
 
-* [Chrome](http://portableapps.com/apps/internet/google_chrome_portable)
+* [Chrome](http://portableapps.com/apps/internet/google_chrome_portable) | [DevTools tips](https://umaar.com/dev-tips/)
   > _Cloud\Tencent\QQMail\GoogleChromePortable
-  > [DevTools tips](https://umaar.com/dev-tips/)
-
-* [CssGaga](http://www.99css.com/cssgaga/)
-
-  制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
-  > _Cloud\Google\Gmail\CssGaga
 
 * [Node.js](http://nodejs.org/)
     
@@ -191,6 +185,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
   
   Combo技术是在服务端提供合并多个文件请求在一个响应中的技术, Flex Combo是在开发环境模拟实现了此功能的服务器，目的是方便前端开发调试。约等于一个支持Combo语法，只能访问js、css、iconfont等静态资源的Web服务器
 
+* [CssGaga](http://www.99css.com/cssgaga/)
+
+  制作 CSS sprite 非常方便, 拖拽图片就能够生成单个图标的CSS样式(包含图片url, 自动填好宽高, 爽吧), 再将这个CSS拖拽一次就能合并所有图片生成 sprite, 并更新CSS样式调整为使用background-position
+  > _Cloud\Google\Gmail\CssGaga
+
 * [Photoshop]( https://helpx.adobe.com/creative-suite/kb/cs2-product-downloads.html)
 
   Adobe提供了免费的老版本[Photoshop CS2](http://download.adobe.com/pub/adobe/magic/creativesuite/CS2_EOL/PHSP/PhSp_CS2_English.exe), 只有英文版
@@ -285,20 +284,23 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
   a navigation scripting & testing utility for [PhantomJS](http://phantomjs.org/) and SlimerJS written in Javascript. 另外可选的还有[Nightmare](https://github.com/segmentio/nightmare)
 
+* [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
 
-## 工具
+## 辅助工具
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [RailsInstaller](http://railsinstaller.org/)
 
   顺带了[Git](http://www.git-scm.com/)
 * [Python](https://www.python.org/downloads/)
 * [TortoiseSVN](http://tortoisesvn.net/)
+
   > _Cloud\Google\Gmail\TortoiseSVN-1.6.8.19260-win32-svn-1.6.11
 * [Microsoft Network Monitor](http://www.microsoft.com/en-us/download/details.aspx?id=4865)
     
   Network Monitor 3.4 is the archive versioned tool for network traffic capture and protocol analysis. 
 
 * [Wireshark](https://www.wireshark.org/download.html)
+
   > _Cloud\Google\Gmail\WiresharkPortable
 * [UIDesigner](http://uid.cdc.tencent.com/)
 
@@ -307,9 +309,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Mark Man](http://getmarkman.com/)
 
   1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境. 现在版本收费了, 使用会有一些功能限制
-    > _Cloud\Google\Gmail\MarkMan_1.40.7.air
-
-* [IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
+  > _Cloud\Google\Gmail\MarkMan_1.40.7.air
 
 
 ## 项目方案
