@@ -44,6 +44,7 @@ http://www.ucpaas.com/
 * [安全狗](http://www.safedog.cn/)
 * [听云](http://www.tingyun.com/) 性能检测服务
 * [OneAPM](http://www.oneapm.com/) 性能监控
+* [性能魔法](http://www.mmtrix.com/) 云评测(WEB/APP/网络)/云监测/云加速(图片优化API) 图片优化API很实用
 
 
 ## 云加速
