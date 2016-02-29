@@ -255,6 +255,11 @@
     > * 批判性地看待每一行CSS
     > 
     >   当完成代码的编写后，你应当重新审视你的代码。你可以试着删除你所编写的每一行CSS代码，并检查这一行代码有没有什么实际的作用。你是否真的需要overflow: hidden，将display属性改为inline有没有实际意义？如果答案是否定的，那就删除它。你所留下的代码越少，等到你下一次回顾这些代码时，它们为你所造成的困扰就越少。
+
+* [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
+
+    > A flexible and reusable component is one which neither relies on existing within a certain part of the DOM tree, nor requires the use of specific element types. It should be able to adapt to different containers and be easily themed. If necessary, extra HTML elements (beyond those needed just to markup the content) and can be used to make the component more robust.
+
 * [webpack Motivation](http://webpack.github.io/docs/motivation.html)
 
     > Today’s websites are evolving into web apps:
