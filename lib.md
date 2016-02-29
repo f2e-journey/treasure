@@ -494,6 +494,7 @@ multiple effects, animated text
 
 [Pikaday](https://github.com/dbushell/Pikaday) 日历
 
+[pickadate](https://github.com/amsul/pickadate.js/) mobile-friendly, responsive, jQuery date & time input picker
 
 [iCheck](https://github.com/fronteed/iCheck/)
 
