@@ -12,7 +12,7 @@
 这份总结我会保持更新, 如果有任何问题, 欢迎大家提出各种[issues](https://github.com/f2e-journey/software/issues/new), 当然也鼓励大家[fork](https://github.com/f2e-journey/software#fork-destination-box)出自己的版本.
 
 ## 百宝箱
-* [前端工程师常用软件](https://github.com/f2e-journey/software/blob/master/software.md)([备选项](https://github.com/f2e-journey/software/blob/master/software-alternate.md))
+* [前端工程师常用软件](https://github.com/f2e-journey/software/blob/master/software.md)([备选项](https://github.com/f2e-journey/software/blob/master/software-alternative.md))
 * [前端常用框架](https://github.com/f2e-journey/software/blob/master/lib.md)
 * [前端常用云服务](https://github.com/f2e-journey/software/blob/master/cloud.md)
 * [常用App](https://github.com/f2e-journey/software/blob/master/app.md)
