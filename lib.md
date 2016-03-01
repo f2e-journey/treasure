@@ -303,6 +303,8 @@ http://paperjs.org
 
 [图片裁剪](https://github.com/tapmodo/Jcrop/) http://odyniec.net/projects/imgareaselect/
 
+[Cropper](https://github.com/fengyuanchen/cropper)
+
 [Store](https://github.com/nbubna/store)
 
 [EXIF image metadata](https://github.com/jseidelin/exif-js/)
