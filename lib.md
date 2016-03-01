@@ -496,6 +496,8 @@ multiple effects, animated text
 
 [pickadate](https://github.com/amsul/pickadate.js/) mobile-friendly, responsive, jQuery date & time input picker
 
+[省市区三级联动选择器](https://github.com/fengyuanchen/distpicker)
+
 [iCheck](https://github.com/fronteed/iCheck/)
 
 [Switchery](https://github.com/abpetkov/switchery)
