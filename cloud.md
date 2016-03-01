@@ -56,6 +56,10 @@ http://www.ucpaas.com/
 
 [CloudFlare](https://www.cloudflare.com)
 
+[TinyPNG](https://tinypng.com/developers)
+
+[图片优化压缩API](http://doc.mmtrix.com/api/imageopt.html)
+
 ## DNS
 [DNSPod](https://www.dnspod.cn/)
 [DNSLA](https://www.dns.la/)
