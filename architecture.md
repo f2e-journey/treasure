@@ -130,3 +130,5 @@ Load Balancer  <-->    Sails.js server    <-->
 * [All Things Distributed](http://www.allthingsdistributed.com/ "Werner Vogels'(CTO - Amazon.com) weblog on building scalable and robust distributed systems.")
 * [公司开源导航页](http://www.oschina.net/company)
 * [老庙黄金2016春晚抢红包活动技术架构详解](https://yq.aliyun.com/articles/7420 "基于阿里云的技术架构")
+    
+    ![老庙黄金2016春晚抢红包活动技术架构](http://oss.aliyuncs.com/yqfiles/2c550956ecc11f1a0b3788337191e28efb2b3743.png)
