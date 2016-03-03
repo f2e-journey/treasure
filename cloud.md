@@ -3,7 +3,6 @@
 
 
 [会鸽](http://eventdove.com/index.html)
-[性能魔方](http://www.mmtrix.com/)
 [野狗](https://www.wilddog.com/) 轻松构建你的实时应用
 [cedexis](http://www.cedexis.com/)
 [GitCafe](https://gitcafe.com)
