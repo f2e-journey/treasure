@@ -149,3 +149,5 @@ Load Balancer  <-->    Sails.js server    <-->
 * [阿里中间件团队博客](http://jm.taobao.org/)
 * [All Things Distributed](http://www.allthingsdistributed.com/ "Werner Vogels'(CTO - Amazon.com) weblog on building scalable and robust distributed systems.")
 * [公司开源导航页](http://www.oschina.net/company)
+* [阿里云客户案例](https://www.aliyun.com/customer/)
+* [阿里云解决方案](https://www.aliyun.com/solution/ecommerce)
