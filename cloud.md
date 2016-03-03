@@ -241,10 +241,6 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 * [iWorker工作家](http://home.iworker.cn/) 企业移动管理软件
 
 
-## 我喜欢的团队
-* [彩程设计](http://mycolorway.com/)
-
-
 ## 参考
 * [API Store](http://apistore.baidu.com/) 为开发者提供最全面的API服务
 * [DevStore](http://www.devstore.cn/)
