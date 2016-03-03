@@ -130,6 +130,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     * [GuideGuide](http://guideguide.me/)
     * [Assistor PS](http://witstudio.net/)
     * [Layrs Control](http://madebyvadim.com/layrs/)
+    * [PS Play](http://isux.tencent.com/app/psplay)
   * Photoshop CC 2014 自动切图(自动导出图片资源)
 
     > 开启方式
@@ -341,15 +342,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
   Redmine is a flexible project management web application
 
 
-## 备选项
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-
-  前端开发最强的IDE了, 功能非常全, 适合团队开发 
-
-* [HBuilder](http://dcloud.io/)
-* [NetBeans]( https://netbeans.org/downloads/6.8/index.html)
-
-
 ## 网站
 * [GitHub](https://github.com/ufologist)
 * [GitBook](https://www.gitbook.com/)
@@ -361,6 +353,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Can I use](http://caniuse.com/)
 * [CSS3 Generator](http://enjoycss.com/)
 
+
 ## 杂项
 * [Bower](http://bower.io/)
 * [Component](http://component.github.io/)
@@ -368,10 +361,6 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [spm](http://spmjs.io/)
 * [Genymobile](http://www.genymobile.com/)
 * [MongoDB](http://www.mongodb.org/)
-
-
-## 更多备选工具
-* [墨刀](https://modao.io/workspace) 原型设计
 
 
 ## 更多软件
