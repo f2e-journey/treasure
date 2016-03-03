@@ -7,6 +7,13 @@
   Inline Editors非常爽, 果断列入自己的兵器集
   > _Cloud\Google\Code\sync-software\development\Brackets
 
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+
+  前端开发最强的IDE了, 功能非常全, 适合团队开发 
+  
+* [HBuilder](http://dcloud.io/)
+* [NetBeans](https://netbeans.org/downloads/6.8/index.html)
+
 ## 前端开发效率
 * [Web开发免刷新](http://getf5.com/)
  
