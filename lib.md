@@ -747,6 +747,7 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 
 
 ## 游戏类
+* [Hilo](https://github.com/hiloteam/Hilo) 阿里巴巴集团开发的一款跨终端的互动小游戏解决方案。案例丰富，框架成熟，已经经历多届阿里巴巴双十一，年中大促互动营销活动考验
 * [Cocos2d-html5](https://github.com/cocos2d/cocos2d-html5)
 * [iio Engine](http://iioengine.com)
 * [Box2D](http://box2d.org/)
