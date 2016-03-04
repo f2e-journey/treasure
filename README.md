@@ -84,3 +84,4 @@
 
 ### 其他收集
 * [front-end-collect](https://github.com/foru17/front-end-collect)
+* [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
