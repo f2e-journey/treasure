@@ -627,6 +627,8 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
 * [ECharts](http://echarts.baidu.com/doc/example.html)
   图形类型非常非常丰富 [Why ECharts?](http://echarts.baidu.com/doc/slide/whyEcharts.html)
 
+* [Chart.js](https://github.com/nnnick/Chart.js) All six core chart types are only 11.01kb when minified
+
 * [jsPlumb](https://github.com/sporritt/jsplumb/) Visual connectivity
 * [Kity Minder](https://github.com/fex-team/kityminder) 百度脑图
 * [two.js](https://github.com/jonobr1/two.js)
