@@ -68,7 +68,7 @@
 * [w3ctech](http://www.w3ctech.com/event)
 * [HTML5梦工厂](http://www.html5dw.com/)
 * [前端圈](http://www.fequan.com/)
-* [QCon北京](http://qconbeijing.com/) / [QCon上海](http://qconshanghai.com/) / [QCon@InfoQ](http://www.infoq.com/cn/qcon)
+* [QCon北京](http://qconbeijing.com/) / [QCon上海](http://qconshanghai.com/) / [QCon@InfoQ](http://www.infoq.com/cn/qcon) / [StuQ](http://www.stuq.org/)
 * [ArchSummit](http://www.archsummit.com/)
 * [阿里技术沙龙](http://club.alibabatech.org)
 * [Google I/O](https://events.google.com/io2015/)
