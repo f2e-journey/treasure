@@ -13,7 +13,7 @@
 
 ## 百宝箱
 * [前端工程师常用软件](https://github.com/f2e-journey/software/blob/master/software.md)([备选项](https://github.com/f2e-journey/software/blob/master/software-alternative.md))
-* [前端常用框架](https://github.com/f2e-journey/software/blob/master/lib.md)
+* [前端常用框架](https://github.com/f2e-journey/software/blob/master/lib.md)([备选项](https://github.com/f2e-journey/software/blob/master/lib-alternative.md))
 * [前端常用云服务](https://github.com/f2e-journey/software/blob/master/cloud.md)
 * [常用App](https://github.com/f2e-journey/software/blob/master/app.md)
 * [前端架构beta](https://github.com/f2e-journey/software/blob/master/architecture.md)
@@ -39,20 +39,15 @@
 * [百度 FEX](http://fex.baidu.com/) / [EFE](http://efe.baidu.com/)
 * [淘宝 UED](http://ued.taobao.org/blog/category/bowen/frontend/) / [THX](http://thx.github.io/) / [手机淘宝](https://github.com/amfe/article) / [天猫](http://tmallfe.github.io/) / [有一点设计UED](http://www.aliued.cn/category/3%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91) / [MUX](http://mux.alimama.com/posts/front-end) / [FED](http://taobaofed.org/)
 * [腾讯 ISUX](http://isux.tencent.com/category/fd) / [AlloyTeam](http://www.alloyteam.com) / [TGideas](http://tgideas.qq.com/) / [TID](http://tid.tenpay.com/) / [WFE](http://qqfe.org/) / [IMWEB](http://imweb.io)
-* [奇舞团](http://www.75team.com/weekly/) / [去哪儿](http://ued.qunar.com/), 前端团队blog / [大搜车](http://f2e.souche.com/blog/)
-* TODO: blog正在收集中, http://mweb.baidu.com/
+* [奇舞团](http://www.75team.com/weekly/) / [去哪儿](http://ued.qunar.com/) / [携程UED](http://ued.ctrip.com/blog/) / [大搜车](http://f2e.souche.com/blog/) / 前端团队blog
+* TODO: blog正在收集中
 * https://github.com/foru17/front-end-collect
-* [携程UED](http://ued.ctrip.com/blog/)
-* [A List Apart](http://alistapart.com/)
-* [Smashing Magazine](http://www.smashingmagazine.com/)
-* [CSS-Tricks](https://css-tricks.com/)
-* [Codrops](http://tympanus.net/codrops/)
-* [AWWWARDS](http://www.awwwards.com/)
+* [A List Apart](http://alistapart.com/) / [Smashing Magazine](http://www.smashingmagazine.com/) / [CSS-Tricks](https://css-tricks.com/) / [Codrops](http://tympanus.net/codrops/) / [AWWWARDS](http://www.awwwards.com/)
 * 首选是行业博客
 * 再是大牛的个人博客/前端著名人物博客
-* [Aaron](http://www.cnblogs.com/aaronjs/) / [叶小钗](http://www.cnblogs.com/yexiaochai/) / [张鑫旭](http://www.zhangxinxu.com) / [民工精髓](https://github.com/xufei/blog/tree/master/posts) / [Philip Walton](http://philipwalton.com/)
-* [W3CPlus周刊](http://www.w3cplus.com/collective) 以及其他前端社区
-* [前端周刊](http://www.feweekly.com/issues)
+* [Aaron](http://www.cnblogs.com/aaronjs/) / [叶小钗](http://www.cnblogs.com/yexiaochai/) / [张鑫旭](http://www.zhangxinxu.com) / [民工精髓](https://github.com/xufei/blog/tree/master/posts) / [hax](https://github.com/hax/hax.github.com/issues) / [张云龙](https://github.com/fouber/blog/issues) / [射雕](https://github.com/lifesinger/blog/issues) / [Philip Walton](http://philipwalton.com/)
+* 以及其他前端社区
+* [码农周刊](http://weekly.manong.io/issues/) / [开发者头条](http://toutiao.io/) / [Web技术日报](http://web.memect.com/) / [W3CPlus周刊](http://www.w3cplus.com/collective) / [前端周刊](http://www.feweekly.com/issues)
 * [Div.IO](http://div.io/#/welcome)
 * [F2E - 前端技术社区](http://f2e.im/)
 * [V2EX](http://v2ex.com)
@@ -60,8 +55,6 @@
 * [Teahour.fm](http://teahour.fm/)
 * [Web technology for developers | MDN](https://developer.mozilla.org/en-US/docs/Web)
 * [醉前端](http://f2er.club/)
-* [码农周刊](http://weekly.manong.io/issues/)
-* [Web技术日报](http://web.memect.com/)
 * [ThoughtWorks中国分享](http://insights.thoughtworkers.org/)
 * [技术流](http://uridb.com/t/frontend)
 
