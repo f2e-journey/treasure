@@ -750,14 +750,14 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 
 ## 游戏类
 * [Hilo](https://github.com/hiloteam/Hilo) 阿里巴巴集团开发的一款跨终端的互动小游戏解决方案。案例丰富，框架成熟，已经经历多届阿里巴巴双十一，年中大促互动营销活动考验
+* [Phaser](http://phaser.io/)
+* [Stage.js](https://github.com/piqnt/stage.js/) 2D HTML5 game development
+* [CraftyJS](http://craftyjs.com/)
+* [白鹭](https://github.com/egret-labs/egret-core) 复杂游戏开发, 有 IDE 及其他工具辅组
+* [lufylegend](https://github.com/lufylegend/lufylegend.js) 仿ActionScript3.0的语法
 * [Cocos2d-JS](http://cocos2d-x.org/filecenter/jsbuilder/)
 * [iio Engine](http://iioengine.com)
 * [Box2D](http://box2d.org/)
-* [白鹭](https://github.com/egret-labs/egret-core)
-* [lufylegend](https://github.com/lufylegend/lufylegend.js) 仿ActionScript3.0的语法
-* [CraftyJS](http://craftyjs.com/)
-* [Phaser](http://phaser.io/)
-* [Stage.js](https://github.com/piqnt/stage.js/) 2D HTML5 game development
 * [Flash2x](http://www.flash2x.org/) 支持Flash项目到HTML5项目或App的跨平台高效转换工具
 * [Proton](https://github.com/a-jie/Proton) 粒子效果
 
