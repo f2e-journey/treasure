@@ -208,6 +208,8 @@ write animations easily, thanks to its versatile interface that adapts itself to
 gain extra features (play, pause, reverse, resume, restart and speed control, Timelines)
 switch easily from one library to another any time you want.
 
+* [tween.js](https://github.com/tweenjs/tween.js)
+
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
 
@@ -339,6 +341,8 @@ SlotMachine 是一个基于 jQuery 的插件，它能够制作类似老虎机的
 
 [pace](https://github.com/HubSpot/pace/)
 An automatic web page progress bar.
+
+[ProgressJS](https://github.com/usablica/progress.js/)
 
 [MixItUp](https://mixitup.kunkalabs.com/) animated filtering and sorting
 
@@ -559,6 +563,8 @@ unobtrusively upgrade HTML forms to use AJAX
 
 [jQuery-Knob](https://github.com/aterrien/jQuery-Knob) touchable, jQuery dial
 
+[superplaceholder.js](https://github.com/chinchang/superplaceholder.js)
+
 ### 滚动条
 [iScroll](https://github.com/cubiq/iscroll/)
 主要用于移动端的Web App
@@ -752,6 +758,18 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 * [Hilo](https://github.com/hiloteam/Hilo) 阿里巴巴集团开发的一款跨终端的互动小游戏解决方案。案例丰富，框架成熟，已经经历多届阿里巴巴双十一，年中大促互动营销活动考验
 * [Phaser](http://phaser.io/)
 * [Stage.js](https://github.com/piqnt/stage.js/) 2D HTML5 game development
+* [stats.js](https://github.com/mrdoob/stats.js) JavaScript Performance Monitor
+
+* [HTML5 Game Engines](http://html5gameengine.com/)
+* [The-Best-JS-Game-Framework](https://github.com/finscn/The-Best-JS-Game-Framework)
+* [CreateJS](http://createjs.com/) EaselJS/TweenJS/SoundJS/PreloadJS
+* [Pixi.js](https://github.com/pixijs/pixi.js)
+* [Kiwi.js](https://github.com/gamelab/kiwi.js) 和 Phaser 好像
+* [PlayCanvas](https://playcanvas.com/play) 3D 游戏/编辑器
+* [Quintus](https://github.com/cykod/Quintus) 和Crafty有点像
+* [enchant.js](https://github.com/wise9/enchant.js)
+* [Panda.js](https://github.com/ekelokorpi/panda.js-engine)
+
 * [CraftyJS](http://craftyjs.com/)
 * [白鹭](https://github.com/egret-labs/egret-core) 复杂游戏开发, 有 IDE 及其他工具辅组
 * [lufylegend](https://github.com/lufylegend/lufylegend.js) 仿ActionScript3.0的语法
@@ -811,7 +829,3 @@ A free library of HTML, CSS, JS nuggets
 ## 非WEB前端
 [启动界面插件](http://www.bangcle.com/solution/sdk-detail/?id=10)
 很实用的Android SDK, 但还没有推出正式版本
-
-
-## 版本
-[Semantic Versioning](http://semver.org/lang/zh-CN/) MAJOR.MINOR.PATCH
