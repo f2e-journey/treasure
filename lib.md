@@ -49,6 +49,8 @@ Material Design Lite Components in HTML/CSS/JS
 
 [Bootstrap](http://getbootstrap.com/) | [Material design theme for Bootstrap](https://github.com/FezVrasta/bootstrap-material-design) | [Materialize](https://github.com/Dogfalo/materialize)
 
+[generator-aio-angular](https://github.com/PinkyJie/generator-aio-angular) Material Design by [LumX](http://ui.lumapps.com/)
+
 [Foundation](http://foundation.zurb.com/)
 
 [UIkit](https://github.com/uikit/uikit)
