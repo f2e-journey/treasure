@@ -147,7 +147,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [NW.js](https://github.com/nwjs/nw.js/)
     
   node-webkit is renamed NW.js, You can write native apps in HTML and JavaScript with NW.js.
-  感觉现在[Electron](https://github.com/atom/electron)更加成熟, 还有比较久远一点的[heX](http://hex.youdao.com/)
+  感觉现在[Electron](https://github.com/atom/electron)更加成熟, 还有比较久远一点的[heX](http://hex.youdao.com/).
+  如果是开发App, 可以试一试[Cordova](https://cordova.apache.org/)/[Cocoon](https://cocoon.io).
 
 * [CasperJS](http://casperjs.org/)
     
