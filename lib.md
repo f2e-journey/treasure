@@ -772,6 +772,8 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 * [enchant.js](https://github.com/wise9/enchant.js)
 * [Panda.js](https://github.com/ekelokorpi/panda.js-engine)
 
+* [AlloyGameEngine](https://github.com/AlloyTeam/AlloyGameEngine)
+
 * [CraftyJS](http://craftyjs.com/)
 * [白鹭](https://github.com/egret-labs/egret-core) 复杂游戏开发, 有 IDE 及其他工具辅组
 * [lufylegend](https://github.com/lufylegend/lufylegend.js) 仿ActionScript3.0的语法
