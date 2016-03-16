@@ -822,7 +822,7 @@ A free library of HTML, CSS, JS nuggets
 
 [Github资源收集](http://segmentfault.com/a/1190000003510001)
 
-[Use getAwesomeness()](http://getawesomeness.com/get/js)
+[Use getAwesomeness()](https://github.com/sindresorhus/awesome)
 
 [一些移动Web开发的干货](https://coding.net/u/f2e/p/Books/git/tree/master/%E7%A7%BB%E5%8A%A8Web)
 
