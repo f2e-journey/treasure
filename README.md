@@ -21,19 +21,33 @@
 * [软件开发团队的人员配置](https://github.com/f2e-journey/software/blob/master/team.md)
 
 ## 前端趋势
-* 模块化 AMD CMD, 标准通用的模块化方案(ES6)
-* 组件化(标准, 通用), Web组件的标准化([Polymer](https://www.polymer-project.org/)), 组件生态圈, 想想 npm 的发展势头
-* 前端单元测试, 功能测试, 多浏览器测试[karma](https://github.com/karma-runner/karma)
-* [HTTP/2](https://http2.akamai.com/) [HTML5](https://rawgit.com/paulrouget/html5dashboard/master/demo.html) CSS3/[CSSNEXT](http://cssnext.io/)/[CSS STILL SUCKS](http://huangxuan.me/css-sucks-2015) [ES5](http://kangax.github.io/compat-table/es5 "5.0 2009/12 5.1 2011/6") [ES6](http://babeljs.io/docs/learn-es2015/ "ES2015 2015/6")
-* 前端工程化, 开发流程标准化, 工业化 | [Grunt](http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results) Yeoman [FIS](http://fis.baidu.com) [JDF](https://github.com/putaoshu/jdf) [coolie](http://coolie.ydr.me/)
-* 双向数据绑定 MVVM Angular | React(Virtual DOM)
+* 模块化
+  * AMD/CMD
+  * [ES6 module](http://es6.ruanyifeng.com/#docs/module) JavaScript 语言标准的模块化方案
+  * [webpack](http://webpack.github.io/docs/motivation.html)
+* 组件化(标准, 通用)
+  * [Web Components](http://webcomponents.org/)
+  * [React(Virtual DOM)](http://reactjs.cn/)
+  * 组件生态圈, 想想 npm 的发展势头
+* 前端测试
+  * 单元测试
+  * 功能测试
+  * 多浏览器测试[karma](https://github.com/karma-runner/karma)
+* 前端工程化
+  * 开发流程标准化, 工业化 | [Grunt](http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results) Yeoman [FIS](http://fis.baidu.com) [JDF](https://github.com/putaoshu/jdf) [coolie](http://coolie.ydr.me/)
+* 前端架构
+  * 双向数据绑定 MVVM Angular
+  * 单向数据流可控可预测 [Redux](http://camsong.github.io/redux-in-chinese/)
 * Web前端性能优化 WPO
-* 前端安全
-* 响应式解决方案, 特别是[图像的适配方案](http://responsiveimages.org/) [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/)
-* Node.js
+* 响应式解决方案特别是[图像的适配方案](http://responsiveimages.org/) [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/)
+* [Node.js](http://nodejs.org)
 * Full Stack developer(全端工程师), 前后端融合
-* (Single Page) Web App, 移动前端开发, Hybrid App
+* Web App
+  * SPA(Single Page Web App) 
+  * 移动端前端开发
+  * Hybrid App | [React Native](http://facebook.github.io/react-native/)
 * [Web Game](https://developer.mozilla.org/en-US/docs/Games)
+* 前端安全
 
 ### 前端博客/社区
 * [百度 FEX](http://fex.baidu.com/) / [EFE](http://efe.baidu.com/)
