@@ -118,7 +118,7 @@ Dashboard & Control Panel Template
 
 [crypto-js](http://code.google.com/p/crypto-js/)  https://github.com/brix/crypto-js
 
-[jStorage](https://github.com/andris9/jStorage)
+[jStorage](https://github.com/andris9/jStorage) | [PouchDB](https://github.com/pouchdb/pouchdb)
 
 [Cordova](http://cordova.apache.org/)
 
