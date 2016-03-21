@@ -50,6 +50,9 @@ v0.0.1 2015-5-5(还未正式发布版本)
   
   增强文件管理器, 可以打开多个标签页
   > _Cloud\Google\Code\sync-software\QTTabBarConfig.xml
+
+* [Evernote](http://evernote.com/) Remember Everything
+
 * [Skitch](https://evernote.com/skitch/)
 
   截图/标注
