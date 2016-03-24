@@ -21,6 +21,8 @@
 * [软件开发团队的人员配置](https://github.com/f2e-journey/software/blob/master/team.md)
 
 ## 前端趋势
+> [如何跟上前端开发的最新前沿](https://github.com/frontend-rescue/keep-up-to-date)
+
 * 模块化
   * AMD/CMD
   * [ES6 module](http://es6.ruanyifeng.com/#docs/module) JavaScript 语言标准的模块化方案
