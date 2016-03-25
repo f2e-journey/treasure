@@ -85,3 +85,4 @@ if (!response.status) {
 * [E-JSON数据传输标准](https://github.com/ecomfe/spec/blob/master/e-json.md)
 * [GitHub API](https://developer.github.com/v3/)
 * [JSON API](http://jsonapi.org/)
+* [JSON Schema](http://json-schema.org/ "describes your JSON data format")
