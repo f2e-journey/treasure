@@ -14,11 +14,10 @@
 
 查询 VIP 用户的接口
 
-`GET http://api.yourdomain.com/users`
+```
+POST /users?limit=10 HTTP/1.1
+Content-Type: application/json; charset=utf-8
 
-`Content-Type: application/json; charset=utf-8`
-
-```javascript
 {
     "name": "api",
     "vip": true
@@ -29,7 +28,10 @@
 
 返回的响应体类型推荐为 `Content-Type: application/json; charset=utf-8`, 返回的数据包含在 HTTP 响应体中, 是一个 JSON Object. 该 Object 可能包含 3 个字段 `data`, `status`, `statusInfo`
 
-```javascript
+```
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
 {
     "data": {}
     "status": 0,
@@ -82,3 +84,4 @@ if (!response.status) {
 ## 参考
 * [E-JSON数据传输标准](https://github.com/ecomfe/spec/blob/master/e-json.md)
 * [GitHub API](https://developer.github.com/v3/)
+* [JSON API](http://jsonapi.org/)
