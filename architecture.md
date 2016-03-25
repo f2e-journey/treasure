@@ -92,6 +92,7 @@ Load Balancer  <-->    Sails.js server    <-->
 * 缓存
     [Memcache]()
     [Redis]()
+    [搜狐视频Redis私有云平台](https://github.com/sohutv/cachecloud)
 
 ## 淘宝系
 * [Tengine](http://tengine.taobao.org/)
