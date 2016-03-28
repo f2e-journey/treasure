@@ -93,6 +93,7 @@ Load Balancer  <-->    Sails.js server    <-->
     [Memcache]()
     [Redis]()
     [搜狐视频Redis私有云平台](https://github.com/sohutv/cachecloud)
+* [Elasticsearch](https://www.elastic.co/products/elasticsearch) Search & Analyze Data in Real Time Build on top of Apache Lucene
 
 ## 淘宝系
 * [Tengine](http://tengine.taobao.org/)
