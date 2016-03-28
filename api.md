@@ -79,10 +79,11 @@ if (!response.status) {
 * 跨域
   - [CORS](https://developer.github.com/v3/#cross-origin-resource-sharing "Cross Origin Resource Sharing")
   - [JSONP](https://developer.github.com/v3/#json-p-callbacks)
-* TODO 中文乱码
+* [避免中文乱码](http://blog.csdn.net/chaijunkun/article/details/8257209 "将中文等非 ASCII 字符转义为 \uFFFF 这样的 unicode 形式 | non-ASCII characters to be escaped as \uFFFF")
 
 ## 参考
 * [E-JSON数据传输标准](https://github.com/ecomfe/spec/blob/master/e-json.md)
 * [GitHub API](https://developer.github.com/v3/)
 * [JSON API](http://jsonapi.org/)
 * [JSON Schema](http://json-schema.org/ "describes your JSON data format")
+* [最佳实践：更好的设计你的 REST API](http://www.ibm.com/developerworks/cn/web/1103_chenyan_restapi)
