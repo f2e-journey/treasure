@@ -510,6 +510,9 @@ multiple effects, animated text
 
 [iCheck](https://github.com/fronteed/iCheck/)
 
+[Chosen](https://github.com/harvesthq/chosen) making long, unwieldy select boxes more user friendly
+[Select2](https://github.com/select2/select2)
+
 [Switchery](https://github.com/abpetkov/switchery)
 iOS 7 style switches for your checkboxes
 
