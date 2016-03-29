@@ -362,6 +362,8 @@ a typography stylesheet for readable content
 跨平台 CSS 中文字体解决方案
 一直以来跨平台的中文字体 CSS 设置都是一件让人很头疼的事情，这个库打包了一些常见字体的名字(例如黑体, 楷体, 宋体, 仿宋, 明体)，希望能覆盖 Windows、Mac 以及 Linux 的常见字体，方便引用
 
+* [translater.js](https://github.com/jaywcjlove/translater.js) 利用HTML注释来翻译页面的解决方案
+
 ### 单页(活动页)常用
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
 Smooth scrolling and smart navigation when user scrolls on one-page sites.
