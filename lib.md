@@ -177,7 +177,7 @@ localStorage wrapper for all browsers without using cookies or flash. Uses local
 ### 基础库
 [RequireJS](http://requirejs.org/)
 
-[jQuery](http://jquery.com) | [Zepto](http://zeptojs.com/)
+[jQuery](http://jquery.com) | [Zepto](http://zeptojs.com/) | [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
 
 [Backbone](http://backbonejs.org/) | [Angular](https://angularjs.org/) | [Avalon](https://github.com/RubyLouvre/avalon)
 
