@@ -368,7 +368,7 @@ Smooth scrolling and smart navigation when user scrolls on one-page sites.
 
 http://www.zcool.com.cn/special/znote2014/
 
-[stickUp](http://lirancohen.github.io/stickUp/)
+[stickUp](https://github.com/LiranCohen/stickUp) sticky navigation menus.
 
 [One Page Scroll](https://github.com/peachananr/onepage-scroll)
 one page scroll website that allows users to scroll one page at a time. It is perfect for creating a website in which you want to present something to the viewers.
