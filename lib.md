@@ -440,7 +440,7 @@ SuperSlide 致力于解决网站大部分特效展示问题，使网站代码规
 [iSlider](https://github.com/BE-FE/iSlider)
 可用于幻灯片(可手势缩放), 滑动组件(图片或者DOM元素, 可实现滑动tab页), 支持水平或垂直滑动, 可用于做单页的活动推广页
 
-[Swiper](https://github.com/nolimits4web/swiper/) [功能强大](http://idangero.us/swiper/demos)到没话说
+[Swiper](https://github.com/nolimits4web/swiper/) [功能强大](http://idangero.us/swiper/demos)到没话说, 还有[中文文档](http://www.swiper.com.cn/demo/senior/index.html)
 
 [slick](https://github.com/kenwheeler/slick/)
 * 功能超多
