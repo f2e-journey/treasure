@@ -186,7 +186,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 * [PxCook像素大厨](http://www.fancynode.com.cn/pxcook/home)
   
-  不再为标注切图而烦恼, 可用来替代MarkMan
+  不再为标注切图而烦恼, 可用来替代 MarkMan, 然而还有更猛的切图神器 [Avocode](http://avocode.com/) Export and share anything from Photoshop & Sketch designs Colors, image assets, fonts, text, CSS, sizes and dimensions.
   > _Cloud\Google\Gmail\PxCook
 
 * [AnyProxy](https://github.com/alibaba/anyproxy)
