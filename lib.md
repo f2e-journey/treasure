@@ -495,7 +495,7 @@ multiple effects, animated text
 [jQuery.Switchable](https://github.com/jsw0528/jQuery.Switchable)
 
 
-[Sly](http://darsa.in/sly/)
+[Sly](https://github.com/darsain/sly)
 
 [Glide](https://github.com/jedrzejchalubek/Glide.js)
 
