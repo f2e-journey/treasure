@@ -461,9 +461,7 @@ SuperSlide 致力于解决网站大部分特效展示问题，使网站代码规
 [Flux-Slider](https://github.com/joelambert/Flux-Slider)
 支持很多动画效果
 
-[Swiper](http://www.idangero.us/swiper/)
-感觉非常好的样式, 还需要对比其他的啊, 滑动组件太多了有没有啊
-http://www.idangero.us/ 上面还有一个收费的, N多3D动画的滑动组件
+[Swiper](https://github.com/nolimits4web/swiper/) [功能强大](http://idangero.us/swiper/demos)到没话说
 
 
 [simple-jQuery-slider](https://github.com/dirkgroenen/simple-jQuery-slider)
