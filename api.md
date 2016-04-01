@@ -50,16 +50,16 @@ statusInfo | **状态信息**. 必须是任意 JSON 数据类型.
 
   ```
   {
-    "data": "api result"
-    "status": 0
+      "data": "api result"
+      "status": 0
   }
   ```
 * 失败时接口返回的数据
 
   ```
   {
-    "status": 1,
-    "statusInfo": "服务器正忙"
+      "status": 1,
+      "statusInfo": "服务器正忙"
   }
   ```
 
