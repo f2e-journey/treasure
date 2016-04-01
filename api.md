@@ -42,7 +42,7 @@ Content-Type: application/json; charset=utf-8
 **字段名** |**字段说明**
 :----------|:-----------
 data       | **业务数据**. 必须是任意 JSON 数据类型(number/string/boolean/object/array). 如果要表示日期数据, 推荐使用时间戳(简单暴力), 例如: `1458885313711`, 或者参考使用 [Date.prototype.toJSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toJSON) 提供的 ISO 标准格式.
-status     | **状态码**. 必须是 `>= 0` 的 JSON Number 整数. `0` 表示请求成功处理并返回. 这个字段可以省略, 省略时和为 `0` 时表示同一含义. `非 0` 表示发生错误时的错误码, 此时可以省略 `data` 字段, 也可以视情况给予 `statusInfo` 作为补充
+status     | **状态码**. 必须是 `>= 0` 的 JSON Number 整数. `0` 表示请求成功处理并返回. 这个字段可以省略, 省略时和为 `0` 时表示同一含义. `非 0` 表示发生错误时的[错误码](http://open.weibo.com/wiki/Error_code "错误码格式可以参考微博API的 Error code"), 此时可以省略 `data` 字段, 也可以视情况给予 `statusInfo` 作为补充
 statusInfo | **状态信息**. 必须是任意 JSON 数据类型.
 
 例如
@@ -83,7 +83,7 @@ if (!response.status) {
 
 ## 参考
 * [E-JSON数据传输标准](https://github.com/ecomfe/spec/blob/master/e-json.md)
-* [GitHub API](https://developer.github.com/v3/)
+* [GitHub API](https://developer.github.com/v3/) | [微博API](http://open.weibo.com/wiki/%E5%BE%AE%E5%8D%9AAPI)
 * [JSON API](http://jsonapi.org/)
 * [JSON Schema](http://json-schema.org/ "describes your JSON data format")
 * [最佳实践：更好的设计你的 REST API](http://www.ibm.com/developerworks/cn/web/1103_chenyan_restapi)
