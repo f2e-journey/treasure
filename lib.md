@@ -545,6 +545,8 @@ Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="ran
 
 [jscolor](http://jscolor.com/)
 
+[Spectrum](https://github.com/bgrins/spectrum) The No Hassle JavaScript Colorpicker
+
 [wColorPicker](https://github.com/websanova/wColorPicker)
 
 [wCheck](https://github.com/websanova/wCheck)
