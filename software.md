@@ -146,6 +146,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
     >
     > 4、{PSD名}-assets 文件夹中就会出现我们想要的切图了
   * Photoshop CC 2014 选中图层 + 复制 CSS
+  * [Extract CSS/image/text by Adobe Creative Cloud](https://assets.adobe.com/link/b8ecd6b6-94ac-468c-9cfa-b2c666c81a6c?section=extract)
 
 * [NW.js](https://github.com/nwjs/nw.js/)
     
