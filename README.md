@@ -25,37 +25,42 @@
 > [如何跟上前端开发的最新前沿](https://github.com/frontend-rescue/keep-up-to-date)
 
 * 模块化
-  * AMD/CMD
-  * [ES6 module](http://es6.ruanyifeng.com/#docs/module) JavaScript 语言标准的模块化方案
-  * [webpack](http://webpack.github.io/docs/motivation.html)
+  - AMD/CMD
+  - [ES6 module](http://es6.ruanyifeng.com/#docs/module) JavaScript 语言标准的模块化方案
+  - [webpack](http://webpack.github.io/docs/motivation.html)
 * 组件化(标准, 通用)
-  * [Web Components](http://webcomponents.org/)
-  * [React(Virtual DOM)](http://reactjs.cn/)
-  * 组件生态圈, 想想 npm 的发展势头
+  - [Web Components](http://webcomponents.org/)
+  - [React(Virtual DOM)](http://reactjs.cn/)
+  - 组件生态圈, 想想 npm 的发展势头
+* Web 规范
+  - [HTML5](https://rawgit.com/paulrouget/html5dashboard/master/demo.html)
+  - CSS3/[CSSNEXT](http://cssnext.io/)/[CSS STILL SUCKS](http://huangxuan.me/css-sucks-2015)
+  - [ES5](http://kangax.github.io/compat-table/es5 "5.0 2009/12 5.1 2011/6") [ES6](http://babeljs.io/docs/learn-es2015/ "ES2015 2015/6")
+  - [HTTP/2](https://http2.akamai.com/)
 * 前端测试
-  * 单元测试
-  * 功能测试
-  * 多浏览器测试[karma](https://github.com/karma-runner/karma)
+  - 单元测试
+  - 功能测试
+  - 多浏览器测试[karma](https://github.com/karma-runner/karma)
 * 前端工程化
-  * 开发流程标准化, 工业化 | [Grunt](http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results) Yeoman [FIS](http://fis.baidu.com) [JDF](https://github.com/putaoshu/jdf) [coolie](http://coolie.ydr.me/)
+  - 开发流程标准化, 工业化 | [Grunt](http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results) Yeoman [FIS](http://fis.baidu.com) [JDF](https://github.com/putaoshu/jdf) [coolie](http://coolie.ydr.me/)
 * 前端架构
-  * 双向数据绑定 MVVM Angular
-  * 单向数据流可控可预测 [Redux](http://camsong.github.io/redux-in-chinese/)
-* Web前端性能优化 WPO
+  - 双向数据绑定 MVVM Angular
+  - 单向数据流可控可预测 [Redux](http://camsong.github.io/redux-in-chinese/)
+  - Web前端性能优化 WPO
+  - 前端安全
 * 响应式解决方案特别是[图像的适配方案](http://responsiveimages.org/) [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/)
 * [Node.js](http://nodejs.org)
-* Full Stack developer(全端工程师), 前后端融合
+  - Full Stack developer(全端工程师), 前后端融合
 * Web App
-  * SPA(Single Page Web App) 
-  * 移动端前端开发
-  * Hybrid App | [React Native](http://facebook.github.io/react-native/)
+  - SPA(Single Page Web App) 
+  - 移动端前端开发
+  - Hybrid App | [React Native](http://facebook.github.io/react-native/)
 * [Web Game](https://developer.mozilla.org/en-US/docs/Games)
-* 前端安全
 
 ### 前端博客/社区
 * [百度 FEX](http://fex.baidu.com/) / [EFE](http://efe.baidu.com/)
 * [淘宝 UED](http://ued.taobao.org/blog/category/bowen/frontend/) / [THX](http://thx.github.io/) / [手机淘宝](https://github.com/amfe/article) / [天猫](http://tmallfe.github.io/) / [有一点设计UED](http://www.aliued.cn/category/3%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91) / [MUX](http://mux.alimama.com/posts/front-end) / [FED](http://taobaofed.org/)
-* [腾讯 ISUX](http://isux.tencent.com/category/fd) / [AlloyTeam](http://www.alloyteam.com) / [TGideas](http://tgideas.qq.com/) / [TID](http://tid.tenpay.com/) / [WFE](http://qqfe.org/) / [IMWEB](http://imweb.io)
+* [腾讯 ISUX](http://isux.tencent.com/category/fd) / [AlloyTeam](http://www.alloyteam.com) / [TGideas](http://tgideas.qq.com/) / [TID](http://tid.tenpay.com/) / [WFE](http://qqfe.org/) / [IMWEB](http://imweb.io) / [MXD](http://mxd.tencent.com/)
 * [奇舞团](http://www.75team.com/weekly/) / [去哪儿](http://ued.qunar.com/) / [携程UED](http://ued.ctrip.com/blog/) / [大搜车](http://f2e.souche.com/blog/) / 前端团队blog
 * TODO: blog正在收集中
 * https://github.com/foru17/front-end-collect
