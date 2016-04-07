@@ -421,6 +421,8 @@ execute a function whenever you scroll to an element.
 [AniJS](https://github.com/anijs/anijs) Raise your Web Design without Coding
 data-anijs="if: click, do: flipInY, to: .container-box"
 
+[Headroom.js](https://github.com/WickyNilliams/headroom.js) Hide your header until you need it
+
 ### 抽奖/活动
 * [wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
 * [lucky-card](https://github.com/Franslee/lucky-card) 刮刮卡
