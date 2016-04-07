@@ -37,6 +37,7 @@
   - CSS3/[CSSNEXT](http://cssnext.io/)/[CSS STILL SUCKS](http://huangxuan.me/css-sucks-2015)
   - [ES5](http://kangax.github.io/compat-table/es5 "5.0 2009/12 5.1 2011/6") [ES6](http://babeljs.io/docs/learn-es2015/ "ES2015 2015/6")
   - [HTTP/2](https://http2.akamai.com/)
+  - 响应式解决方案特别是[图像的适配方案](http://responsiveimages.org/) [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/)
 * 前端测试
   - 单元测试
   - 功能测试
@@ -48,7 +49,6 @@
   - 单向数据流可控可预测 [Redux](http://camsong.github.io/redux-in-chinese/)
   - Web前端性能优化 WPO
   - 前端安全
-* 响应式解决方案特别是[图像的适配方案](http://responsiveimages.org/) [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/)
 * [Node.js](http://nodejs.org)
   - Full Stack developer(全端工程师), 前后端融合
 * Web App
