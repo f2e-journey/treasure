@@ -270,7 +270,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [RailsInstaller](http://railsinstaller.org/)
 
-  顺带了[Git](http://www.git-scm.com/)
+  顺带了[Git](http://www.git-scm.com/) | [SourceTree](https://www.atlassian.com/software/sourcetree/overview)
 * [Python](https://www.python.org/downloads/)
 
 * [Cygwin](https://cygwin.com/) Get that Linux feeling - on Windows
