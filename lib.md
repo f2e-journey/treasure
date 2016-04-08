@@ -133,6 +133,8 @@ Dashboard & Control Panel Template
 [Platform](https://github.com/bestiejs/platform.js)
 平台检测
 
+[is.js](https://github.com/arasatasaygin/is.js) Check types, regexps, presence, time
+
 [SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager)
 A responsive state manager which allows you to run different javascript at different browser widths
 
@@ -396,6 +398,9 @@ Reveal CSS animation as you scroll down a page
 [scrollme](https://github.com/nckprsn/scrollme)
 adding simple scrolling effects to web pages.
 
+[VisSense](https://github.com/vissense/vissense)
+observing visibility changes of DOM elements. Immediately know when an element becomes hidden, partly visible or fully visible.
+
 [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js)
 Easily reveal elements as they enter the viewport.
 
@@ -422,6 +427,10 @@ execute a function whenever you scroll to an element.
 data-anijs="if: click, do: flipInY, to: .container-box"
 
 [Headroom.js](https://github.com/WickyNilliams/headroom.js) Hide your header until you need it
+
+[cta.js](https://github.com/chinchang/cta.js) animate any element ("action") onto any other element ("effect") on the page.
+
+[roll.js](https://github.com/williamngan/roll) keep track of position, scrolling, and pagination.
 
 ### 抽奖/活动
 * [wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
@@ -514,6 +523,7 @@ multiple effects, animated text
 
 [Chosen](https://github.com/harvesthq/chosen) making long, unwieldy select boxes more user friendly
 [Select2](https://github.com/select2/select2)
+[Awesomplete](https://github.com/LeaVerou/awesomplete) autocomplete with zero dependencies
 
 [Switchery](https://github.com/abpetkov/switchery)
 iOS 7 style switches for your checkboxes
@@ -836,6 +846,8 @@ A free library of HTML, CSS, JS nuggets
 [一些移动Web开发的干货](https://coding.net/u/f2e/p/Books/git/tree/master/%E7%A7%BB%E5%8A%A8Web)
 
 [awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)
+
+[YOU MIGHT NOT NEED JQUERY PLUGINS](http://youmightnotneedjqueryplugins.com/)
 
 ## 非WEB前端
 [启动界面插件](http://www.bangcle.com/solution/sdk-detail/?id=10)
