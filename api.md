@@ -85,6 +85,7 @@ if (!response.status) {
 * [E-JSON数据传输标准](https://github.com/ecomfe/spec/blob/master/e-json.md)
 * [GitHub API](https://developer.github.com/v3/) | [微博API](http://open.weibo.com/wiki/%E5%BE%AE%E5%8D%9AAPI)
 * [JSON API](http://jsonapi.org/) | [JSON Schema](http://json-schema.org/ "describes your JSON data format")
+* [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
 * [最佳实践：更好的设计你的 REST API](http://www.ibm.com/developerworks/cn/web/1103_chenyan_restapi)
 * [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
