@@ -588,6 +588,8 @@ unobtrusively upgrade HTML forms to use AJAX
 [iScroll](https://github.com/cubiq/iscroll/)
 主要用于移动端的Web App
 
+[xscroll](https://github.com/huxiaoqi567/xscroll) Taobao FED
+
 [jQuery.NiceScroll](https://github.com/inuyaksa/jquery.nicescroll)
 
 [custom scrollbar plugin](https://github.com/malihu/malihu-custom-scrollbar-plugin)
