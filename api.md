@@ -83,6 +83,18 @@ if (!response.status) {
 
 ## 参考
 * [E-JSON数据传输标准](https://github.com/ecomfe/spec/blob/master/e-json.md)
+* [客户端API请求规范](http://blog.12xiaoshi.com/2016/03/31/tech/api-constraint_design/)
+
+  > | 参数名 | 说明                                                                                               |
+  > |--------|----------------------------------------------------------------------------------------------------|
+  > | imei   | 国际移动设备身份码                                                                                 |
+  > | imsi   | 客户端用户标识                                                                                     |
+  > | t      | TIMESTAMP,请求的时间戳                                                                             |
+  > | appkey | 由服务端颁发的appkey                                                                               |
+  > | sign   | md5签名串。为了减轻非法恶意请求，每次来自APP的请求都需要对请求参数进行签名以实现安全认证           |
+  > | lng    | 手机上获取的经度                                                                                   |
+  > | lat    | 手机上获取的纬度                                                                                   |
+  > | ci     | 渠道标识，格式为：channelId@应用名平台客户端版本，例如：1001@nzaom_android_1.0，其中1001表示应用宝 |
 * [GitHub API](https://developer.github.com/v3/) | [微博API](http://open.weibo.com/wiki/%E5%BE%AE%E5%8D%9AAPI)
 * [JSON API](http://jsonapi.org/) | [JSON Schema](http://json-schema.org/ "describes your JSON data format")
 * [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml)
