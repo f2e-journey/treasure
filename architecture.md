@@ -139,6 +139,7 @@ Load Balancer  <-->    Sails.js server    <-->
     for千亿数据即席分析
 
 * [老庙黄金2016春晚抢红包活动技术架构详解](https://yq.aliyun.com/articles/7420 "基于阿里云的技术架构")
+  
     > ![老庙黄金2016春晚抢红包活动技术架构](http://imgchr.com/images/2c550956ecc11f1a0b3788337191e28efb2b3743.png)
     > 
     > * **网络层**：DDoS防护、域名解析、CDN加速；
@@ -146,6 +147,10 @@ Load Balancer  <-->    Sails.js server    <-->
     > * **应用层**：将虚拟机ECS分为两个可用区A和B来提高系统整体可用性。OCS用于做数据缓存，MQS则通过消息队列方式将一些数据异步写入数据库。而所有服务器的日志都集中记录入SLS，为后续的数据分析做好准备，同时也方便日志的查找；
     > * **数据层**：由于单个RDS的性能有限，因此使用DRDS来组成一个RDS MySQL集群，将系统压力分担至多个RDS；ODPS则用来做最终的数据分析，比如用户量、访问量、用户行为等；
     > * **运维监控**：云监控和Zabbix结合来实现整个系统从云资源到应用到业务的监控。Ansible用于自动化部署；
+
+* [一种适合创业公司的技术架构方案](http://blog.12xiaoshi.com/2016/03/30/tech/normal_design_base_aliyun/)
+  
+  > ![SLB/ECS/Redis/OSS/CDN/MQ/RDS/ODPS](https://img.alicdn.com/imgextra/i4/102975691/TB2GutxmXXXXXcCXXXXXXXXXXXX-102975691.jpg)
 
 ## 参考
 * [阿里核心系统团队博客](http://csrd.aliapp.com/)
