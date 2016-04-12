@@ -584,6 +584,8 @@ unobtrusively upgrade HTML forms to use AJAX
 
 [superplaceholder.js](https://github.com/chinchang/superplaceholder.js)
 
+[H5Fx](https://github.com/ourai/H5Fx) Form validation plugin based on HTML5 Forms
+
 ### 滚动条
 [iScroll](https://github.com/cubiq/iscroll/)
 主要用于移动端的Web App
