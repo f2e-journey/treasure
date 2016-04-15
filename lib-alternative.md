@@ -43,6 +43,8 @@ sliding panels for jQuery
 
   Layout/Grid/Toolbar/Tree/Tabs/Popup/Forms, Grid 很强大, 非常适合做管理系统
 
+* [handsontable](https://github.com/handsontable/handsontable) an Excel-like data grid / spreadsheet
+
 ### 动画
 * [jquery.animate-enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)
 Extend $.animate() to detect CSS transitions and convert animations automatically.
