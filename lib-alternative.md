@@ -37,6 +37,12 @@ sliding panels for jQuery
   * 模态对话框
   * 气泡浮层
 
+* [UI 弹层](https://github.com/bh-lay/UI) 虚拟弹层、弹框、提示信息、确认对话、列表选择等功能
+
+* [W2UI](https://github.com/vitmalina/w2ui)
+
+  Layout/Grid/Toolbar/Tree/Tabs/Popup/Forms, Grid 很强大, 非常适合做管理系统
+
 ### 动画
 * [jquery.animate-enhanced](https://github.com/benbarnett/jQuery-Animate-Enhanced)
 Extend $.animate() to detect CSS transitions and convert animations automatically.
