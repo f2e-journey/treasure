@@ -519,6 +519,8 @@ multiple effects, animated text
 
 [省市区三级联动选择器](https://github.com/fengyuanchen/distpicker)
 
+[multi-select](https://github.com/lou/multi-select) 双 select 左右选择
+
 [iCheck](https://github.com/fronteed/iCheck/)
 
 [selectbox](http://aui.github.io/popupjs/doc/selectbox.html) 糖饼 select
