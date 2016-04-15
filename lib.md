@@ -521,6 +521,7 @@ multiple effects, animated text
 
 [iCheck](https://github.com/fronteed/iCheck/)
 
+[selectbox](http://aui.github.io/popupjs/doc/selectbox.html) 糖饼 select
 [Chosen](https://github.com/harvesthq/chosen) making long, unwieldy select boxes more user friendly
 [Select2](https://github.com/select2/select2)
 [Awesomplete](https://github.com/LeaVerou/awesomplete) autocomplete with zero dependencies
@@ -554,6 +555,8 @@ Simple, small and fast JavaScript/jQuery polyfill for the HTML5 <input type="ran
 [ng-range](https://github.com/darul75/angular-awesome-slider)
 
 [clockpicker](https://github.com/weareoutman/clockpicker)
+
+[Color Picker](http://www.jq22.com/demo/colpick-jQuery-Color-Picker-master/) Photoshop-like interface
 
 [jscolor](http://jscolor.com/)
 
