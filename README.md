@@ -69,7 +69,7 @@
 * 再是大牛的个人博客/前端著名人物博客
 * [Aaron](http://www.cnblogs.com/aaronjs/) / [叶小钗](http://www.cnblogs.com/yexiaochai/) / [张鑫旭](http://www.zhangxinxu.com) / [民工精髓](https://github.com/xufei/blog/tree/master/posts) / [hax](https://github.com/hax/hax.github.com/issues) / [张云龙](https://github.com/fouber/blog/issues) / [射雕](https://github.com/lifesinger/blog/issues) / [Philip Walton](http://philipwalton.com/)
 * 以及其他前端社区
-* [码农周刊](http://weekly.manong.io/issues/) / [开发者头条](http://toutiao.io/) / [Web技术日报](http://web.memect.com/) / [W3CPlus周刊](http://www.w3cplus.com/collective) / [前端周刊](http://www.feweekly.com/issues) / [Codrops Collective](http://tympanus.net/codrops/collective/)
+* [掘金](http://gold.xitu.io) / [码农周刊](http://weekly.manong.io/issues/) / [开发者头条](http://toutiao.io/) / [Web技术日报](http://web.memect.com/) / [W3CPlus周刊](http://www.w3cplus.com/collective) / [前端周刊](http://www.feweekly.com/issues) / [Codrops Collective](http://tympanus.net/codrops/collective/)
 * [Div.IO](http://div.io/#/welcome)
 * [F2E - 前端技术社区](http://f2e.im/)
 * [V2EX](http://v2ex.com)
