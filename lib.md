@@ -739,10 +739,6 @@ animating CSS sprites and dynamic scrolling backgrounds
 [表单验证](http://validform.rjboy.cn/)
 
 ## 正在试用的框架
-[Riot](https://muut.com/riotjs) 非常非常非常喜欢, 自定义tag非常爽
-
-[Avalon](http://avalonjs.github.io/) MVVM框架, 双向绑定也非常爽
-
 [Ionic](http://ionicframework.com/) full-stack hybrid mobile platform, 再也不用管什么cordova什么的了
 
 The world's first full-stack hybrid mobile platform.
