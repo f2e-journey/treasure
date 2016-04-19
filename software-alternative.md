@@ -2,9 +2,12 @@
 [前端工程师常用软件(Windows7 x64)](https://github.com/f2e-journey/treasure/blob/master/software.md)
 
 ## 前端开发必备
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+  默认的配置(不装插件)已经非常适合前端开发了(自带 HTML/CSS/JS 格式化 + 智能提示, 还支持 JSDoc, 跳转到定义), 更爽的是自带 NodeJS 调试器, 如 IDE 一般设置断点
 * [Brackets](http://brackets.io/)
 
-  Inline Editors非常爽, 果断列入自己的兵器集
+  Inline Editors 非常爽, 果断列入自己的兵器集
   > _Cloud\Google\Code\sync-software\development\Brackets
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
