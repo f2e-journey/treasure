@@ -129,7 +129,7 @@ Load Balancer  <-->    Sails.js server    <-->
     > * 集群日处理在线SQL请求50亿次以上
     > * 集群日处理在线数据流量TB级别以上
 
-  Cobar话说已经停止开发了? 现在使用基于 Cobar 的 [MyCAT](https://github.com/MyCATApache/Mycat-doc)
+  Cobar话说已经停止开发了? 现在使用基于 Cobar 的 [MyCAT](https://github.com/MyCATApache/Mycat-doc), 类似的还有 [Qihoo360/Atlas](https://github.com/Qihoo360/Atlas "A high-performance and stable proxy for MySQL")
 
 * [OceanBase](https://github.com/alibaba/oceanbase/)
 
