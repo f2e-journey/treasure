@@ -9,9 +9,6 @@
 [Don’t Use Sails (or Waterline)](https://kev.inburke.com/kevin/dont-use-sails-or-waterline/)
 
 
-[Ghost博客平台不错, 试试看, 作为wordpress的取代品](https://ghost.org/)
-
-
 [MEAN](http://mean.io/)
 The Friendly & Fun Javascript Fullstack for your next web application
 
@@ -310,6 +307,12 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 
 ## 项目方案
+* CMS
+  - [DoraCMS](https://github.com/doramart/DoraCMS)
+  - [Ghost博客平台不错, 试试看, 作为wordpress的取代品](https://ghost.org/)
+  - [iBlog2](https://github.com/eshengsky/iBlog2)
+  - [KeystoneJS](https://github.com/keystonejs/keystone)
+
 * [AOS](http://git.oschina.net/osworks/AOS)
 * [G4Studio](https://git.oschina.net/osworks/G4Studio)
 * [JeeSite](https://github.com/thinkgem/jeesite)
