@@ -116,7 +116,7 @@ Dashboard & Control Panel Template
 
 [moment](http://momentjs.com/)
 
-[crypto-js](http://code.google.com/p/crypto-js/)  https://github.com/brix/crypto-js
+[crypto-js](http://code.google.com/p/crypto-js/)  https://github.com/brix/crypto-js | [JSEncryptA](https://github.com/travist/jsencrypt "OpenSSL RSA Encryption")
 
 [jStorage](https://github.com/andris9/jStorage) | [PouchDB](https://github.com/pouchdb/pouchdb)
 
