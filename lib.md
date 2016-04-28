@@ -214,6 +214,8 @@ switch easily from one library to another any time you want.
 
 * [tween.js](https://github.com/tweenjs/tween.js)
 
+* [Textillate](https://github.com/jschr/textillate) 实现文字动画效果, 例如打字机效果
+
 ### 模版
 [Hogan.js](https://github.com/twitter/hogan.js)
 
