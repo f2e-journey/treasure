@@ -515,7 +515,7 @@ multiple effects, animated text
 
 [cxCalendar](https://github.com/ciaoca/cxCalendar)
 
-[Pikaday](https://github.com/dbushell/Pikaday) 日历
+[Pikaday](https://github.com/dbushell/Pikaday) No dependencies Datepicker
 
 [pickadate](https://github.com/amsul/pickadate.js/) mobile-friendly, responsive, jQuery date & time input picker
 
@@ -579,6 +579,8 @@ Chained Selects for jQuery and Zepto.
 
 [Simditor](https://github.com/mycolorway/simditor)
 富文本编辑器, 出自彩程设计, 还有其他表单组件
+
+[wangEditor](https://github.com/wangfupeng1988/wangEditor) 还有移动版
 
 [jQuery Form](https://github.com/malsup/form)
 unobtrusively upgrade HTML forms to use AJAX
