@@ -33,7 +33,7 @@
   - [React(Virtual DOM)](http://reactjs.cn/)
   - 组件生态圈, 想想 npm 的发展势头
 * Web 规范
-  - [HTML5](https://rawgit.com/paulrouget/html5dashboard/master/demo.html)
+  - [HTML5](https://rawgit.com/paulrouget/html5dashboard/master/demo.html "HTML 4.01 1992/12")
   - CSS3/[CSSNEXT](http://cssnext.io/)/[CSS STILL SUCKS](http://huangxuan.me/css-sucks-2015)
   - [ES5](http://kangax.github.io/compat-table/es5 "5.0 2009/12 5.1 2011/6") [ES6](http://babeljs.io/docs/learn-es2015/ "ES2015 2015/6")
   - [HTTP/2](https://http2.akamai.com/ "HTTP/1.1 1999 HTTP/2 2015/5")
