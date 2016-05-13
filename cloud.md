@@ -243,6 +243,7 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 ## 参考
 * [API Store](http://apistore.baidu.com/) 为开发者提供最全面的API服务
 * [DevStore](http://www.devstore.cn/)
+  ![devstore-productHome](http://imgchr.com/images/devstore-productHome.png "您的项目现在处于哪个阶段")
 * [SDK.cn](http://sdk.cn) 开发者服务平台
 * [移动开发者服务联盟](http://mdsa.51cto.com/)
 * [聚合数据](https://www.juhe.cn/)
