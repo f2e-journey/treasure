@@ -101,3 +101,4 @@ if (!response.status) {
 * [最佳实践：更好的设计你的 REST API](http://www.ibm.com/developerworks/cn/web/1103_chenyan_restapi)
 * [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+* [Restlet Studio - Web IDE for API design](https://studio.restlet.com/) | [Swagger](http://swagger.io/)
