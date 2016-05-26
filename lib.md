@@ -596,6 +596,8 @@ unobtrusively upgrade HTML forms to use AJAX
 [H5Fx](https://github.com/ourai/H5Fx) Form validation plugin based on HTML5 Forms
 
 ### 滚动条
+[dropload](https://github.com/ximan/dropload) 移动端下拉刷新、上拉加载更多插件
+
 [iScroll](https://github.com/cubiq/iscroll/)
 主要用于移动端的Web App
 
