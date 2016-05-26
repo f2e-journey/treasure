@@ -96,6 +96,7 @@ Load Balancer  <-->    Sails.js server    <-->
 * [Elasticsearch](https://www.elastic.co/products/elasticsearch) Search & Analyze Data in Real Time Build on top of Apache Lucene
 * [Open-Falcon](https://github.com/open-falcon/of-release) 互联网企业级监控系统解决方案
 * [Mango](https://github.com/jfaster/mango/ "Mango SQL Mapper Framework for Java")
+* [kingshard](https://github.com/flike/kingshard "A high-performance MySQL proxy")
 
   > 一个轻量级极速数据层访问框架。目前已有十多个大型线上项目在使用mango，在某一支付系统中，更是利用mango，承载了每秒12万的支付下单请求。
   > * 采用接口与注解的形式定义DAO，完美结合db与cache操作
