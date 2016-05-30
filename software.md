@@ -335,6 +335,14 @@ v0.0.1 2015-5-5(还未正式发布版本)
   > 2013年就有的老平台了
 
 * [JEECG](http://git.oschina.net/jeecg/jeecg)
+* [Eova快速开发平台](http://git.oschina.net/eova/eova)
+* [PSI 开源进销存系统](http://git.oschina.net/crm8000/PSI)
+* [ExamStack](http://git.oschina.net/ocelot/ExamStack)
+
+  > 免费开源互联网考试、学习系统、创建在线教育网站的优质解决方案
+* [mpsdk4j](https://github.com/elkan1788/mpsdk4j)
+
+  > JAVA微信公平台开发SDK
 
 * 其他可选项 - [WebX5/BeX5](http://wex5.com/cn/bex5/) 看还有哪些?
 
