@@ -362,7 +362,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [CSS3, Please](http://css3please.com/)
 * [Can I use](http://caniuse.com/)
 * [CSS3 Generator](http://enjoycss.com/)
-
+* 页面性能测试
+  * [听云Network](http://www.tingyun.com/tingyun_network.html "首屏时间/页面打开时间/页面加载时间/Pagespeed评分")
+  * [GTmetrix](https://gtmetrix.com/ "Analyze your page with Google PageSpeed and Yahoo! YSlow rulesets")
+  * [WebPagetest](http://www.webpagetest.org/ "Website Performance and Optimization Test")
 
 ## 杂项
 * [Bower](http://bower.io/)
