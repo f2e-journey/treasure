@@ -197,6 +197,16 @@ v0.0.1 2015-5-5(还未正式发布版本)
     
   The free web debugging proxy for any browser, system or platform
   > _Cloud\Google\Gmail\Fiddler2
+  
+  [AlloyTeam/Rosin](https://github.com/AlloyTeam/Rosin)
+  
+  > Fiddler插件，协助开发者进行移动端页面开发调试，是移动端web开发、调试利器
+  > * 拦截 console, 支持复杂对象的 JSON 解析
+  >
+  >   ![对于复杂对象，双击Object字符区域选中，然后右键, 复杂对象都会被转为JSON对象，生成一个JSON View](http://alloyteam.github.io/Rosin/images/step-4.jpg)
+  > * 脚本运行错误捕获
+  >
+  >   ![javascript运行时错误信息捕获，并且支持跨域情况下的捕获](http://alloyteam.github.io/Rosin/images/step-7.jpg)
 
 * [Flex Combo](https://github.com/wayfind/flex-combo)
   
