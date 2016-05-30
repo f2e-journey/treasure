@@ -185,7 +185,12 @@ localStorage wrapper for all browsers without using cookies or flash. Uses local
 
 [Backbone](http://backbonejs.org/) | [Angular](https://angularjs.org/) | [Avalon](https://github.com/RubyLouvre/avalon)
 
+[AlloyTeam/Nuclear](https://github.com/AlloyTeam/Nuclear)
+Some HTML + Scoped CSS + JS === Reusable Component
+
 [colors](http://clrs.cc/) Better colors for the web
+
+
 
 ### 表单验证
 [Validator](https://github.com/sofish/validator.js)
@@ -600,6 +605,8 @@ unobtrusively upgrade HTML forms to use AJAX
 ### 滚动条
 [dropload](https://github.com/ximan/dropload) 移动端下拉刷新、上拉加载更多插件
 
+[AlloyTeam/AlloyTouch](https://github.com/AlloyTeam/AlloyTouch) 触摸运动
+
 [iScroll](https://github.com/cubiq/iscroll/)
 主要用于移动端的Web App
 
@@ -668,6 +675,8 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
 
 * [ECharts](http://echarts.baidu.com/doc/example.html)
   图形类型非常非常丰富 [Why ECharts?](http://echarts.baidu.com/doc/slide/whyEcharts.html)
+
+* [G2](https://g2.alipay.com/start/)
 
 * [Chart.js](https://github.com/nnnick/Chart.js) All six core chart types are only 11.01kb when minified
 
