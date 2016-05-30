@@ -178,6 +178,8 @@ localStorage wrapper for all browsers without using cookies or flash. Uses local
 [A finite state machine javascript micro framework](https://github.com/jakesgordon/javascript-state-machine)
 
 
+[AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) super tiny size multi-touch gestures library for the web
+
 ### 基础库
 [RequireJS](http://requirejs.org/)
 
