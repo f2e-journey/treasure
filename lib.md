@@ -201,6 +201,8 @@ Some HTML + Scoped CSS + JS === Reusable Component
 
 [formvalidation](https://github.com/formvalidation/formvalidation)
 
+[nice-validator](https://github.com/niceue/nice-validator)
+
 
 ### 动画
 * [Popmotion](https://github.com/Popmotion/popmotion)
@@ -589,6 +591,8 @@ Chained Selects for jQuery and Zepto.
 
 [wangEditor](https://github.com/wangfupeng1988/wangEditor) 还有移动版
 
+[editor.md](https://github.com/pandao/editor.md) markdown 编辑器
+
 [jQuery Form](https://github.com/malsup/form)
 unobtrusively upgrade HTML forms to use AJAX
 
@@ -685,6 +689,9 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
 * [two.js](https://github.com/jonobr1/two.js)
 * [Qunee](https://github.com/samsha/graph.editor) 拓扑图
 * [JointJS](http://jointjs.com/) visualization and interaction with diagrams and graphs.
+* [Mapv](https://github.com/huiyan-fe/mapv)
+
+  > 基于百度地图的大数据可视化开源库，可以用来展示大量的点、线、面的数据，每种数据也有不同的展示类型，如直接打点、热力图、网格、聚合等方式展示数据
 
 ### 表格
 * [DataTables](http://www.datatables.net/)
