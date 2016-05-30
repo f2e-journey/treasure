@@ -88,6 +88,7 @@ Load Balancer  <-->    Sails.js server    <-->
     [Nginx]()
     [Squid]()
     [Varnish]()
+    [varnish-dashboard](https://github.com/brandonwamboldt/varnish-dashboard)
     [HAproxy]()
 * 缓存
     [Memcache]()
@@ -108,6 +109,25 @@ Load Balancer  <-->    Sails.js server    <-->
   > * 超级人性化的异常提示，使用简单，学习成本低
   > * 独立jar包，不依赖其它jar包
   > * 提供便捷的spring插件，与spring无缝集成
+
+* [Oceanus](https://github.com/58code/Oceanus)
+
+  > 58同城数据库中间件
+
+* [disconf](https://github.com/knightliao/disconf/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0Disconf)
+
+  > Distributed Configuration Management Platform(分布式配置管理平台)
+  > * 部署极其简单：同一个上线包，无须改动配置，即可在 多个环境中(RD/QA/PRODUCTION) 上线
+  > * 部署动态化：更改配置，无需重新打包或重启，即可 实时生效
+  > * 统一管理：提供web平台，统一管理 多个环境(RD/QA/PRODUCTION)、多个产品 的所有配置
+
+* [Walle](https://github.com/meolu/walle-web)
+
+  > web代码部署工具, 支持多项目、多环境一键部署上线，一键快速回滚
+
+* [Pinpoint](https://github.com/naver/pinpoint)
+
+  > Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems
 
 ## 淘宝系
 * [Tengine](http://tengine.taobao.org/)
