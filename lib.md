@@ -133,6 +133,8 @@ Dashboard & Control Panel Template
 [Platform](https://github.com/bestiejs/platform.js)
 平台检测
 
+[vConsole](https://github.com/WechatFE/vConsole "a mobile front-end developer tool which can be very helpful for debug and development")
+
 [is.js](https://github.com/arasatasaygin/is.js) Check types, regexps, presence, time
 
 [SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager)
