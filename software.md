@@ -321,12 +321,18 @@ v0.0.1 2015-5-5(还未正式发布版本)
 ## 项目方案
 * CMS
   - [DoraCMS](https://github.com/doramart/DoraCMS)
-  - [Ghost博客平台不错, 试试看, 作为wordpress的取代品](https://ghost.org/)
   - [iBlog2](https://github.com/eshengsky/iBlog2)
+  - [铭飞MCMS](http://git.oschina.net/mingSoft/MCMS)
+  - [师说CMS](http://git.oschina.net/shishuo/CMS)
+  - [NodeBB](https://github.com/NodeBB/NodeBB)
+  - [Ghost博客平台不错, 试试看, 作为wordpress的取代品](https://ghost.org/)
   - [KeystoneJS](https://github.com/keystonejs/keystone)
 
 * [AOS](http://git.oschina.net/osworks/AOS)
 * [G4Studio](https://git.oschina.net/osworks/G4Studio)
+* [JFinal_Authority](http://git.oschina.net/jayqqaa12/JFinal_Authority)
+* [JECP](http://git.oschina.net/loyin/jecp) jfinal + easyUI+activiti 企业协同平台
+* [s2jh4net](https://github.com/xautlx/s2jh4net/blob/master/src/main/webapp/docs/markdown/%E5%9F%BA%E7%A1%80%E5%8A%9F%E8%83%BD.md)
 * [JeeSite](https://github.com/thinkgem/jeesite)
 
   > 企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等
@@ -349,7 +355,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
   > 业务系统框架,包括员工管理,组织机构,请假出差申请,流程审批,信息汇总,excel导出等基础功能
 * [JEECG](http://git.oschina.net/jeecg/jeecg)
 * [Eova快速开发平台](http://git.oschina.net/eova/eova)
+
 * [PSI 开源进销存系统](http://git.oschina.net/crm8000/PSI)
+* [ECP](http://git.oschina.net/loyin/ECP) 简单客户管理及进销存财务系统
+
 * [ExamStack](http://git.oschina.net/ocelot/ExamStack)
 
   > 免费开源互联网考试、学习系统、创建在线教育网站的优质解决方案
@@ -365,6 +374,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
   > 捷微H5活动开源平台, 采用插件模式开发H5营销活动，独立部署，解决微信活动大用户、高并发问题
 
+* [jfinal-weixin](http://git.oschina.net/jfinal/jfinal-weixin)
+
 * [Ke361](http://git.oschina.net/jcove/ke361)
 
   > 开源的淘宝客系统
@@ -373,6 +384,12 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [R3 Query](http://git.oschina.net/aagagagag/R3-Query)
 
   > 商业智能报表
+
+* [zftlive](http://git.oschina.net/zftlive/zftlive)
+
+  > 集成目前Android主流优秀第三方组件、优秀好用的自定义控件、实用工具类封装、以及一些APP共通模块
+
+* [《刀塔传奇》开源项目](http://git.oschina.net/beyonehu/manual_dota)
 
 * 其他可选项 - [WebX5/BeX5](http://wex5.com/cn/bex5/) 看还有哪些?
 
