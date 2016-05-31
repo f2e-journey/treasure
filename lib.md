@@ -699,6 +699,8 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
 
   > 基于百度地图的大数据可视化开源库，可以用来展示大量的点、线、面的数据，每种数据也有不同的展示类型，如直接打点、热力图、网格、聚合等方式展示数据
 
+* [my-mind](https://github.com/ondras/my-mind) Online Mindmapping Software
+
 ### 表格
 * [DataTables](http://www.datatables.net/)
 * [jQuery Bootgrid](https://github.com/rstaib/jquery-bootgrid)
