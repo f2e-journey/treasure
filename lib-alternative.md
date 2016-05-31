@@ -8,6 +8,7 @@ lib.md中放置常用框架, lib-alternate 放置备用框架, 用于做对比�
 * [KISSY](http://docs.kissyui.com/5.0/) | [KISSY MINI](http://m.kissyui.com/)
 
 ## 类 bootstrap UI 前端框架
+* [Jingle](https://github.com/shixy/Jingle) 移动webapp 框架
 * [ZUI](http://www.zui.sexy/)
 * [AmazeUI](http://amazeui.org/)
 * [Pintuer](http://www.pintuer.com/)
