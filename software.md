@@ -391,6 +391,9 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 * [《刀塔传奇》开源项目](http://git.oschina.net/beyonehu/manual_dota)
 
+* [KODExplorer](http://git.oschina.net/kalcaddle/KODExplorer) 基于Web的在线文件管理、代码编辑器
+* [Mybatis_PageHelper](http://git.oschina.net/free/Mybatis_PageHelper) 分页插件支持任何复杂的单表、多表分页
+
 * 其他可选项 - [WebX5/BeX5](http://wex5.com/cn/bex5/) 看还有哪些?
 
 ## 项目管理
