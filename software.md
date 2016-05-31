@@ -344,6 +344,9 @@ v0.0.1 2015-5-5(还未正式发布版本)
   > 
   > 2013年就有的老平台了
 
+* [webbase](http://git.oschina.net/wangt/webbase)
+
+  > 业务系统框架,包括员工管理,组织机构,请假出差申请,流程审批,信息汇总,excel导出等基础功能
 * [JEECG](http://git.oschina.net/jeecg/jeecg)
 * [Eova快速开发平台](http://git.oschina.net/eova/eova)
 * [PSI 开源进销存系统](http://git.oschina.net/crm8000/PSI)
@@ -353,6 +356,23 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [mpsdk4j](https://github.com/elkan1788/mpsdk4j)
 
   > JAVA微信公平台开发SDK
+
+* [jeewx](http://git.oschina.net/jeecg/jeewx) 
+
+  > 微信公众账号开发平台
+
+* [p3-weixin](http://git.oschina.net/jeecg/p3-weixin)
+
+  > 捷微H5活动开源平台, 采用插件模式开发H5营销活动，独立部署，解决微信活动大用户、高并发问题
+
+* [Ke361](http://git.oschina.net/jcove/ke361)
+
+  > 开源的淘宝客系统
+
+* [JFinalShop](http://git.oschina.net/hycx227/JFinalShop)
+* [R3 Query](http://git.oschina.net/aagagagag/R3-Query)
+
+  > 商业智能报表
 
 * 其他可选项 - [WebX5/BeX5](http://wex5.com/cn/bex5/) 看还有哪些?
 
