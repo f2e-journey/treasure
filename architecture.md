@@ -129,6 +129,13 @@ Load Balancer  <-->    Sails.js server    <-->
 
   > Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems
 
+* [light-task-scheduler](http://git.oschina.net/hugui/light-task-scheduler)
+
+  > 分布式任务调度框架
+* [uncode-schedule](http://git.oschina.net/uncode/uncode-schedule)
+
+  > 基于zookeeper+quartz/spring task的分布式任务调度组件
+
 ## 淘宝系
 * [Tengine](http://tengine.taobao.org/)
     It is based on the Nginx HTTP server and has many advanced features.
