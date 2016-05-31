@@ -263,6 +263,8 @@ Responsive animation framework for creating unique sliders, presentations, banne
 
 [notify](https://github.com/sciactive/pnotify)
 
+[iNotify](https://github.com/jaywcjlove/iNotify) JS achieve the browser title flashing , scrolling, voice prompts , browser notice.
+
 [tip](https://github.com/qTip2/qTip2)
 
 [opentip](https://github.com/enyo/opentip)
@@ -592,6 +594,8 @@ Chained Selects for jQuery and Zepto.
 富文本编辑器, 出自彩程设计, 还有其他表单组件
 
 [wangEditor](https://github.com/wangfupeng1988/wangEditor) 还有移动版
+
+[Thinker-md](http://git.oschina.net/benhail/thinker-md)
 
 [editor.md](https://github.com/pandao/editor.md) markdown 编辑器
 
