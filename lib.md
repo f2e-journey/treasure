@@ -447,6 +447,8 @@ data-anijs="if: click, do: flipInY, to: .container-box"
 
 [roll.js](https://github.com/williamngan/roll) keep track of position, scrolling, and pagination.
 
+[jquery.scrollTo](https://github.com/flesler/jquery.scrollTo) animated scrolling
+
 ### 抽奖/活动
 * [wScratchPad](https://github.com/websanova/wScratchPad) 刮刮卡
 * [lucky-card](https://github.com/Franslee/lucky-card) 刮刮卡
