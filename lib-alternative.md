@@ -32,6 +32,14 @@ reset + 中文排版
 * [noty](https://github.com/needim/noty/)
 a jQuery notification plugin that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 
+* [motice](https://github.com/mamboer/motice) Simple Notification Component With Magical Css3 Effects
+* [mobox](https://github.com/mamboer/mobox) MOBOX = Modern Dialog + Pop Box + Overlay + Extensible CSS3 Effects
+* [rem-html5](https://github.com/mamboer/rem-html5 "A Multiple Devices Adaptive HTML5 Mobile Page Template Leveraging The REM Unit")
+* [forkit.js](https://github.com/hakimel/forkit.js) an animated GitHub ribbon
+* [jquery-fanmenu](https://github.com/mamboer/jquery-fanmenu)
+* [wordcloud](https://github.com/timdream/wordcloud)
+* [waterfall](https://github.com/kudago/waterfall)
+
 * [kwicks](https://github.com/jmar777/kwicks)
 sliding panels for jQuery
 
