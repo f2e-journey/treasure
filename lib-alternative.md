@@ -80,3 +80,5 @@ managing CSS animations. Stack animations
 
 * [CountUp.js](https://github.com/inorganik/countUp.js) Animates a numerical value
 http://aishek.github.io/jquery-animateNumber/
+
+* [turn.js](https://github.com/blasten/turn.js) The page flip effect
