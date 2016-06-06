@@ -326,6 +326,9 @@ http://paperjs.org
 
 [图片裁剪](https://github.com/tapmodo/Jcrop/) http://odyniec.net/projects/imgareaselect/
 
+[image-cropper](https://github.com/ElemeFE/image-cropper)
+
+
 [Cropper](https://github.com/fengyuanchen/cropper)
 
 [Store](https://github.com/nbubna/store)
