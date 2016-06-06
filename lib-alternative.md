@@ -16,6 +16,7 @@ lib.md中放置常用框架, lib-alternate 放置备用框架, 用于做对比�
 * [mui](https://github.com/muicss/mui)
 * [Agile Lite](https://git.oschina.net/nandy007/agile-lite)
 * [dcloudio/mui](https://github.com/dcloudio/mui)
+* [mint-ui](https://github.com/ElemeFE/mint-ui) Mobile UI elements for vue.js
 
 ## 排版
 * [typo.css](https://github.com/xiangming/typo)
