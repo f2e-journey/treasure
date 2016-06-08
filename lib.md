@@ -122,10 +122,52 @@ Some HTML + Scoped CSS + JS === Reusable Component
 
 [colors](http://clrs.cc/) Better colors for the web
 
+### 工具库
+* [loa]()
+- 模版引擎
+  * [laytpl](https://github.com/sentsin/laytpl)
+    1KB 具备转义安全机制
+  
+    ```javascript
+    Laytpl Error：TypeError: Cannot read property 'name' of undefined
+    
+        <h3>{{= d.title }}</h3>
+        <p class="intro">{{= d.intro }}</p>
+        <ul>
+        {{# for(var i = 0, len = d.list.length; i < len; i++){ }}
+            <li>
+                <span>{{ d.list[100].name }}</span>
+                <span>所在城市：{{ d.list[i].city }}</span>
+            </li>
+        {{# } }}
+        </ul>
+    ```
+  
+  * [artTemplate](https://github.com/aui/artTemplate) 5KB 相比 laytpl 拥有更好的调错机制, 支持 include 语句和预编译
+  
+    ```javascript
+    Template Error
+    
+    <filename>
+    tpl1
+    
+    <name>
+    Render Error
+    
+    <message>
+    Cannot read property 'name' of undefined
+    
+    <line>
+    6
+    
+    <source>
+    <span>{{ value1.name }}</span>
+    ```
+
+### 常用(UI)组件
+* 弹窗 [layer](layer.layui.com) alert, confirm, prompt, msg, load, tips, iframe(window) 还有移动设备版本
 
 ## 工具
-[Undercore](http://underscorejs.org/)
-
 [moment](http://momentjs.com/)
 
 [crypto-js](http://code.google.com/p/crypto-js/)  https://github.com/brix/crypto-js | [JSEncryptA](https://github.com/travist/jsencrypt "OpenSSL RSA Encryption")
@@ -191,46 +233,6 @@ localStorage wrapper for all browsers without using cookies or flash. Uses local
 
 
 [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) super tiny size multi-touch gestures library for the web
-
-### 模版
-* [laytpl](https://github.com/sentsin/laytpl)
-  1KB 具备转义安全机制
-
-  ```javascript
-  Laytpl Error：TypeError: Cannot read property 'name' of undefined
-  
-      <h3>{{= d.title }}</h3>
-      <p class="intro">{{= d.intro }}</p>
-      <ul>
-      {{# for(var i = 0, len = d.list.length; i < len; i++){ }}
-          <li>
-              <span>{{ d.list[100].name }}</span>
-              <span>所在城市：{{ d.list[i].city }}</span>
-          </li>
-      {{# } }}
-      </ul>
-  ```
-
-* [artTemplate](https://github.com/aui/artTemplate) 5KB 相比 laytpl 拥有更好的调错机制, 支持 include 语句和预编译
-
-  ```javascript
-  Template Error
-  
-  <filename>
-  tpl1
-  
-  <name>
-  Render Error
-  
-  <message>
-  Cannot read property 'name' of undefined
-  
-  <line>
-  6
-  
-  <source>
-  <span>{{ value1.name }}</span>
-  ```
 
 
 ### 表单验证
@@ -684,35 +686,6 @@ create many types of grid layouts: flexible layouts, images layouts, nested grid
 
 [infinity](https://github.com/airbnb/infinity)
 speeds up scrolling through long lists and keeps your infinite feeds smooth and stable
-
-
-### 弹窗
-[layerui | layer](layer.layui.com)
-* alert, confirm, prompt, msg, load, tips, iframe(window)
-
-[iGrowl](https://github.com/catc/iGrowl/) growl-like notifications with an emphasis on icons
-
-[SweetAlert](https://github.com/t4t5/sweetalert) An awesome replacement for JavaScript's alert.
-
-[fancyBox](https://github.com/fancyapps/fancyBox)
-Mac风格的弹出窗口, 支持图片, iframe等等
-
-[Lightbox](https://github.com/lokesh/lightbox2/)
-http://odyniec.net/projects/imgzoom/
-
-[baguetteBox](https://github.com/feimosi/baguetteBox.js)
-Simple and easy to use lightbox script. no dependencies required, Around 2.3KB gzipped
-
-[Photopile JS](https://github.com/bigbhowell/Photopile-JS)
-image gallery that simulates a pile of photos scattered about on a surface, Thumbnails are draggable
-
-[wModal](https://github.com/websanova/wModal)
-
-[wTooltip](https://github.com/websanova/wTooltip)
-
-[wHumanMsg](https://github.com/websanova/wHumanMsg)
-
-[layui 跨设备模块化前端框架](http://www.layui.com/)
 
 ### 图形
 * [Highcharts](http://www.highcharts.com/)
