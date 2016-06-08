@@ -71,6 +71,8 @@ image gallery that simulates a pile of photos scattered about on a surface, Thum
 * [noty](https://github.com/needim/noty/)
 a jQuery notification plugin that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 
+* [jBox](https://github.com/StephanWagner/jBox) popup windows, tooltips, notices
+
 ## UI
 
 * [rem-html5](https://github.com/mamboer/rem-html5 "A Multiple Devices Adaptive HTML5 Mobile Page Template Leveraging The REM Unit")
