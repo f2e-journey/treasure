@@ -7,7 +7,7 @@ lib.md中放置常用框架, lib-alternate 放置备用框架, 用于做对比�
 * [YUI](https://github.com/yui/yui3)
 * [KISSY](http://docs.kissyui.com/5.0/) | [KISSY MINI](http://m.kissyui.com/)
 
-## 类 bootstrap UI 前端框架
+## 类 Bootstrap 前端框架
 * [Jingle](https://github.com/shixy/Jingle) 移动webapp 框架
 * [ZUI](http://www.zui.sexy/)
 * [AmazeUI](http://amazeui.org/)
@@ -29,12 +29,50 @@ lib.md中放置常用框架, lib-alternate 放置备用框架, 用于做对比�
 * [typo.css](https://github.com/sofish/Typo.css)
 reset + 中文排版
 
-## UI
+
+## 弹窗类
+* [iGrowl](https://github.com/catc/iGrowl/) growl-like notifications with an emphasis on icons
+
+* [SweetAlert](https://github.com/t4t5/sweetalert) An awesome replacement for JavaScript's alert.
+
+* [fancyBox](https://github.com/fancyapps/fancyBox)
+Mac风格的弹出窗口, 支持图片, iframe等等
+
+* [Lightbox](https://github.com/lokesh/lightbox2/)
+http://odyniec.net/projects/imgzoom/
+
+* [baguetteBox](https://github.com/feimosi/baguetteBox.js)
+Simple and easy to use lightbox script. no dependencies required, Around 2.3KB gzipped
+
+* [Photopile JS](https://github.com/bigbhowell/Photopile-JS)
+image gallery that simulates a pile of photos scattered about on a surface, Thumbnails are draggable
+
+* [wModal](https://github.com/websanova/wModal)
+
+* [wTooltip](https://github.com/websanova/wTooltip)
+
+* [wHumanMsg](https://github.com/websanova/wHumanMsg)
+
+* [layui 跨设备模块化前端框架](http://www.layui.com/)
+
+* [artDialog](http://aui.github.io/artDialog/)
+
+  经典的网页对话框组件
+  * 普通对话框
+  * 模态对话框
+  * 气泡浮层
+
+* [UI 弹层](https://github.com/bh-lay/UI) 虚拟弹层、弹框、提示信息、确认对话、列表选择等功能
+
+* [motice](https://github.com/mamboer/motice) Simple Notification Component With Magical Css3 Effects
+
+* [mobox](https://github.com/mamboer/mobox) MOBOX = Modern Dialog + Pop Box + Overlay + Extensible CSS3 Effects
+
 * [noty](https://github.com/needim/noty/)
 a jQuery notification plugin that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 
-* [motice](https://github.com/mamboer/motice) Simple Notification Component With Magical Css3 Effects
-* [mobox](https://github.com/mamboer/mobox) MOBOX = Modern Dialog + Pop Box + Overlay + Extensible CSS3 Effects
+## UI
+
 * [rem-html5](https://github.com/mamboer/rem-html5 "A Multiple Devices Adaptive HTML5 Mobile Page Template Leveraging The REM Unit")
 * [forkit.js](https://github.com/hakimel/forkit.js) an animated GitHub ribbon
 * [jquery-fanmenu](https://github.com/mamboer/jquery-fanmenu)
@@ -43,14 +81,6 @@ a jQuery notification plugin that makes it easy to create alert - success - erro
 
 * [kwicks](https://github.com/jmar777/kwicks)
 sliding panels for jQuery
-
-* [artDialog](http://aui.github.io/artDialog/)
-  经典的网页对话框组件
-  * 普通对话框
-  * 模态对话框
-  * 气泡浮层
-
-* [UI 弹层](https://github.com/bh-lay/UI) 虚拟弹层、弹框、提示信息、确认对话、列表选择等功能
 
 * [W2UI](https://github.com/vitmalina/w2ui)
 
