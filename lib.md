@@ -123,7 +123,7 @@ Some HTML + Scoped CSS + JS === Reusable Component
 [colors](http://clrs.cc/) Better colors for the web
 
 ### 工具库
-* [loa]()
+* [lodash](https://github.com/lodash/lodash/) JavaScript utility library
 - 模版引擎
   * [laytpl](https://github.com/sentsin/laytpl)
     1KB 具备转义安全机制
