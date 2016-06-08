@@ -110,6 +110,18 @@ Dashboard & Control Panel Template
 [Ant Design](https://github.com/ant-design/ant-design)
 蚂蚁金服体验技术部出品, 提供了很多炫酷的组件, 值得借鉴, 特别是 QueueAnim 进出场动画
 
+### 基础库
+[RequireJS](http://requirejs.org/)
+
+[jQuery](http://jquery.com) | [Zepto](http://zeptojs.com/) | [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
+
+[Backbone](http://backbonejs.org/) | [Angular](https://angularjs.org/) | [Avalon](https://github.com/RubyLouvre/avalon)
+
+[AlloyTeam/Nuclear](https://github.com/AlloyTeam/Nuclear)
+Some HTML + Scoped CSS + JS === Reusable Component
+
+[colors](http://clrs.cc/) Better colors for the web
+
 
 ## 工具
 [Undercore](http://underscorejs.org/)
@@ -180,18 +192,45 @@ localStorage wrapper for all browsers without using cookies or flash. Uses local
 
 [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) super tiny size multi-touch gestures library for the web
 
-### 基础库
-[RequireJS](http://requirejs.org/)
+### 模版
+* [laytpl](https://github.com/sentsin/laytpl)
+  1KB 具备转义安全机制
 
-[jQuery](http://jquery.com) | [Zepto](http://zeptojs.com/) | [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
+  ```javascript
+  Laytpl Error：TypeError: Cannot read property 'name' of undefined
+  
+      <h3>{{= d.title }}</h3>
+      <p class="intro">{{= d.intro }}</p>
+      <ul>
+      {{# for(var i = 0, len = d.list.length; i < len; i++){ }}
+          <li>
+              <span>{{ d.list[100].name }}</span>
+              <span>所在城市：{{ d.list[i].city }}</span>
+          </li>
+      {{# } }}
+      </ul>
+  ```
 
-[Backbone](http://backbonejs.org/) | [Angular](https://angularjs.org/) | [Avalon](https://github.com/RubyLouvre/avalon)
+* [artTemplate](https://github.com/aui/artTemplate) 5KB 相比 laytpl 拥有更好的调错机制, 支持 include 语句和预编译
 
-[AlloyTeam/Nuclear](https://github.com/AlloyTeam/Nuclear)
-Some HTML + Scoped CSS + JS === Reusable Component
-
-[colors](http://clrs.cc/) Better colors for the web
-
+  ```javascript
+  Template Error
+  
+  <filename>
+  tpl1
+  
+  <name>
+  Render Error
+  
+  <message>
+  Cannot read property 'name' of undefined
+  
+  <line>
+  6
+  
+  <source>
+  <span>{{ value1.name }}</span>
+  ```
 
 
 ### 表单验证
@@ -226,9 +265,6 @@ switch easily from one library to another any time you want.
 * [tween.js](https://github.com/tweenjs/tween.js)
 
 * [Textillate](https://github.com/jschr/textillate) 实现文字动画效果, 例如打字机效果
-
-### 模版
-[Hogan.js](https://github.com/twitter/hogan.js)
 
 
 ## UI
