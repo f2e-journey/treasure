@@ -73,6 +73,15 @@ a jQuery notification plugin that makes it easy to create alert - success - erro
 
 * [jBox](https://github.com/StephanWagner/jBox) popup windows, tooltips, notices
 
+## 表单验证
+[Validator](https://github.com/sofish/validator.js)
+
+[jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine)
+
+[jQuery Validation Plugin](https://github.com/jzaefferer/jquery-validation)
+
+[formvalidation](https://github.com/formvalidation/formvalidation)
+
 ## UI
 
 * [rem-html5](https://github.com/mamboer/rem-html5 "A Multiple Devices Adaptive HTML5 Mobile Page Template Leveraging The REM Unit")
