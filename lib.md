@@ -177,6 +177,8 @@ SuperSlide 致力于解决网站大部分特效展示问题，使网站代码规
 
 * 弹窗 [layer](layer.layui.com) alert, confirm, prompt, msg, load, tips, iframe(window) 还有移动设备版本
 
+* [nice-validator](https://github.com/niceue/nice-validator)
+
 ## 工具
 [moment](http://momentjs.com/)
 
@@ -243,18 +245,6 @@ localStorage wrapper for all browsers without using cookies or flash. Uses local
 
 
 [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) super tiny size multi-touch gestures library for the web
-
-
-### 表单验证
-[Validator](https://github.com/sofish/validator.js)
-
-[jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine)
-
-[jQuery Validation Plugin](https://github.com/jzaefferer/jquery-validation)
-
-[formvalidation](https://github.com/formvalidation/formvalidation)
-
-[nice-validator](https://github.com/niceue/nice-validator)
 
 
 ### 动画
