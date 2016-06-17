@@ -179,6 +179,23 @@ SuperSlide 致力于解决网站大部分特效展示问题，使网站代码规
 
 * [nice-validator](https://github.com/niceue/nice-validator)
 
+* [微信广告通用库](http://ad.weixin.qq.com/learn/2-3-3--%E9%80%9A%E7%94%A8%E5%BA%93)
+
+  > [WxMoment](https://github.com/wxc-team/WxMoment/) 是由微信朋友圈广告团队面向广告详情页开发者提供的一个 JavaScript 库
+  > 通过使用 WxMoment，开发者可以简单的实现详情页中的常见功能，例如：微信分享、横屏提示、网页统计等。
+  > * 横屏提示
+  > * 资源预加载
+  > * [滑屏组件 PagerSlider](https://github.com/weixin/PageSlider)
+  >   - 移动端滑屏组件，支持上下滑动，左右滑动
+  >   - 支持 dom 绑定动画
+  >   - 手势跟随
+  >   - 锁定禁止滑动
+  >   - 记住页面索引
+  >   - 翻页时，页面元素动画只执行一次
+  >   - 内容超出一屏先滚完再翻页
+  >   - 第一次向下/向上滑时不触发翻页，第二次时再翻页
+  > * 腾讯视频
+
 ## 工具
 [moment](http://momentjs.com/)
 
