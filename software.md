@@ -60,13 +60,16 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
   mind map
   > _Cloud\Tencent\QQMail\xmind-portable
-* [Calibre](http://calibre-ebook.com/)
- 
-  管理/转电子书格式, 例如pdf -> mobi
-  > _Cloud\Google\Gmail\Calibre Portable
-* [Kindle Mate](http://kmate.me)
 
-  Kindle 标注笔记及生词本管理器(导入/导出)
+* Kindle
+  * [Calibre](http://calibre-ebook.com/)
+ 
+    管理/转电子书格式, 例如pdf -> mobi
+    > _Cloud\Google\Gmail\Calibre Portable
+  * [Kindle Mate](http://kmate.me)
+
+    Kindle 标注笔记及生词本管理器(导入/导出)
+  * [Kindle Book Maker](https://github.com/barretlee/kindleBookMaker)
 * [nodePPT](https://github.com/ksky521/nodePPT)
 
   用 ```markdown``` 写PPT可以导出 pdf 或者 html(网页上即可查看 PPT)
