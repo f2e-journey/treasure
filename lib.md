@@ -110,6 +110,8 @@ Dashboard & Control Panel Template
 [Ant Design](https://github.com/ant-design/ant-design)
 蚂蚁金服体验技术部出品, 提供了很多炫酷的组件, 值得借鉴, 特别是 QueueAnim 进出场动画
 
+[UXCore](https://github.com/uxcore/uxcore) 为企业级后端应用而生. UXCore is a set of React Components that is designed for enterprise-class pc backend application.
+
 ### 基础库
 [RequireJS](http://requirejs.org/)
 
