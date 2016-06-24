@@ -145,7 +145,7 @@ Some HTML + Scoped CSS + JS === Reusable Component
         </ul>
     ```
   
-  * [artTemplate](https://github.com/aui/artTemplate) 5KB 相比 laytpl 拥有更好的调错机制, 支持 include 语句和预编译
+  * [artTemplate](https://github.com/aui/artTemplate) 5KB 相比 laytpl 拥有更好的调错机制, 支持 include 语句和预编译, 也可以试一试小巧的[Juicer](https://github.com/PaulGuo/Juicer)
   
     ```javascript
     Template Error
