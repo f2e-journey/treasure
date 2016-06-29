@@ -13,7 +13,7 @@ lib.md中放置常用框架, lib-alternate 放置备用框架, 用于做对比�
 * [AmazeUI](http://amazeui.org/)
 * [Pintuer](http://www.pintuer.com/)
 * [Titon Toolkit](https://github.com/titon/toolkit)
-* [mui](https://github.com/muicss/mui)
+* [mui](https://github.com/muicss/mui) Material Design CSS Framework
 * [Agile Lite](https://git.oschina.net/nandy007/agile-lite)
 * [dcloudio/mui](https://github.com/dcloudio/mui)
 * [mint-ui](https://github.com/ElemeFE/mint-ui) Mobile UI elements for vue.js
