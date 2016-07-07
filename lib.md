@@ -575,6 +575,8 @@ multiple effects, animated text
 
 [Glide](https://github.com/jedrzejchalubek/Glide.js)
 
+[Swipe](https://github.com/thebird/Swipe) 简单
+
 ### 表单组件
 [Checkboxradio](https://github.com/filamentgroup/checkboxradio)
 
