@@ -44,6 +44,14 @@ http://www.ucpaas.com/
 * [性能魔法](http://www.mmtrix.com/) 云评测(WEB/APP/网络)/云监测/云加速(图片优化API) 图片优化API很实用
 * [性能极客](https://www.perfgeek.com/) WEB/APP云评测
 
+## 前端性能监控
+
+收集页面性能数据(Navigation Timing API)(一般包含白屏时间, 首屏时间, 网页加载完成时间)，JS错误数据，AJAX性能数据和页面追踪数据(Resource Timing API)
+
+* [OneAPM Browser Insight](http://www.oneapm.com/bi/feature.html)
+* [听云Browser](http://www.tingyun.com/tingyun_browser.html)
+* [网页性能管理](http://www.jiankongbao.com/new_process)
+
 
 ## 云加速
 [百度云加速](http://next.su.baidu.com/)
