@@ -311,10 +311,11 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Wireshark](https://www.wireshark.org/download.html)
 
   > _Cloud\Google\Gmail\WiresharkPortable
-* [UIDesigner](http://uid.cdc.tencent.com/)
 
-  原型设计
-* [Justinmind Prototyper](http://www.justinmind.com/)
+* [Mockplus](http://www.mockplus.cn/)
+
+  更快、更简单的原型设计
+
 * [Mark Man](http://getmarkman.com/)
 
   1.40.7是最后一个免费版本(按住ctrl进行自动测量), 需要先安装[AIR]( https://get.adobe.com/air/)环境. 现在版本收费了, 使用会有一些功能限制
