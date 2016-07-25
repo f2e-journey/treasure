@@ -499,7 +499,7 @@ create beautiful fullscreen scrolling websites
 execute a function whenever you scroll to an element.
 
 [AniJS](https://github.com/anijs/anijs) Raise your Web Design without Coding
-data-anijs="if: click, do: flipInY, to: .container-box"
+data-anijs="if: click, do: flipInY, to: .container-box" 比较适合滚动到页面某个元素时才显示动画
 
 [Headroom.js](https://github.com/WickyNilliams/headroom.js) Hide your header until you need it
 
