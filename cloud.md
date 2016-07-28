@@ -196,7 +196,7 @@ BaaS（后端即服务：Backend as a Service）公司为移动应用开发者�
 ## 表单数据收集
 [麦客](http://www.mikecrm.com/) 可做电商订单
 [金数据](https://jinshuju.net)
-[问卷网](http://www.wenjuan.com/)
+[问卷网](http://www.wenjuan.com/) 填写问卷发红包, 就是填写表单后发红包, 很多用户的场景都是这样的
 [腾讯问卷](http://wj.qq.com)
 [表单大师](http://jsform.com/)
 企业信息化/办公自动化/客户关系/在线订单/订餐点餐/微信运营
