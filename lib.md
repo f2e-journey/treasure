@@ -428,7 +428,8 @@ An automatic web page progress bar.
 [wPaint](https://github.com/websanova/wPaint)
 
 ### 图标
-[Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+* [Load Awesome](https://github.com/danielcardoso/load-awesome "An awesome collection of — Pure CSS — Loaders and Spinners")
 
 
 ### 排版
