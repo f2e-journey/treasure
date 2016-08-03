@@ -322,6 +322,8 @@ Responsive animation framework for creating unique sliders, presentations, banne
 
 [iNotify](https://github.com/jaywcjlove/iNotify) JS achieve the browser title flashing , scrolling, voice prompts , browser notice.
 
+[Bootstrap Notify](https://github.com/mouse0270/bootstrap-notify) turns standard Bootstrap alerts into "Growl-like" notifications.
+
 [tip](https://github.com/qTip2/qTip2)
 
 [opentip](https://github.com/enyo/opentip)
