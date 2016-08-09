@@ -179,6 +179,8 @@ SuperSlide 致力于解决网站大部分特效展示问题，使网站代码规
 
 * 弹窗 [layer](layer.layui.com) alert, confirm, prompt, msg, load, tips, iframe(window) 还有移动设备版本
 
+* [lightgallery](https://github.com/sachinchoolur/lightGallery) lightbox gallery plugin for jQuery
+
 * [nice-validator](https://github.com/niceue/nice-validator)
 
 * [微信广告通用库](http://ad.weixin.qq.com/learn/2-3-3--%E9%80%9A%E7%94%A8%E5%BA%93)
@@ -580,6 +582,8 @@ multiple effects, animated text
 [Glide](https://github.com/jedrzejchalubek/Glide.js)
 
 [Swipe](https://github.com/thebird/Swipe) 简单
+
+[lightslider](https://github.com/sachinchoolur/lightslider/) lightweight responsive Content slider with carousel thumbnails navigation
 
 ### 表单组件
 [Checkboxradio](https://github.com/filamentgroup/checkboxradio)
