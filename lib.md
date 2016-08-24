@@ -674,8 +674,6 @@ unobtrusively upgrade HTML forms to use AJAX
 
 [superplaceholder.js](https://github.com/chinchang/superplaceholder.js)
 
-[H5Fx](https://github.com/ourai/H5Fx) Form validation plugin based on HTML5 Forms
-
 [MuPlayer](https://github.com/Baidu-Music-FE/muplayer)
 
 ### 滚动条
