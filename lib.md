@@ -676,6 +676,9 @@ unobtrusively upgrade HTML forms to use AJAX
 
 [MuPlayer](https://github.com/Baidu-Music-FE/muplayer)
 
+[validform](http://validform.rjboy.cn/)
+[jQuery-Form-Validator](https://github.com/victorjonsson/jQuery-Form-Validator)
+
 ### 滚动条
 [dropload](https://github.com/ximan/dropload) 移动端下拉刷新、上拉加载更多插件
 
@@ -802,8 +805,6 @@ FitText makes font-sizes flexible. Use this plugin on your responsive design for
 [Spritely](https://github.com/artlogicmedia/spritely)
 animating CSS sprites and dynamic scrolling backgrounds
 
-
-[表单验证](http://validform.rjboy.cn/)
 
 ## 正在试用的框架
 [Ionic](http://ionicframework.com/) full-stack hybrid mobile platform, 再也不用管什么cordova什么的了
