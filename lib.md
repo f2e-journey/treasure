@@ -346,7 +346,7 @@ create UIs with panels that open horizontally using jQuery.
 [AppScroll](https://github.com/jakiestfu/AppScroll.js)
 a tiny JS library that fixes the "website dragging" issue caused on iDevices
 
-[数字滚动动画](https://github.com/HubSpot/odometer)
+[数字滚动动画](https://github.com/HubSpot/odometer) [jquery-animateNumber](https://github.com/aishek/jquery-animateNumber)
 
 [sigma.js](https://github.com/jacomyal/sigma.js)
 
