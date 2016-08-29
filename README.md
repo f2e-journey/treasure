@@ -78,7 +78,7 @@
 * [Teahour.fm](http://teahour.fm/)
 * [Web technology for developers | MDN](https://developer.mozilla.org/en-US/docs/Web)
 * [醉前端](http://f2er.club/)
-* [ThoughtWorks中国分享](http://insights.thoughtworkers.org/)
+* [ThoughtWorks中国分享](http://insights.thoughtworkers.org/) | [技术雷达](http://insights.thoughtworkers.org/tech-radar/)
 * [技术流](http://uridb.com/t/frontend)
 
 ### 技术峰会
