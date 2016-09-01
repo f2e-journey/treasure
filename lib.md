@@ -902,6 +902,8 @@ Build cross platform desktop apps with web technologies
 ## 参考
 [前端 TOP 100](https://www.awesomes.cn/rank)
 
+[Web 前端常用框架汇总](https://github.com/iamjoel/front-end-plugins)
+
 [前端开发仓库](http://code.ciaoca.com/)
 
 [Arale](http://aralejs.org/) 一个开放、简单、易用的前端基础类库
