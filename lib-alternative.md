@@ -30,6 +30,7 @@ lib.md中放置常用框架, lib-alternate 放置备用框架, 用于做对比�
 * [typo.css](https://github.com/sofish/Typo.css)
 reset + 中文排版
 
+* [loaders.css](https://github.com/ConnorAtherton/loaders.css)
 
 ## 弹窗类
 * [iGrowl](https://github.com/catc/iGrowl/) growl-like notifications with an emphasis on icons
