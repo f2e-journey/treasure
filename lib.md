@@ -8,7 +8,6 @@ http://www.woothemes.com/flexslider/
 
 https://www.meteor.com/
 
-参考 [Awesomes - 前端资源库](http://www.awesomes.cn/)
 
 
 # 常用lib(TODO 分类整理)
@@ -111,6 +110,9 @@ Dashboard & Control Panel Template
 蚂蚁金服体验技术部出品, 提供了很多炫酷的组件, 值得借鉴, 特别是 QueueAnim 进出场动画
 
 [UXCore](https://github.com/uxcore/uxcore) 为企业级后端应用而生. UXCore is a set of React Components that is designed for enterprise-class pc backend application.
+
+[radon-ui](https://github.com/luojilab/radon-ui "罗辑思维前端团队出品")
+基于 Vue 开发的高质量UI组件
 
 ### 基础库
 [RequireJS](http://requirejs.org/)
@@ -511,6 +513,9 @@ execute a function whenever you scroll to an element.
 [AniJS](https://github.com/anijs/anijs) Raise your Web Design without Coding
 data-anijs="if: click, do: flipInY, to: .container-box" 比较适合滚动到页面某个元素时才显示动画
 
+[Animate](https://github.com/jshjohnson/Animate)
+trigger animations on elements when they are within the viewport
+
 [Headroom.js](https://github.com/WickyNilliams/headroom.js) Hide your header until you need it
 
 [cta.js](https://github.com/chinchang/cta.js) animate any element ("action") onto any other element ("effect") on the page.
@@ -595,6 +600,8 @@ multiple effects, animated text
 [cxCalendar](https://github.com/ciaoca/cxCalendar)
 
 [Pikaday](https://github.com/dbushell/Pikaday) No dependencies Datepicker
+
+[flatpickr](https://github.com/chmln/flatpickr) datetime picker
 
 [pickadate](https://github.com/amsul/pickadate.js/) mobile-friendly, responsive, jQuery date & time input picker
 
@@ -893,6 +900,8 @@ Build cross platform desktop apps with web technologies
 * [heX](https://github.com/netease-youdao/hex)
 
 ## 参考
+[前端 TOP 100](https://www.awesomes.cn/rank)
+
 [前端开发仓库](http://code.ciaoca.com/)
 
 [Arale](http://aralejs.org/) 一个开放、简单、易用的前端基础类库
