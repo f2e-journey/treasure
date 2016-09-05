@@ -90,6 +90,7 @@ Load Balancer  <-->    Sails.js server    <-->
     [Varnish]()
     [varnish-dashboard](https://github.com/brandonwamboldt/varnish-dashboard)
     [HAproxy]()
+    [Camel](https://github.com/leonindy/camel "a soft load balance midware")
 * 缓存
     [Memcache]()
     [Redis]()
@@ -113,6 +114,10 @@ Load Balancer  <-->    Sails.js server    <-->
 * [Oceanus](https://github.com/58code/Oceanus)
 
   > 58同城数据库中间件
+
+* [PhxSQL](https://github.com/tencent-wechat/phxsql)
+
+  > A high availability MySQL cluster that guarantees data consistency between a master and slaves. tencent-wechat
 
 * [disconf](https://github.com/knightliao/disconf/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0Disconf)
 
