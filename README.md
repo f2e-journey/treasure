@@ -67,7 +67,7 @@
 * [A List Apart](http://alistapart.com/) / [Smashing Magazine](http://www.smashingmagazine.com/) / [CSS-Tricks](https://css-tricks.com/) / [Codrops](http://tympanus.net/codrops/) / [AWWWARDS](http://www.awwwards.com/)
 * 首选是行业博客
 * 再是大牛的个人博客/前端著名人物博客
-* [Aaron](http://www.cnblogs.com/aaronjs/) / [叶小钗](http://www.cnblogs.com/yexiaochai/) / [张鑫旭](http://www.zhangxinxu.com) / [民工精髓](https://github.com/xufei/blog/tree/master/posts) / [hax](https://github.com/hax/hax.github.com/issues) / [张云龙](https://github.com/fouber/blog/issues) / [射雕](https://github.com/lifesinger/blog/issues) / [司徒正美](http://www.cnblogs.com/rubylouvre/) / [Philip Walton](http://philipwalton.com/)
+* [Aaron](http://www.cnblogs.com/aaronjs/) / [叶小钗](http://www.cnblogs.com/yexiaochai/) / [张鑫旭](http://www.zhangxinxu.com) / [民工精髓](https://github.com/xufei/blog/tree/master/posts) / [hax](https://github.com/hax/hax.github.com/issues) / [张云龙](https://github.com/fouber/blog/issues) / [射雕](https://github.com/lifesinger/blog/issues) / [司徒正美](http://www.cnblogs.com/rubylouvre/) / [Philip Walton](http://philipwalton.com/) / [NCZOnline](https://www.nczonline.net/ "Nicholas C. Zakas")
 * 以及其他前端社区
 * [码农周刊](http://weekly.manong.io/issues/) / [开发者头条](http://toutiao.io/) / [Web技术日报](http://web.memect.com/) / [W3CPlus周刊](http://www.w3cplus.com/collective) / [前端周刊](http://www.feweekly.com/issues) / [京东凹凸实验室拇指期刊](http://aotu.io/cases/mobi/maga.html) / [Codrops Collective](http://tympanus.net/codrops/collective/)
 * [掘金](http://gold.xitu.io)
