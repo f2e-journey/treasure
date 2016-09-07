@@ -17,7 +17,7 @@
 * [前端常用云服务](https://github.com/f2e-journey/software/blob/master/cloud.md)
 * [常用App](https://github.com/f2e-journey/software/blob/master/app.md)
 * [前端架构beta](https://github.com/f2e-journey/software/blob/master/architecture.md)
-* [前端通用接口规范](https://github.com/f2e-journey/software/blob/master/api.md) | [网站项目目录结构规范](https://github.com/appbone/mobile-spa-boilerplate/blob/master/directory.md)
+* [前后端接口规范](https://github.com/f2e-journey/software/blob/master/api.md) | [网站项目目录结构规范](https://github.com/appbone/mobile-spa-boilerplate/blob/master/directory.md)
 * [前端精选文集](https://github.com/f2e-journey/software/blob/master/article.md)
 * [软件开发团队的人员配置](https://github.com/f2e-journey/software/blob/master/team.md)
 
