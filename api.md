@@ -1,14 +1,58 @@
-# 前端通用接口规范
+# 前后端接口
 
 随着前后端分离越来越普遍, 后端接口规范也就越来越重要了. 一套良好的接口规范可以提升工作效率, 减少沟通障碍.
 
 通常我们都会采用 REST 方式来提供接口, 使用 [JSON](http://json.org) 来传输数据.
 
-## 请求接口
+| 名词        | 含义 |
+|-------------|------|
+| 前端        | Web前端, APP端, 桌面端等一切属于用户界面的这一层 |
+| 后端        | 即服务器端, 指一切属于用户界面之下的这一层 |
+| 前后端接口  | 前端与后端进行数据交互的统称, 也叫做数据接口, 属于一种远程调用, 一般指前端通过HTTP(ajax)请求获取到的数据或者执行的某项操作. 为确保前后端(工程师)的协作沟通, 一般由前端和后端一起来定义接口的规范, 规范的内容一般包含接口的地址, 接口的输入参数和输出的数据格式(结构), 最终由后端来实现这些规范, 为前端提供符合规范的接口 |
+
+```
+ [前端] 
+--------
+   ^
+   |
+   |
+前后端接口
+   |
+   |
+--------
+ [后端]
+```
+
+## 前后端接口协作流程
+
+### 准备环境
+
+* 安装 [Node.js](https://nodejs.org/)
+* 安装 [puer-mock](https://github.com/ufologist/puer-mock)
+
+### 接口规范
+
+由前端(APP端)和后端一起协定接口规范的内容, 确定每一个接口的地址(URL), 输入(request)和输出(response), 必要的时候详细注释每一个字段的含义和数据类型.
+
+### 接口定义
+
+所有的接口定义在项目前端静态文件目录的 `_mockserver.json` 文件中, 启动 `puer-mock` 服务, 即可使用这些接口获得符合规范的假数据, 也可以查看接口文档.
+
+具体 `puer-mock` 的详细使用手册和 `_mockserver.json` 如何配置接口请参考 [puer-mock 项目](https://github.com/ufologist/puer-mock), 或者参考项目中已经配置好的其他接口.
+
+### 接口协作
+
+由于接口规范的定义和接口的实际实现是分开的两个部分, 而且涉及到多人协作, 因此在开发过程中可能出现接口规范与实现不同步, 最终造成实际的接口不符合规范的定义, 接口规范就会慢慢失去存在的意义.
+
+为了尽量避免这种问题, 后端在实现接口的过程中应该确保与接口规范保持一致, 一旦出现分歧, 必须同步修改接口规范, 尽可能保持沟通.
+
+## 后端接口通用规范
+
+### 请求接口
 
 接口 [Root Endpoint](https://developer.github.com/v3/#root-endpoint) 推荐为: `http://api.yourdomain.com`.
 
-[向接口传递参数时](https://developer.github.com/v3/#parameters), 推荐在 HTTP 请求体中包含一个 JSON Object 作为接口的参数, 并设置 `Content-Type: application/json; charset=utf-8`. 如有少量参数可以补充到 URL query string.
+[向接口传递参数时](https://developer.github.com/v3/#parameters), 推荐在 HTTP 请求体(`body`)中包含一个 JSON Object 作为接口的参数, 并设置 `Content-Type: application/json; charset=utf-8`. 如有少量参数可以补充到 URL query string 或者作为 `Content-Type: application/x-www-form-urlencoded` 放在请求体(`body`)中
 
 例如
 
@@ -24,7 +68,7 @@ Content-Type: application/json; charset=utf-8
 }
 ```
 
-## 接口返回
+### 接口返回
 
 返回的响应体类型推荐为 `Content-Type: application/json; charset=utf-8`, 返回的数据包含在 HTTP 响应体中, 是一个 JSON Object. 该 Object 可能包含 3 个字段 `data`, `status`, `statusInfo`
 
@@ -76,7 +120,7 @@ if (!response.status) {
 }
 ```
 
-## 注意
+### 注意
 * [Version](https://developer.github.com/v3/media/#request-specific-version "Accept: application/vnd.github.v3+json")
 * 跨域
   - [CORS](https://developer.github.com/v3/#cross-origin-resource-sharing "Cross Origin Resource Sharing")
