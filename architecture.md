@@ -184,6 +184,23 @@ Load Balancer  <-->    Sails.js server    <-->
     
     for千亿数据即席分析
 
+* [阿里云OSS内网免费流量外网用，搭配CDN镜像，网站架构省钱提速的黑技能](http://www.tangshuang.net/2111.html)
+
+  > 在OSS的收费策略中注明了：内网访问免费。也就是说，如果我们的使用阿里云的ECS通过内网去请求OSS中的资源，是不收费的。所以，我们现在要解决的问题就是，通过内网去请求的资源，怎么在外网中返回给访客呢？
+  >
+  > * 服务器和OSS Bucket必须在同一区域, 这是一个前提条件，也就是要构建“内网”这个组合
+  > * nginx 做反向代理来访问 OSS
+  >   
+  >   ```
+  >   http {
+  >       server {
+  >           location ~ .*\.(html|css|js|png|jpg|mp3|mp4|ovg)$ {
+  >               proxy_pass  http://你的OSS地址.oss-cn-beijing-internal.aliyuncs.com;
+  >           }
+  >       }
+  >   }
+  >  ```
+
 * [老庙黄金2016春晚抢红包活动技术架构详解](https://yq.aliyun.com/articles/7420 "基于阿里云的技术架构")
   
     > ![老庙黄金2016春晚抢红包活动技术架构](http://imgchr.com/images/2c550956ecc11f1a0b3788337191e28efb2b3743.png)
