@@ -46,6 +46,10 @@
 
 为了尽量避免这种问题, 后端在实现接口的过程中应该确保与接口规范保持一致, 一旦出现分歧, 必须同步修改接口规范, 尽可能保持沟通.
 
+### 接口文档(示例)
+
+![puer-mock-api-doc-html](https://ufologist.github.io/puer-mock/puer-mock-api-doc-html.png)
+
 ## 后端接口通用规范
 
 ### 请求接口
