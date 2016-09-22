@@ -37,6 +37,7 @@
 ### 接口协商要点
 * 接口必须返回统一的数据结构, 参考[后端接口通用规范中接口返回的数据结构](https://github.com/f2e-journey/treasure/blob/master/api.md#接口返回)
 * 调用接口业务失败的常用错误码, 例如未授权时调用需要授权的接口返回 `"status": 1`
+* 登录接口如何处理, 特别是同时涉及到 Web 端/微信端/App 端
 * 返回数据中图片 URL 是完整的还是部分的
   * `http://a.res.com/path/to/img.png` 这就是完整的, 前端直接使用这个 URL
   * `/path/to/img.png` 这就是部分的, 一般省略域名部分, 前端需要自己拼接后才能使用 `'http://a.res.com' + '/path/to/img.png'`
