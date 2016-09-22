@@ -77,7 +77,7 @@ Mobile HTML framework to develop web apps with iOS & Android native look and fee
 对 Android 兼容性不是很好, 可以选择试一试[Framework7-Plus](https://github.com/sdc-fe/Framework7-Plus)
 其他可选[Light7](http://light7.org/) 兼容性和 SUI Mobile 一样
 
-[WeUI](https://github.com/weui/weui) | [weui.js](https://github.com/progrape/weui.js) | [vux](https://github.com/airyland/vux)
+[WeUI](https://github.com/weui/weui) | [weui.js](https://github.com/progrape/weui.js) | [vux](https://github.com/airyland/vux) | [jquery-weui](https://github.com/lihongxun945/jquery-weui/ "jQuery WeUI = WeUI + jQuery + 大量拓展组件(参考 SUI Mobile 和 Framework7)")
 WeUI是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信 Web 开发量身设计，可以令用户的使用感知更加统一
 
 [SUI Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
