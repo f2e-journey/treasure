@@ -128,6 +128,8 @@ Some HTML + Scoped CSS + JS === Reusable Component
 
 [Buttons](https://github.com/alexwolfe/Buttons/)
 
+[HaloJS](https://github.com/o2team/halojs) 基于 Zepto 并采用 CMD 规范面向移动端提供各种实用工具的组件库
+
 ### 工具库
 - [lodash](https://github.com/lodash/lodash/) JavaScript utility library
 - 模版引擎
