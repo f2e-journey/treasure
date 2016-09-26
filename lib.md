@@ -474,6 +474,12 @@ animate based on scroll position
 [WOW.js](https://github.com/matthieua/WOW)
 Reveal CSS animation as you scroll down a page
 
+[jquery-smoove](https://github.com/abeMedia/jquery-smoove)
+scrolling effects using CSS3
+
+[ScrollWatch](https://github.com/edull24/ScrollWatch/)
+Easily add lazy loading, infinite scrolling, or any other dynamic interaction based on scroll position (with no dependencies).
+
 [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
 
 [zepto.fullpage](https://github.com/yanhaijing/zepto.fullpage)
