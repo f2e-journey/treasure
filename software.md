@@ -101,43 +101,43 @@ v0.0.1 2015-5-5(还未正式发布版本)
   > _Cloud\Tencent\QQMail\GoogleChromePortable
   
 
-  * **前端便捷工具**
-  * *WEB前端助手(FeHelper)*
-  * *css auto reload(当页面中的 CSS 修改后, 仅刷新 CSS 而不刷新页面)*
-  * Web Developer
-  * Web Developer Checklist(Analyses any web page for violations of best practices)
-  * PrettyPrint(JavaScript and CSS formatter/syntax highlighter)
-  * **框架调试工具**
-  * *jQuery Audit*
-  * AngularJS Batarang
-  * React Developer Tools
-  * Vue.js devtools
-  * 微信调试工具
-  * Ripple Emulator(A browser based html5 mobile application development and testing tool)
-  * **适配调试工具**
-  * *Emmet Re:view(Fast and easy way to test your responsive design in multiple viewports)*
-  * Responsive Inspector Reloaded(inspecting page media queries)
-  * Responsive Web Design Tester
-  * **性能信息**
-  * *Chrome Sniffer Plus(探测当前网页正在使用的开源软件或者js类库)*
-  * JavaScript Errors Notifier(Notifies JavaScript errors by icon in toolbar bar or notification popup)
-  * Page load time(Displays page load time in the toolbar)
-  * YSlow
-  * SimilarWeb(查看真实的深入网站参与、流量来源和网站排名信息)
-  * **辅助工具**
-  * Postman(Build, test, and document your APIs faster)
-  * Postman Interceptor(Sends requests fired through the Postman chrome app)
-  * Grid System
-  * AlloyDesigner(A web front-end development tool,前端重构开发辅助工具)
-  * **日常工具**
-  * *OneTab*
-  * Vimium(provides keyboard shortcuts for navigation and control in the spirit of Vim)
-  * 印象笔记·悦读(使博文、文章和网页变得简明而又易于阅读)
-  * Image Properties Context Menu(show the properties of an image)
-  * Light Markdown Editor
-  * Send to Kindle for Google Chrome
-  * Adblock Plus
-  * 购物比价助手
+  * 前端便捷工具
+    * **WEB前端助手(FeHelper)**
+    * **css auto reload(当页面中的 CSS 修改后, 仅刷新 CSS 而不刷新页面)**
+    * Web Developer
+    * Web Developer Checklist(Analyses any web page for violations of best practices)
+    * PrettyPrint(JavaScript and CSS formatter/syntax highlighter)
+  * 框架调试工具
+    * **jQuery Audit**
+    * AngularJS Batarang
+    * React Developer Tools
+    * Vue.js devtools
+    * 微信调试工具
+    * Ripple Emulator(A browser based html5 mobile application development and testing tool)
+  * 适配调试工具
+    * **Emmet Re:view(Fast and easy way to test your responsive design in multiple viewports)**
+    * Responsive Inspector Reloaded(inspecting page media queries)
+    * Responsive Web Design Tester
+  * 性能分析
+    * **Chrome Sniffer Plus(探测当前网页正在使用的开源软件或者js类库)**
+    * JavaScript Errors Notifier(Notifies JavaScript errors by icon in toolbar bar or notification popup)
+    * Page load time(Displays page load time in the toolbar)
+    * YSlow
+    * SimilarWeb(查看真实的深入网站参与、流量来源和网站排名信息)
+  * 辅助工具
+    * **Postman(Build, test, and document your APIs faster)**
+    * Postman Interceptor(Sends requests fired through the Postman chrome app)
+    * Grid System
+    * AlloyDesigner(A web front-end development tool,前端重构开发辅助工具)
+  * 日常工具
+    * **OneTab**
+    * Vimium(provides keyboard shortcuts for navigation and control in the spirit of Vim)
+    * 印象笔记·悦读(使博文、文章和网页变得简明而又易于阅读)
+    * Image Properties Context Menu(show the properties of an image)
+    * Light Markdown Editor
+    * Send to Kindle for Google Chrome
+    * Adblock Plus
+    * 购物比价助手
 
 * [Node.js](http://nodejs.org/)
     
