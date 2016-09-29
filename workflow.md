@@ -88,10 +88,10 @@
       【浏览器】                            【ServerA】
      ┏━━━━━━━━━━━━━━━━┓   ┏━━━━━━━━━━━━━━┓
      ┃                             ┃   ┃                          ┃
-     ┃                             ┃   ┃ 前端(HTML/CSS/JS/图片...) ┃
-     ┃ http://server-a.com/a.html  ┃ → ┃ 后端(Java/.NET/PHP)      ┃
-     ┃ http://server-a.com/a.css   ┃   ┃                          ┃
-     ┃ http://server-a.com/rest/a  ┃   ┃    【Tomcat/IIS/Apache】 ┃
+     ┃ http://server-a.com/a.html  ┃   ┃ 前端(HTML/CSS/JS/图片...) ┃
+     ┃ http://server-a.com/a.css   ┃ → ┃ 后端(Java/.NET/PHP)      ┃
+     ┃ http://server-a.com/rest/a  ┃   ┃                          ┃
+     ┃                             ┃   ┃    【Tomcat/IIS/Apache】 ┃
      ┗━━━━━━━━━━━━━━━━┛   ┗━━━━━━━━━━━━━━┛
      ```
 
@@ -124,10 +124,10 @@
       【浏览器】   
      ┏━━━━━━━━━━━━━━━━┓ 
      ┃                             ┃   
+     ┃ http://server-a.com/a.html  ┃    
+     ┃ http://cdn.com/a.css        ┃ ↗ 
+     ┃ http://server-a.com/rest/a  ┃ ↘ 
      ┃                             ┃    
-     ┃ http://server-a.com/a.html  ┃ ↗ 
-     ┃ http://cdn.com/a.css        ┃ ↘ 
-     ┃ http://server-a.com/rest/a  ┃    
      ┗━━━━━━━━━━━━━━━━┛ 
  
                                          【CDN】
@@ -160,10 +160,10 @@
       【浏览器】   
      ┏━━━━━━━━━━━━━━━━┓ 
      ┃                             ┃   
+     ┃ http://server-a.com/a.html  ┃    
+     ┃ http://cdn.com/a.css        ┃ ↗ 
+     ┃ http://server-a.com/rest/a  ┃ ↘ 
      ┃                             ┃    
-     ┃ http://server-a.com/a.html  ┃ ↗ 
-     ┃ http://cdn.com/a.css        ┃ ↘ 
-     ┃ http://server-a.com/rest/a  ┃    
      ┗━━━━━━━━━━━━━━━━┛ 
  
                                          【CDN】
