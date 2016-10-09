@@ -115,9 +115,13 @@ Load Balancer  <-->    Sails.js server    <-->
 
   > 58同城数据库中间件
 
+* [Ctrip DAL](https://github.com/ctripcorp/dal "Ctrip Database Access Layer")
+
+  > Ctrip DAL支持流行的分库分表操作，支持Java和C#，支持Mysql和MS SqlServer
+
 * [PhxSQL](https://github.com/tencent-wechat/phxsql)
 
-  > A high availability MySQL cluster that guarantees data consistency between a master and slaves. tencent-wechat
+  > 由微信后台团队自主研发的一款数据强一致、服务高可用的分布式数据库服务。PhxSQL提供Zookeeper级别的强一致和高可用，完全兼容MySQL。
 
 * [disconf](https://github.com/knightliao/disconf/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86%E5%B9%B3%E5%8F%B0Disconf)
 
