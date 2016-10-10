@@ -454,6 +454,7 @@ a typography stylesheet for readable content
 
 * [i18next](http://i18next.com/) internationalization library for browser or any other javascript environment (eg. node.js).
 * [translater.js](https://github.com/jaywcjlove/translater.js) 利用HTML注释来翻译页面的解决方案
+* [Globalize](https://github.com/jquery/globalize) internationalization and localization that leverages the official Unicode CLDR JSON data
 
 ### 单页(活动页)常用
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
