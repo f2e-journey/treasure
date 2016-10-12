@@ -295,6 +295,8 @@ switch easily from one library to another any time you want.
 
 * [Textillate](https://github.com/jschr/textillate) 实现文字动画效果, 例如打字机效果
 
+* [anime.js](https://github.com/juliangarnier/anime) works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
+
 
 ## UI
 这里的还未整理分类
