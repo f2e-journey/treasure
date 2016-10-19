@@ -893,6 +893,7 @@ QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件,
 * [Flash2x](http://www.flash2x.org/) 支持Flash项目到HTML5项目或App的跨平台高效转换工具
 * [Proton](https://github.com/a-jie/Proton) 粒子效果
 * [青瓷引擎QICI游戏引擎](https://github.com/qiciengine/qiciengine)
+* [Layabox HTML5游戏引擎](http://www.layabox.com/)
 
 ## boilerplate
 [html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
