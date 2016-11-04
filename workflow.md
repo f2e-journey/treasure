@@ -77,7 +77,7 @@
 
 8. 发布上线
 
-   根据项目部署的方式, 可能涉及到前端发布和后端发布这两个过程.
+   根据项目部署的方式, 可能涉及到前端发布和后端发布这两个过程. 前端资源的发布可以参考[静态资源自动化发布方案](https://github.com/ufologist/gulp-oss-upload/blob/master/static-file-auto-deploy.md).
    
    * 简单点的只会涉及到后端项目的发布
    
