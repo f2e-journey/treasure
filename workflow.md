@@ -88,11 +88,11 @@
      
       【浏览器】                            【ServerA】
      ┏━━━━━━━━━━━━━━━━━━┓   ┏━━━━━━━━━━━━━━━┓
-     ┃                               ┃   ┃                          ┃
-     ┃ http://server-a.com/a.html    ┃   ┃ 前端(HTML/CSS/JS/图片...) ┃
-     ┃ http://server-a.com/a.css     ┃ → ┃ 后端(Java/.NET/PHP)      ┃
-     ┃ http://server-a.com/rest/api  ┃   ┃                          ┃
-     ┃                               ┃   ┃    【Tomcat/IIS/Apache】 ┃
+     ┃                                 ┃   ┃                          ┃
+     ┃ http://server-a.com/a.html      ┃   ┃ 前端(HTML/CSS/JS/图片...) ┃
+     ┃ http://server-a.com/a.css       ┃ → ┃ 后端(Java/.NET/PHP)      ┃
+     ┃ http://server-a.com/rest/api    ┃   ┃                          ┃
+     ┃                                 ┃   ┃    【Tomcat/IIS/Apache】 ┃
      ┗━━━━━━━━━━━━━━━━━━┛   ┗━━━━━━━━━━━━━━━┛
      ```
 
@@ -116,26 +116,26 @@
 
                                           【ServerA】
                                           ┏━━━━━━━━━━━━━━━┓
-                                          ┃                         ┃
-                                          ┃ 前端(HTML)               ┃
-                                          ┃ 后端(Java/.NET/PHP)      ┃
-                                          ┃                         ┃
-                                          ┃     【Tomcat/IIS/Apache】┃
+                                          ┃                           ┃
+                                          ┃ 前端(HTML)                 ┃
+                                          ┃ 后端(Java/.NET/PHP)        ┃
+                                          ┃                            ┃
+                                          ┃     【Tomcat/IIS/Apache】  ┃
                                           ┗━━━━━━━━━━━━━━━┛
       【浏览器】   
      ┏━━━━━━━━━━━━━━━━━━┓ 
-     ┃                               ┃   
-     ┃ http://server-a.com/a.html    ┃    
-     ┃ http://cdn.com/a.css          ┃ ↗ 
-     ┃ http://server-a.com/rest/api  ┃ ↘ 
-     ┃                               ┃    
+     ┃                                 ┃   
+     ┃ http://server-a.com/a.html      ┃    
+     ┃ http://cdn.com/a.css            ┃ ↗ 
+     ┃ http://server-a.com/rest/api    ┃ ↘ 
+     ┃                                 ┃    
      ┗━━━━━━━━━━━━━━━━━━┛ 
  
                                           【CDN】
                                           ┏━━━━━━━━━━━━━━┓
-                                          ┃                        ┃
-                                          ┃ 前端(CSS/JS/图片...)    ┃
-                                          ┃                        ┃
+                                          ┃                          ┃
+                                          ┃ 前端(CSS/JS/图片...)      ┃
+                                          ┃                          ┃
                                           ┗━━━━━━━━━━━━━━┛
      ```
 
@@ -152,25 +152,25 @@
 
                                           【ServerA】                        【ServerB】
                                           ┏━━━━━━━━━┓              ┏━━━━━━━━━━━━━━━┓
-                                          ┃               ┃              ┃                          ┃
-                                          ┃ 前端(HTML)     ┃              ┃ 后端(Java/.NET/PHP)      ┃
-                                          ┃               ┃ --反向代理--→ ┃                          ┃
-                                          ┃               ┃              ┃                          ┃
-                                          ┃      【Nginx】 ┃              ┃    【Tomcat/IIS/Apache】 ┃
+                                          ┃                 ┃             ┃                            ┃
+                                          ┃ 前端(HTML)      ┃             ┃ 后端(Java/.NET/PHP)         ┃
+                                          ┃                 ┃ --反向代理--→┃                            ┃
+                                          ┃                 ┃             ┃                            ┃
+                                          ┃      【Nginx】  ┃              ┃    【Tomcat/IIS/Apache】   ┃
                                           ┗━━━━━━━━━┛              ┗━━━━━━━━━━━━━━━┛
       【浏览器】   
      ┏━━━━━━━━━━━━━━━━━━┓ 
-     ┃                               ┃   
-     ┃ http://server-a.com/a.html    ┃    
-     ┃ http://cdn.com/a.css          ┃ ↗ 
-     ┃ http://server-a.com/rest/api  ┃ ↘ 
-     ┃                               ┃    
+     ┃                                 ┃   
+     ┃ http://server-a.com/a.html      ┃    
+     ┃ http://cdn.com/a.css            ┃ ↗ 
+     ┃ http://server-a.com/rest/api    ┃ ↘ 
+     ┃                                 ┃    
      ┗━━━━━━━━━━━━━━━━━━┛ 
  
                                           【CDN】
                                           ┏━━━━━━━━━━━━━━┓
-                                          ┃                        ┃
-                                          ┃ 前端(CSS/JS/图片...)    ┃
-                                          ┃                        ┃
+                                          ┃                          ┃
+                                          ┃ 前端(CSS/JS/图片...)      ┃
+                                          ┃                          ┃
                                           ┗━━━━━━━━━━━━━━┛
      ```
