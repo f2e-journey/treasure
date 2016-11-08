@@ -88,11 +88,11 @@
      
       【浏览器】                            【ServerA】
      ┏━━━━━━━━━━━━━━━━━━┓   ┏━━━━━━━━━━━━━━━┓
-     ┃                                 ┃   ┃                          ┃
-     ┃ http://server-a.com/a.html      ┃   ┃ 前端(HTML/CSS/JS/图片...) ┃
-     ┃ http://server-a.com/a.css       ┃ → ┃ 后端(Java/.NET/PHP)      ┃
-     ┃ http://server-a.com/rest/api    ┃   ┃                          ┃
-     ┃                                 ┃   ┃    【Tomcat/IIS/Apache】 ┃
+     ┃                                 ┃   ┃                           ┃
+     ┃ http://server-a.com/a.html      ┃   ┃ 前端(HTML/CSS/JS/图片...)  ┃
+     ┃ http://server-a.com/a.css       ┃ → ┃ 后端(Java/.NET/PHP)        ┃
+     ┃ http://server-a.com/rest/api    ┃   ┃                           ┃
+     ┃                                 ┃   ┃    【Tomcat/IIS/Apache】  ┃
      ┗━━━━━━━━━━━━━━━━━━┛   ┗━━━━━━━━━━━━━━━┛
      ```
 
