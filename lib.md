@@ -297,6 +297,7 @@ switch easily from one library to another any time you want.
 
 * [anime.js](https://github.com/juliangarnier/anime) works with CSS, Individual Transforms, SVG, DOM attributes and JS Objects.
 
+* [lining.js](https://github.com/zmmbreeze/lining.js) 可以控制每一行文字的样式, 并可以使用动画, 让文字一行行显示出来
 
 ## UI
 这里的还未整理分类
