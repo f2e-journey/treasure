@@ -386,7 +386,20 @@ http://paperjs.org
 
 [引导](https://github.com/usablica/intro.js)
 
-[drag and drop, resizing](https://github.com/taye/interact.js)
+[interact.js](https://github.com/taye/interact.js)
+drag and drop, resizing and multi-touch gestures
+* Dragging
+* Drag and drop
+* Snapping
+* Resizing
+* Multi-touch Rotation
+* Pinch-to-zoom
+* Use in SVG files
+* Tap, doubletap and hold
+
+[fabric.js](https://github.com/kangax/fabric.js/) 比较适合 PC 端, 功能强大
+a powerful and simple Javascript HTML5 canvas library.
+You can then scale, move, and rotate these objects with the mouse
 
 [剪切板](https://github.com/zeroclipboard/ZeroClipboard/)
 
