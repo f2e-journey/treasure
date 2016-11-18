@@ -843,38 +843,6 @@ animating CSS sprites and dynamic scrolling backgrounds
 
 
 ## 正在试用的框架
-[Ionic](http://ionicframework.com/) full-stack hybrid mobile platform, 再也不用管什么cordova什么的了
-
-The world's first full-stack hybrid mobile platform.
-
-Build amazing apps on any platform with one single code base on top of the powerful Ionic SDK.
-
-From the UI, to design tools and backend services like analytics and push notifications. Ionic has it all.
-
-> $ npm install -g cordova ionic
-
-> 3个项目模板
-
-> $ ionic start myApp blank
-
-> $ ionic start myApp tabs
- 
-> $ ionic start myApp sidemenu
-
-> $ cd myApp
-
-> $ ionic platform add android
-
-> 直接run
-
-> $ ionic run android
-
-> 编译, 在模拟器上运行
-
-> $ ionic build android
-
-> $ ionic emulate android
-
 [qslider](http://ued.qunar.com/mobile/qslider) http://ued.qunar.com/
 QSlider是轻量级, 无任何插件依赖的手机平台javascript滑动组件, 专门为Touch端宣传类专题所开发的解决方案 
 支持循环效果, 水平/垂直滑动
