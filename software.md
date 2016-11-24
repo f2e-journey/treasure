@@ -24,7 +24,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
   * [驱动精灵](http://www.drivergenius.com/)
   * [QQ](http://im.qq.com/download/) | [轻聊版](http://im.qq.com/lightqq/) | [国际版](http://www.imqq.com/)
   * [QQ输入法](http://qq.pinyin.cn/)
-  * [QQ影音](http://player.qq.com/ "曾经用的暴风影音")
+  * [QQ影音](http://player.qq.com/)
   * [QQ旋风](http://xf.qq.com/)
   
     以前都是用的迅雷精简版很老的版本了(迅雷6), 然后用过QQ旋风后那个清爽, 没有广告终于可以专注于下载了. 如果还是想使用迅雷, 推荐使用[迅雷极速版](http://vip.xunlei.com/fast_xl/)或者[迅雷精简版](http://mini.xunlei.com/)
