@@ -9,10 +9,6 @@
 [Don’t Use Sails (or Waterline)](https://kev.inburke.com/kevin/dont-use-sails-or-waterline/)
 
 
-[MEAN](http://mean.io/)
-The Friendly & Fun Javascript Fullstack for your next web application
-
-
 # 前端工程师常用软件(Windows7 x64)
 从2010年5月13号开始构思出一套属于自己的"云端"工作空间, 主要是想整理出自己最常用的绿色软件和习惯配置, 期间不断优化调整完善使用至今, 事实证明这套"云端"工作空间是高效且值得信赖的, 可以以最快的速度在一台新电脑上搭建出自己熟悉的工作环境, 也算是自己多年来对各种软件的总结.
 
@@ -28,7 +24,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
   * [驱动精灵](http://www.drivergenius.com/)
   * [QQ](http://im.qq.com/download/) | [轻聊版](http://im.qq.com/lightqq/) | [国际版](http://www.imqq.com/)
   * [QQ输入法](http://qq.pinyin.cn/)
-  * [QQ影音](http://player.qq.com/)
+  * [QQ影音](http://player.qq.com/ "曾经用的暴风影音")
   * [QQ旋风](http://xf.qq.com/)
   
     以前都是用的迅雷精简版很老的版本了(迅雷6), 然后用过QQ旋风后那个清爽, 没有广告终于可以专注于下载了. 如果还是想使用迅雷, 推荐使用[迅雷极速版](http://vip.xunlei.com/fast_xl/)或者[迅雷精简版](http://mini.xunlei.com/)
