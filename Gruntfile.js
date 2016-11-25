@@ -73,6 +73,8 @@ module.exports = function(grunt) {
             options: {
                 banner: '<%=banner%>',
                 // beautify: true, // 用于调试
+                // mangle: false,
+                // compress: false,
                 compress: {
                     'drop_console': true
                 }
