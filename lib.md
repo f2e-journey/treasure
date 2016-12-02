@@ -87,7 +87,7 @@ WeUI是一套同微信原生视觉体验一致的基础样式库，由微信官�
   * [blur-admin](https://github.com/akveo/blur-admin "Angular Bootstrap Admin Panel Framework") PC 端后台系统
   * [Material design for Angular](https://github.com/angular/material) | [Material design for Vue.js](https://github.com/marcosmoura/vue-material)
   * [Element](http://element.eleme.io/#/zh-CN/component/progress "Element A Desktop UI Library")
-  * [jQuery EasyUI](http://www.jeasyui.com)
+  * [jQuery EasyUI](http://www.jeasyui.com)
 * 移动端
   * [SUI Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
 
