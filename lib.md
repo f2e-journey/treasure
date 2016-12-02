@@ -306,6 +306,8 @@ switch easily from one library to another any time you want.
 
 * [lining.js](https://github.com/zmmbreeze/lining.js) 可以控制每一行文字的样式, 并可以使用动画, 让文字一行行显示出来
 
+* [kute.js](https://github.com/thednp/kute.js)
+
 ## UI
 这里的还未整理分类
 
@@ -719,6 +721,8 @@ unobtrusively upgrade HTML forms to use AJAX
 
 [validform](http://validform.rjboy.cn/)
 [jQuery-Form-Validator](https://github.com/victorjonsson/jQuery-Form-Validator)
+
+[cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing
 
 ### 滚动条
 [dropload](https://github.com/ximan/dropload) 移动端下拉刷新、上拉加载更多插件
