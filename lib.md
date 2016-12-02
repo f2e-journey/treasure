@@ -80,15 +80,26 @@ Mobile HTML framework to develop web apps with iOS & Android native look and fee
 [WeUI](https://github.com/weui/weui) | [weui.js](https://github.com/progrape/weui.js) | [vux](https://github.com/airyland/vux) | [jquery-weui](https://github.com/lihongxun945/jquery-weui/ "jQuery WeUI = WeUI + jQuery + 大量拓展组件(参考 SUI Mobile 和 Framework7)")
 WeUI是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信 Web 开发量身设计，可以令用户的使用感知更加统一
 
+
+## 技术选型
+* PC 端
+  * [Bootstrap](http://getbootstrap.com/) 官网...
+  * [blur-admin](https://github.com/akveo/blur-admin "Angular Bootstrap Admin Panel Framework") PC 端后台系统
+  * [Material design for Angular](https://github.com/angular/material) | [Material design for Vue.js](https://github.com/marcosmoura/vue-material)
+  * [Element](http://element.eleme.io/#/zh-CN/component/progress "Element A Desktop UI Library")
+  * [jQuery EasyUI](http://www.jeasyui.com)
 * 移动端
   * [SUI Mobile](https://github.com/sdc-alibaba/SUI-Mobile)
-  
+
     阿里巴巴国际UED团队基于 Framework7 开发的手机H5 UI库。它的特点是非常轻量，并且能很好兼容 iOS 6.0+ 和 Android 4.0+ 的设备。兼容性 iOS 6+ 以及 Android 4.0+
   * [Mint UI](http://mint-ui.github.io/#!/zh-cn)
-  
+
     Mint UI 基于 Vue.js 的移动端组件库
     https://zhuanlan.zhihu.com/p/21802181
-    
+* App 端
+  * [Ionic](http://ionicframework.com/)
+  * [React Native](http://facebook.github.io/react-native/)
+
 
 
 [Yo@Qunar](https://github.com/doyoe/Yo) 一款基于 Mobile First 理念而设计的 CSS Framework
