@@ -311,7 +311,42 @@ write animations easily, thanks to its versatile interface that adapts itself to
 gain extra features (play, pause, reverse, resume, restart and speed control, Timelines)
 switch easily from one library to another any time you want.
 
-* [tween.js](https://github.com/tweenjs/tween.js)
+* [Shifty](https://github.com/jeremyckahn/shifty) A teeny tiny tweening engine
+
+```javascript
+var tweenable = new Tweenable();
+var pre = document.querySelector('pre');
+
+tweenable.tween({
+  from:     { 'x': 0  },
+  to:       { 'x': 10 },
+  duration: 1000,
+  step: function (state) {
+    pre.innerHTML += state.x + '\n';
+  },
+  finish: function (state) {
+    pre.innerHTML += 'Hooray, all done!  Final value: ' + state.x;
+  }
+});
+```
+
+* [tween.js](https://github.com/tweenjs/tween.js) Javascript tweening engine
+
+```javascript
+var coords = { x: 0, y: 0 };
+var tween = new TWEEN.Tween(coords)
+    .to({ x: 100, y: 100 }, 1000)
+    .onUpdate(function() {
+        console.log(this.x, this.y);
+    })
+    .start();
+
+requestAnimationFrame(animate);
+function animate(time) {
+    requestAnimationFrame(animate);
+    TWEEN.update(time);
+}
+```
 
 * [Textillate](https://github.com/jschr/textillate) 实现文字动画效果, 例如打字机效果
 
