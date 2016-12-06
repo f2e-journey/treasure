@@ -529,6 +529,11 @@ a typography stylesheet for readable content
 * [translater.js](https://github.com/jaywcjlove/translater.js) 利用HTML注释来翻译页面的解决方案
 * [Globalize](https://github.com/jquery/globalize) internationalization and localization that leverages the official Unicode CLDR JSON data
 
+* [Open color](https://github.com/yeun/open-color) Color scheme for UI design
+
+* [ProgressBar.js](https://github.com/kimmobrunfeldt/progressbar.js) Responsive and slick progress bars with animated SVG paths.
+
+
 ### 单页(活动页)常用
 [one-page-nav](https://github.com/davist11/jQuery-One-Page-Nav)
 Smooth scrolling and smart navigation when user scrolls on one-page sites.
@@ -771,6 +776,18 @@ unobtrusively upgrade HTML forms to use AJAX
 [jQuery-Form-Validator](https://github.com/victorjonsson/jQuery-Form-Validator)
 
 [cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing
+
+[Fuse](https://github.com/krisk/fuse) Lightweight fuzzy-search
+
+```javascript
+var options = {
+  keys: ['title', 'author.firstName']
+}
+var fuse = new Fuse(books, options);
+
+fuse.search('old');
+```
+
 
 ### 滚动条
 [dropload](https://github.com/ximan/dropload) 移动端下拉刷新、上拉加载更多插件
