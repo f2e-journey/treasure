@@ -374,6 +374,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
   - [NodeBB](https://github.com/NodeBB/NodeBB)
   - [Ghost博客平台不错, 试试看, 作为wordpress的取代品](https://ghost.org/)
   - [KeystoneJS](https://github.com/keystonejs/keystone)
+  - [Liblog](https://github.com/livisky/liblog) 一个简单易用的博客系统基于 ThinkJS
 
 * [AOS](http://git.oschina.net/osworks/AOS)
 * [G4Studio](https://git.oschina.net/osworks/G4Studio)
