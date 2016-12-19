@@ -506,6 +506,8 @@ An automatic web page progress bar.
 
 [ProgressJS](https://github.com/usablica/progress.js/)
 
+[NProgress](https://github.com/rstacruz/nprogress/)
+
 [MixItUp](https://mixitup.kunkalabs.com/) animated filtering and sorting
 
 [wPaint](https://github.com/websanova/wPaint)
