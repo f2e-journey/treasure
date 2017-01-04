@@ -766,7 +766,7 @@ unobtrusively upgrade HTML forms to use AJAX
 
 [wPaginate](https://github.com/websanova/wPaginate)
 
-[zTree](https://github.com/zTree/zTree_v3)
+[zTree](https://github.com/zTree/zTree_v3) / [jstree](https://github.com/vakata/jstree)
 
 [jQuery-Knob](https://github.com/aterrien/jQuery-Knob) touchable, jQuery dial
 
