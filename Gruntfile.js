@@ -56,7 +56,7 @@ module.exports = function(grunt) {
     grunt.initConfig({
         pkg: pkg,
         distName: distName,
-        banner: '/*! <%=pkg.name%> v<%=pkg.version%> <%=grunt.template.today("yyyy-mm-dd")%> | (c) 2014-2015 a.com */\n',
+        banner: '/*! <%=pkg.name%> v<%=pkg.version%> <%=grunt.template.today("yyyy-mm-dd")%> | (c) 2014-<%=grunt.template.today("yyyy")%> a.com */\n',
         config: config,
         clean: {
             options: {
