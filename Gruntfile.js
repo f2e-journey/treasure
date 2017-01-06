@@ -14,9 +14,23 @@ module.exports = function(grunt) {
     var pkg = grunt.file.readJSON('package.json');
     var distName = pkg.name + '-' + pkg.version;
 
+    // 需要打包的模块
     var pkgMods = {
         modA: {
             tmp: {
+                // 构建的模版文件
+                // <!DOCTYPE html>
+                // <html lang="en">
+                // <head>
+                //     <script>
+                //     var CLIENT_CDN = '<%= data.CLIENT_CDN %>';
+                //     </script>
+                //     <% if (environment === 'dev') { %><% cssFiles.forEach(function(file) { %><link rel="stylesheet" href="<%= file %>" /><% }); %><% } else { %><link rel="stylesheet" href="<%= data.CLIENT_CDN %>mod-a/<%= data.distName %>.min.css?v=<%= Date.now() %>" /> <% } %>
+                // </head>
+                // <body>
+                //     <% if (environment === 'dev') { %><% jsFiles.forEach(function(file) { %><script src="<%= file %>"></script><% }); %><% } else { %><script src="<%= data.CLIENT_CDN %>mod-a/dist/<%= data.distName %>.min.js?v=<%= Date.now() %>"></script><% } %>
+                // </body>
+                // </html>
                 src: '.build-tmp/mod-a.htm',
                 dest: 'mod-a.htm'
             },
@@ -27,8 +41,7 @@ module.exports = function(grunt) {
             ],
             jsDest: config.staticSite + '/mod-a/dist/' + distName + '.min.js',
 
-            cssFiles: [
-                config.staticSite + '/mod-a/' + pkg.name + '-common.css',
+            cssFiles: [ // 采用 @import 方式打包所有CSS模块
                 config.staticSite + '/mod-a/' + pkg.name + '.css'
             ],
             cssDest: config.staticSite + '/mod-a/' + distName + '.min.css'
@@ -45,13 +58,17 @@ module.exports = function(grunt) {
             ],
             jsDest: config.staticSite + '/mod-b/dist/' + distName + '.min.js',
 
-            cssFiles: [
-                config.staticSite + '/mod-b/' + pkg.name + '-common.css',
+            cssFiles: [ // 采用 @import 方式打包所有CSS模块
                 config.staticSite + '/mod-b/' + pkg.name + '.css'
             ],
             cssDest: config.staticSite + '/mod-b/' + distName + '.min.css'
         },
     };
+    // 将需要打包的模块放到数组中, 方便envBuild的时候使用
+    var pkgModArray = [];
+    for (var modName in pkgMods) {
+        pkgModArray.push(pkgMods[modName]);
+    }
 
     grunt.initConfig({
         pkg: pkg,
@@ -62,7 +79,7 @@ module.exports = function(grunt) {
             options: {
                 force: true
             },
-            dist: [ // TODO 这里需要改进, 根据 pkgMods 自动清理生成的文件
+            dist: [
                 '<%= config.staticSite %>/mod-a/dist',
                 '<%= config.staticSite %>/mod-a/*.min.css',
                 '<%= config.staticSite %>/mod-b/dist',
@@ -88,16 +105,33 @@ module.exports = function(grunt) {
                 dest: pkgMods.modB.jsDest
             }
         },
-        cssmin: { // TODO 需要先通过requirejs的css处理来合并css文件, 再通过cssmin来压缩
+        requirejs: { // 合并CSS文件
+            // Optimizes CSS by inlining CSS files referenced by @import and removing comments
+            // The CSS url() path fixing will always fix the paths relative to the cssIn build option path, not the out build option.
+            // 简而言之就是将 CSS 中 @import 进来的其他 CSS 合并到一起, 并修复 url 引用
+            modA: {
+                options: {
+                    cssIn: pkgMods.modA.cssFiles[0],
+                    out: pkgMods.modA.cssDest
+                }
+            },
+            modB: {
+                options: {
+                    cssIn: pkgMods.modB.cssFiles[0],
+                    out: pkgMods.modB.cssDest
+                }
+            }
+        },
+        cssmin: {
             options: {
                 banner: '<%=banner%>'
             },
             modA: {
-                src: pkgMods.modA.cssFiles,
+                src: pkgMods.modA.cssDest,
                 dest: pkgMods.modA.cssDest
             },
             modB: {
-                src: pkgMods.modB.cssFiles,
+                src: pkgMods.modB.cssDest,
                 dest: pkgMods.modB.cssDest
             }
         },
@@ -108,15 +142,7 @@ module.exports = function(grunt) {
                         distName: '<%=distName%>',
                         CLIENT_CDN: 'http://localhost:5207/'
                     },
-                    tmp: [{
-                        file: pkgMods.modA.tmp,
-                        jsFiles: pkgMods.modA.jsFiles,
-                        cssFiles: pkgMods.modA.cssFiles
-                    }, {
-                        file: pkgMods.modB.tmp,
-                        jsFiles: pkgMods.modB.jsFiles,
-                        cssFiles: pkgMods.modB.cssFiles
-                    }]
+                    mods: pkgModArray
                 }
             },
             test: {
@@ -125,11 +151,7 @@ module.exports = function(grunt) {
                         distName: '<%=distName%>',
                         CLIENT_CDN: 'http://localhost:5207/'
                     },
-                    tmp: [{
-                        file: pkgMods.modA.tmp
-                    }, {
-                        file: pkgMods.modB.tmp
-                    }]
+                    mods: pkgModArray
                 }
             },
             stage: {
@@ -138,11 +160,7 @@ module.exports = function(grunt) {
                         distName: '<%=distName%>',
                         CLIENT_CDN: 'http://192.168.198.18/'
                     },
-                    tmp: [{
-                        file: pkgMods.modA.tmp
-                    }, {
-                        file: pkgMods.modB.tmp
-                    }]
+                    mods: pkgModArray
                 }
             },
             production: {
@@ -151,11 +169,7 @@ module.exports = function(grunt) {
                         distName: '<%=distName%>',
                         CLIENT_CDN: 'http://a.com/'
                     },
-                    tmp: [{
-                        file: pkgMods.modA.tmp
-                    }, {
-                        file: pkgMods.modB.tmp
-                    }]
+                    mods: pkgModArray
                 }
             }
         },
@@ -202,23 +216,23 @@ module.exports = function(grunt) {
         var options = this.options();
         var environment = this.target;
 
-        options.tmp.forEach(function(tmp) {
-            var jsFiles = [],
-                cssFiles = [];
+        options.mods.forEach(function(mod) {
+            var jsFiles = [];
+            var cssFiles = [];
 
             // 将文件目录替换成环境相关的URL
-            if (tmp.jsFiles) {
-                jsFiles = tmp.jsFiles.map(function(jsFile) {
+            if (mod.jsFiles) {
+                jsFiles = mod.jsFiles.map(function(jsFile) {
                     return jsFile.replace(config.staticSite + '/', options.data.CLIENT_CDN);
                 });
             }
-            if (tmp.cssFiles) {
-                cssFiles = tmp.cssFiles.map(function(cssFile) {
+            if (mod.cssFiles) {
+                cssFiles = mod.cssFiles.map(function(cssFile) {
                     return cssFile.replace(config.staticSite + '/', options.data.CLIENT_CDN);
                 });
             }
 
-            grunt.file.copy(tmp.file.src, tmp.file.dest, {
+            grunt.file.copy(mod.tmp.src, mod.tmp.dest, {
                 process: function(contents, path) {
                     return grunt.template.process(contents, {
                         data: {
@@ -236,7 +250,7 @@ module.exports = function(grunt) {
     grunt.registerTask('build', function(mode) {
         mode = mode ? mode : 'production';
 
-        var tasks = ['clean', 'uglify', 'cssmin', 'envBuild:' + mode];
+        var tasks = ['clean', 'uglify', 'requirejs', 'cssmin', 'envBuild:' + mode];
         grunt.task.run(tasks);
     });
 
