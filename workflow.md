@@ -77,8 +77,8 @@
 
 8. 发布上线
 
-   根据项目部署的方式, 可能涉及到前端发布和后端发布这两个过程. 前端资源的发布可以参考[静态资源自动化发布方案](https://github.com/ufologist/gulp-oss-upload/blob/master/static-file-auto-deploy.md).
-   
+   根据项目部署的方式, 可能涉及到前端发布和后端发布这两个过程. 前端资源的发布可以参考[静态资源自动化发布方案](https://github.com/ufologist/gulp-oss-upload/blob/master/static-file-auto-deploy.md) 和 [前端「零机器」部署方案](https://github.com/ElemeFE/clouding/tree/gh-pages/docs/intro)
+ 
    * 简单点的只会涉及到后端项目的发布
    
      前端的静态资源(HTML/CSS/JS/图片等)一般集中放置在后端项目的一个文件夹中, 这种发布很简单, 直接将后端项目发布到应用服务器(例如 Tomcat)即可
