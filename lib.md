@@ -549,6 +549,30 @@ one page scroll website that allows users to scroll one page at a time. It is pe
 
 [Zepto One Page Scroll](https://github.com/peachananr/zepto-onepage-scroll/)
 
+[ScrollWatch](https://github.com/edull24/ScrollWatch/)
+Easily add lazy loading, infinite scrolling, or any other dynamic interaction based on scroll position (with no dependencies).
+
+* Watch any scrolling element, not just the window
+* Executes callbacks when elements enter/leave view
+* Tracks the first time something enters/leaves view or every time
+* Watches vertical and horizontal scrolling
+* Supports infinite scrolling out of the box
+* Scroll/Resize handlers are throttled or debounced, so your cpu lives to see tomorrow
+
+```javascript
+new ScrollWatch({
+    watch: '.element',
+    watchOffset: -200, // 正数表示滚动位置距离元素显示还差多少, 负数表示滚动位置超过元素多少
+    watchOnce: false,
+    onElementInView: function(event) {
+        $(event.el).addClass('active');
+    },
+    onElementOutOfView: function(event) {
+        $(event.el).removeClass('active');
+    }
+});
+```
+
 [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 animate based on scroll position
 
@@ -559,9 +583,6 @@ Reveal CSS animation as you scroll down a page
 
 [jquery-smoove](https://github.com/abeMedia/jquery-smoove)
 scrolling effects using CSS3
-
-[ScrollWatch](https://github.com/edull24/ScrollWatch/)
-Easily add lazy loading, infinite scrolling, or any other dynamic interaction based on scroll position (with no dependencies).
 
 [fullPage.js](https://github.com/alvarotrigo/fullPage.js)
 
