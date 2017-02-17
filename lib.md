@@ -564,7 +564,7 @@ sr.reveal('[data-animate]');
 ```
 
 [Animate](https://github.com/jshjohnson/Animate)
-trigger animations on elements when they are within the viewport, 方便配合动画样式(例如 `animate.css`)使用
+trigger animations on elements when they are within the viewport, 方便配合动画样式(例如 `animate.css`)使用,  与[WOW.js](https://github.com/matthieua/WOW "Reveal CSS animation as you scroll down a page") 类似
 
 ```javascript
 // <div data-animate data-animation-classes="fadeInLeft animated" data-animation-reverse="true" data-animation-offset="0.1, 0.5" data-animation-delay="0"></div>
@@ -629,9 +629,6 @@ for (var i = 0, length = nodeList.length; i < length; i++) {
 animate based on scroll position
 
 [SuperScrollorama](http://johnpolacek.github.io/superscrollorama/)
-
-[WOW.js](https://github.com/matthieua/WOW)
-Reveal CSS animation as you scroll down a page
 
 [jquery-smoove](https://github.com/abeMedia/jquery-smoove)
 scrolling effects using CSS3
