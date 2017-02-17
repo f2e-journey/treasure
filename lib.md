@@ -549,15 +549,29 @@ one page scroll website that allows users to scroll one page at a time. It is pe
 
 [Zepto One Page Scroll](https://github.com/peachananr/zepto-onepage-scroll/)
 
+[scrollReveal.js](https://github.com/jlmakes/scrollreveal)
+Easily reveal elements as they enter the viewport. 最方便使用, 无需依赖动画样式(例如 `animate.css`)
+
+```javascript
+var sr = ScrollReveal({
+    origin: 'top',     // translate 的方向
+    distance: '100px', // translate 的距离, 还有 rotate, opacity, scale 都是指初始化时元素怎么变形
+                       // 例如: transform: translateY(-100px) scale(0.9) rotateX(20deg) rotateY(30deg);
+    viewFactor: 0.2,   // 判断元素多少百分比出现在视野中则认为元素是显示出来了
+    reset: true        // 重复触发动画
+});
+sr.reveal('[data-animate]');
+```
+
 [Animate](https://github.com/jshjohnson/Animate)
-trigger animations on elements when they are within the viewport
+trigger animations on elements when they are within the viewport, 方便配合动画样式(例如 `animate.css`)使用
 
 ```javascript
 // <div data-animate data-animation-classes="fadeInLeft animated" data-animation-reverse="true" data-animation-offset="0.1, 0.5" data-animation-delay="0"></div>
 // 只监听了 window 上的 scroll 事件
 var animate = new Animate({        
     offset: [0.5, 0.5], // 元素在垂直和水平方向上有多少百分比的内容出现在视野中才触发动画
-    reverse: true // 再次出现在视野中时又会触发动画
+    reverse: true       // 再次出现在视野中时又会触发动画
 });
 animate.init();
 ```
@@ -632,9 +646,6 @@ scrolling effects using CSS3
 
 [scrollme](https://github.com/nckprsn/scrollme)
 adding simple scrolling effects to web pages.
-
-[scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js)
-Easily reveal elements as they enter the viewport.
 
 [multiscroll](https://github.com/alvarotrigo/multiscroll.js)
 A simple plugin to create multi scrolling websites with two vertical scrolling panels.
