@@ -549,6 +549,19 @@ one page scroll website that allows users to scroll one page at a time. It is pe
 
 [Zepto One Page Scroll](https://github.com/peachananr/zepto-onepage-scroll/)
 
+[Animate](https://github.com/jshjohnson/Animate)
+trigger animations on elements when they are within the viewport
+
+```javascript
+// <div data-animate data-animation-classes="fadeInLeft animated" data-animation-reverse="true" data-animation-offset="0.1, 0.5" data-animation-delay="0"></div>
+// 只监听了 window 上的 scroll 事件
+var animate = new Animate({        
+    offset: [0.5, 0.5], // 元素在垂直和水平方向上有多少百分比的内容出现在视野中才触发动画
+    reverse: true // 再次出现在视野中时又会触发动画
+});
+animate.init();
+```
+
 [ScrollWatch](https://github.com/edull24/ScrollWatch/)
 Easily add lazy loading, infinite scrolling, or any other dynamic interaction based on scroll position (with no dependencies).
 
@@ -573,6 +586,31 @@ new ScrollWatch({
 });
 ```
 
+[VisSense](https://github.com/vissense/vissense)
+observing visibility changes of DOM elements. Immediately know when an element becomes hidden, partly visible or fully visible.
+
+```javascript
+var nodeList = document.querySelectorAll('[data-animate]');
+for (var i = 0, length = nodeList.length; i < length; i++) {
+    var visibility_monitor = VisSense(nodeList[i], {
+        fullyvisible: 0.1 // 元素多少百分比显示出来则认为元素为全显示了
+    }).monitor({
+        fullyvisible: function(visMon) {
+            var classList = visMon._visobj._element.getAttribute('data-animation-classes').split(' ');
+            classList.forEach(function(clazz) {
+                visMon._visobj._element.classList.add(clazz);
+            });
+        },
+        hidden: function(visMon) {
+            var classList = visMon._visobj._element.getAttribute('data-animation-classes').split(' ');
+            classList.forEach(function(clazz) {
+                visMon._visobj._element.classList.remove(clazz);
+            });
+        }
+    }).start();
+}
+```
+
 [ScrollMagic](https://github.com/janpaepke/ScrollMagic)
 animate based on scroll position
 
@@ -594,9 +632,6 @@ scrolling effects using CSS3
 
 [scrollme](https://github.com/nckprsn/scrollme)
 adding simple scrolling effects to web pages.
-
-[VisSense](https://github.com/vissense/vissense)
-observing visibility changes of DOM elements. Immediately know when an element becomes hidden, partly visible or fully visible.
 
 [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js)
 Easily reveal elements as they enter the viewport.
@@ -622,9 +657,6 @@ execute a function whenever you scroll to an element.
 
 [AniJS](https://github.com/anijs/anijs) Raise your Web Design without Coding
 data-anijs="if: click, do: flipInY, to: .container-box" 比较适合滚动到页面某个元素时才显示动画
-
-[Animate](https://github.com/jshjohnson/Animate)
-trigger animations on elements when they are within the viewport
 
 [Headroom.js](https://github.com/WickyNilliams/headroom.js) Hide your header until you need it
 
