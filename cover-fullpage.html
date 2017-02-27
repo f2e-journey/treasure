@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>(第一屏)满屏内容页</title>
+    <style>
+    html,
+    body {
+        height: 100%; /* 默认撑满一个屏幕的高度 */
+    }
+    body {
+        margin: 0;
+    }
+    .cover {
+        min-height: 100%; /* 默认占据一个屏幕的高度 */
+        background: #cfedf0 url(http://unsplash.imgix.net/photo-1418065460487-3e41a6c84dc5?q=25&amp;fm=jpg&amp;s=127f3a3ccf4356b7f79594e05f6c840e) center no-repeat;
+        background-size: cover;
+    }
+    .section { /* 其他内容只要紧接着即可 */
+        background-color: #add8f7;
+        min-height: 500px; /* 这个高度只是为了举例的时候好看而已 */
+    }
+    </style>
+</head>
+<body>
+    <div class="cover">
+        我是第一屏的内容 by <a href="http://pingendo.com/" title="The simplest app for Bootstrap prototyping">Pingendo</a>
+    </div>
+    <div class="section">
+        我是第二屏的内容
+    </div>
+    <div class="section">
+        我是第三屏的内容
+    </div>
+</body>
+</html>
