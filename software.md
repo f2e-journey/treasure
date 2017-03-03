@@ -329,10 +329,14 @@ v0.0.1 2015-5-5(还未正式发布版本)
 
 * [nginx](http://nginx.org)
 
-  HTTP服务器, 主要用做反向代理和负载均衡
-  > `_Cloud\Google\Code\sync-software\nginx`
+  HTTP服务器, 主要用做反向代理和负载均衡, 用 [openresty](https://openresty.org/cn/) 也可以
+  > `_Cloud\Google\Code\sync-software\nginx`
+  >
+  > `_Cloud\Google\Code\sync-software\openresty`
   >
   > nginx
+  >
+  > nginx -V
   >  
   > nginx -t
   >  
