@@ -28,7 +28,7 @@
      10d(研发周期) - 1d(需求/设计/UI) - 1d(测试/回归) = 8d(开发)
 
    ```
-   xx项目 0.1.0 版本前端工作计划
+   xx项目 0.1.0 版本前端工作计划
    
    xx项目 0.1.0
    ├── UI设计            | 1d | 2016-9-19 | 2016-9-19 | 设计师甲(UI) | 0%
@@ -54,7 +54,6 @@
    ├── APP 端联调
    |
    └── 测试验收
-   
    ```
 
 4. 制定接口
@@ -77,7 +76,7 @@
 
 8. 发布上线
 
-   根据项目部署的方式, 可能涉及到前端发布和后端发布这两个过程. 前端资源的发布可以参考[静态资源自动化发布方案](https://github.com/ufologist/gulp-oss-upload/blob/master/static-file-auto-deploy.md) 和 [前端「零机器」部署方案](https://github.com/ElemeFE/clouding/tree/gh-pages/docs/intro)
+   根据项目部署的方式, 可能涉及到前端发布和后端发布这两个过程. 前端资源的发布可以参考[静态资源自动化发布方案](https://github.com/ufologist/gulp-oss-upload/blob/master/static-file-auto-deploy.md) 和 [前端「零机器」部署方案](https://github.com/ElemeFE/clouding/tree/gh-pages/docs/intro)
  
    * 简单点的只会涉及到后端项目的发布
    
