@@ -328,11 +328,12 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [Cygwin](https://cygwin.com/) Get that Linux feeling - on Windows
 
 * [nginx](http://nginx.org)
+  
+  HTTP服务器, 主要用做反向代理和负载均衡, 用 [openresty](https://openresty.org/cn/) 也可以
 
-  HTTP服务器, 主要用做反向代理和负载均衡, 用 [openresty](https://openresty.org/cn/) 也可以
-  > `_Cloud\Google\Code\sync-software\nginx`
-  >
-  > `_Cloud\Google\Code\sync-software\openresty`
+  > `_Cloud\Google\Code\sync-software\nginx`
+  >
+  > `_Cloud\Google\Code\sync-software\openresty`
   >
   > nginx
   >
