@@ -286,3 +286,17 @@
     > ![技术团队的梯形互补](http://mmbiz.qpic.cn/mmbiz/DFAV2KytcbXtYd8ibFu41icWofvqFbxXxvrAYx9YviaMgtVsXmWtuJBsM3CQZyibKbic9OWPppavFAPfAOrZPWBibNRw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
     > * 第一类是将才，是编程高手
     > * 第二类是帅才，是产品高手
+
+* [Web 应用架构指南 | 5分钟学会五个前端框架](http://vdisk.weibo.com/s/sjdZs20gc_t6)
+
+  > 学会编写组件
+  > * M 绑定到 V: 数据更新, View 自动更新
+  > * V 绑定到 C: 绑定 DOM 事件
+  > * C 更新到 M
+
+* [抛开 React 学习 React](http://qianduan.guru/2016/03/27/Learning-React-Without-Using-React-Part1/)
+
+  > * 更新整个应用的 state
+  > * 更新 DOM（根据应用当前的 state 来调用 render 函数）
+  > * state 作为中间媒介，简化了事件和 DOM 元素之间的交互, 而不是通过事件来直接操作 DOM
+  > * 简单的单向数据流（one-way data flow）的原则
