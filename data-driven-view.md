@@ -171,7 +171,7 @@ vm.$nextTick(function() {
 
 怎么有点黑客帝国的感觉? 如果时刻以数据驱动视图的思路来写视图层, 我们大概会看到这样的东西. :)
 
-![黑客帝国数据](http://ww4.sinaimg.cn/large/0060lm7Tgy1fe1oya24hgj30ug0cmjz5.jpg)
+![黑客帝国数据](http://ww4.sinaimg.cn/large/0060lm7Tgy1fe1oya24hgj30ug0cmjz5.jpg?v1)
 
 再将大一些的视图分解为小的组件, 最终实现组件化. 让视图如同拼积木一样, 由一个个组件拼接而成, 拼接的地方就是接口.
 
