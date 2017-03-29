@@ -198,11 +198,55 @@ vm.$nextTick(function() {
 
 这就是为什么会有 [Virtual DOM](https://github.com/Matt-Esch/virtual-dom) 这一层了, `Virtual DOM -> Virtual DOM Tree Diff -> Patch -> DOM`. **将渲染的底层操作都封装起来, 上层就如同每次做全量刷新一般**.
 
-* 创建一棵 v-dom-tree
-* 完成一次全量的渲染
-* 数据修改后, 我们重新创建这棵 v-dom-tree
-* 前后比对 v-dom-tree 的变化
+* 创建一棵 vdom-tree(vdom node)
+* 基于 vdom-tree 生成真正的 DOM, 即完成一次真正的全量渲染
+* 数据修改后, 我们重新创建这棵 vdom-tree
+* 前后比对 vdom-tree 的变化
 * 给 DOM 打补丁(即增量的更新)
+
+```javascript
+// 1. vdom
+// 2. vdom -> dom
+// 3. diff vdom -> patches
+// 4. patch
+var h = require('virtual-dom/h');
+var createElement = require('virtual-dom/create-element');
+var diff = require('virtual-dom/diff');
+var patch = require('virtual-dom/patch');
+
+var count = 0;
+function render(count)  {
+    return h('div', {
+        style: {
+            textAlign: 'center',
+            lineHeight: (100 + count) + 'px',
+            border: '1px solid red',
+            width: (100 + count) + 'px',
+            height: (100 + count) + 'px'
+        }
+    }, [String(count)]);
+}
+
+// 生成 vdom
+var vdom = render(count);
+// 基于 vdom 生成 dom
+var dom = createElement(vdom);
+// 全量渲染
+document.body.appendChild(dom);
+
+setInterval(function() {
+    count++;
+    
+    // 数据修改后, 重新生成 vdom
+    var newVdom = render(count);
+    // 前后比对 vdom 的变化
+    var patches = diff(vdom, newVdom);
+    // 给 DOM 打补丁(即增量的更新)
+    dom = patch(dom, patches);
+    
+    vdom = newVdom;
+}, 1000);
+```
 
 这下明白为什么 React 是前端的一次革命了吧, 它彻底改变了前端的思维模式, 所以推荐大家去学习一下 [React](https://github.com/facebook/react) 思维的精华.
 
