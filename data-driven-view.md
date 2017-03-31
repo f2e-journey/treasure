@@ -252,4 +252,4 @@ setInterval(function() {
 
 最后总结一下, 下次写界面的时候, 记住以下两点
 * 数据(状态)一变, 重新渲染, `data -> render`
-* 全量渲染还是做 patch, 可以认为是底层的东西, 就当是系统提供的一种性能优化手段好了
+* 全量渲染还是做 [patch](https://calendar.perfplanet.com/2013/diff/ "React’s diff algorithm"), 可以认为是底层的东西, 就当是系统提供的一种性能优化手段好了
