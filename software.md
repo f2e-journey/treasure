@@ -316,7 +316,10 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 * [RailsInstaller](http://railsinstaller.org/)
 
-  顺带了[Git](http://www.git-scm.com/) | [SourceTree](https://www.atlassian.com/software/sourcetree/overview)
+  顺带了[Git](http://www.git-scm.com/)
+  
+  日常一般使用 [TortoiseGit](https://tortoisegit.org) 和 [vscode](https://code.visualstudio.com/docs/editor/versioncontrol) 自带的 git 功能即可, 如果有更加高的要求, 可以使用 [SourceTree](https://www.atlassian.com/software/sourcetree/overview)
+
 * [Python](https://www.python.org/downloads/)
 
 * [ConEmu](https://github.com/Maximus5/ConEmu)
