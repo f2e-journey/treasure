@@ -235,6 +235,8 @@ v0.0.1 2015-5-5(还未正式发布版本)
   The free web debugging proxy for any browser, system or platform
   > _Cloud\Google\Gmail\Fiddler2
   
+  记得配置 Tools/Telerik Fiddler Options/Connections/Allow remote computers to connect 才能在移动设备上设置 WiFi 网络的代理来拦截移动设备上的 HTTP 请求
+
   [AlloyTeam/Rosin](https://github.com/AlloyTeam/Rosin)
   
   > Fiddler插件，协助开发者进行移动端页面开发调试，是移动端web开发、调试利器
