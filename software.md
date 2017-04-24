@@ -199,7 +199,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
 * [BrowserSync](http://www.browsersync.io)
    
   不仅可以免刷新, 还能同步各个设备上打开页面时的交互, 例如滚动某一个设备上的页面其他设备该页面同时都会滚动到相同位置, 还集成了远程调试(weinre)功能, f5差不多可以退休了.
-  > browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"
+  > `browser-sync start --server --directory --port 4000 --files "**/*.html, **/*.css"`
   >
   > browser-sync init
   >
