@@ -130,10 +130,10 @@ Content-Type: application/json; charset=utf-8
 :----------|:-----------
 data       | **业务数据**. 必须是任意 JSON 数据类型(number/string/boolean/object/array), 推荐始终返回 object 以便于扩展字段. 如果要表示日期数据, 可以使用时间戳(简单暴力), 例如: `1458885313711`, 或者参考[Date.prototype.toJSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toJSON) 提供的 ISO 标准格式.
 status     | **状态码**. 必须是 `>= 0` 的 JSON Number 整数. `0` 表示请求成功处理并返回. 这个字段可以省略, 省略时和为 `0` 时表示同一含义. `非 0` 表示发生错误时的[错误码](http://open.weibo.com/wiki/Error_code "错误码格式可以参考微博API的 Error code"), 此时可以省略 `data` 字段, 并视情况输出 `statusInfo` 字段作为补充信息
-statusInfo | **状态信息**. 必须是任意 JSON 数据类型. 推荐始终返回 object 并包含一个 `message` 字段
+statusInfo | **状态信息**. 必须是任意 JSON 数据类型. 推荐始终返回 object 并包含一个 `message` 字段, `message` 字段作为接口处理失败时, 给予用户的友好的提示信息, 即所有给用户的提示信息都统一由服务端来处理 
 
 例如
-* 成功时接口返回的数据
+* 接口处理成功时接口返回的数据
 
   ```
   {
@@ -141,13 +141,14 @@ statusInfo | **状态信息**. 必须是任意 JSON 数据类型. 推荐始终�
       "status": 0
   }
   ```
-* 失败时接口返回的数据
+* 接口处理失败时接口返回的数据
 
   ```
   {
       "status": 1,
       "statusInfo": {
-          "message": "服务器正忙"
+          "message": "服务器正忙",
+          "detail": {}
       }
   }
   ```
@@ -160,6 +161,8 @@ if (!response.status) {
 } else {
     // 失败
     console.error(response.status, response.statusInfo);
+    // 统一由服务端返回给用户的提示信息
+    alert(response.statusInfo.message);
 }
 ```
 
