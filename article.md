@@ -270,6 +270,43 @@
     > As a result there is a lot of code on the client side!
     > 
     > A big code base needs to be organized. Module systems offer the option to split your code base into modules.
+    >
+    > MODULE SYSTEM STYLES
+    > * `<script>`-tag style (without a module system)
+    >
+    >   Common problems
+    >   
+    >   * Conflicts in the global object.
+    >   * Order of loading is important.
+    >   * Developers have to resolve dependencies of modules/libraries.
+    >   * In big projects the list can get really long and difficult to manage.
+    > * CommonJS: synchronous `require`
+    > * AMD: asynchronous `require`
+    > * ES6 modules
+    >
+    > TRANSFERRING
+    >
+    > Modules should be executed on the client, so they must be transferred from the server to the browser.
+    > 
+    > There are two extremes when transferring modules:
+    > * 1 request per module
+    > * All modules in one request
+    >
+    > Chunked transferring: A compromise between the extremes is better in most cases.
+    > While compiling all modules: Split the set of modules into multiple smaller batches (chunks).
+    >
+    > WHY ONLY JAVASCRIPT?
+    > 
+    > Why should a module system only help the developer with JavaScript? There are many other resources that need to be handled Or translated/processed
+    > 
+    > STATIC ANALYSIS
+    > 
+    > When compiling all these modules, a static analysis tries to find its dependencies.
+    >
+    > 所以 webpack 主要解决这几个问题
+    > * module bundler
+    > * loader other resources as a module
+    > * code split
 * [淘宝前后端分离实践](http://2014.jsconf.cn/slides/herman-taobaoweb/index.html)
     
     > 在服务器(Java) 与 浏览器(JS)的中间
