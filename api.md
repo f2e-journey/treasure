@@ -55,7 +55,9 @@
 * 返回数据中页面跳转的 URL 是给完整的还是部分的
   * 内部页面返回部分的, 或者只给ID, 由前端自己拼接, 例如只给出商品ID, 让前端自己拼接商品详情页的 URL
   * 外部页面返回完整的, 例如广告位要跳转去谷歌
-* 返回数据中时间的格式, 是使用时间戳还是格式化好的文字
+* 返回数据中日期的格式, 是使用时间戳还是格式化好的文字
+  * 对于需要前端再次处理的日期值(例如根据日期计算倒计时), 可以使用时间戳(简单暴力), 例如: `1458885313711`, 或者参考 [Date.prototype.toJSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toJSON) 提供 ISO 标准格式(例如需要考虑时区时)
+  * 对于纯展示用的日期值, 推荐返回为格式化好的文字, 例如: `2017年1月1日`
 * 分页参数和分页信息
   * 如何限制只返回 N 条数据(limit 参数)
   * 如何控制每页的数据条数(pageSize 参数)
@@ -129,9 +131,9 @@ Content-Type: application/json; charset=utf-8
 
 **字段名** |**字段说明**
 :----------|:-----------
-data       | **业务数据**. 必须是任意 JSON 数据类型(number/string/boolean/object/array), 推荐始终返回 object 以便于扩展字段. 如果要表示日期数据, 可以使用时间戳(简单暴力), 例如: `1458885313711`, 或者参考[Date.prototype.toJSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toJSON) 提供的 ISO 标准格式.
+data       | **业务数据**. 必须是任意 JSON 数据类型(number/string/boolean/object/array), 推荐始终返回 object 以便于扩展字段.
 status     | **状态码**. 必须是 `>= 0` 的 JSON Number 整数. `0` 表示请求成功处理并返回. 这个字段可以省略, 省略时和为 `0` 时表示同一含义. `非 0` 表示发生错误时的[错误码](http://open.weibo.com/wiki/Error_code "错误码格式可以参考微博API的 Error code"), 此时可以省略 `data` 字段, 并视情况输出 `statusInfo` 字段作为补充信息
-statusInfo | **状态信息**. 必须是任意 JSON 数据类型. 推荐始终返回 object 并包含一个 `message` 字段, `message` 字段作为接口处理失败时, 给予用户的友好的提示信息, 即所有给用户的提示信息都统一由服务端来处理 
+statusInfo | **状态信息**. 必须是任意 JSON 数据类型. 推荐始终返回 object 并包含一个 `message` 字段, `message` 字段作为接口处理失败时, 给予用户的友好的提示信息, 即所有给用户的提示信息都统一由服务端来处理. 同时还可以提供 `detail` 字段来放置接口处理失败时的详细错误信息, 便于排错
 
 例如
 * 接口处理成功时接口返回的数据
@@ -149,7 +151,9 @@ statusInfo | **状态信息**. 必须是任意 JSON 数据类型. 推荐始终�
       "status": 1,
       "statusInfo": {
           "message": "服务器正忙",
-          "detail": {}
+          "detail": {
+              "exception": "java.util.List"
+          }
       }
   }
   ```
