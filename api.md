@@ -131,9 +131,9 @@ Content-Type: application/json; charset=utf-8
 
 **字段名** |**字段说明**
 :----------|:-----------
-data       | **业务数据**. 必须是任意 JSON 数据类型(number/string/boolean/object/array), 推荐始终返回 object 以便于扩展字段.
-status     | **状态码**. 必须是 `>= 0` 的 JSON Number 整数. `0` 表示请求成功处理并返回. 这个字段可以省略, 省略时和为 `0` 时表示同一含义. `非 0` 表示发生错误时的[错误码](http://open.weibo.com/wiki/Error_code "错误码格式可以参考微博API的 Error code"), 此时可以省略 `data` 字段, 并视情况输出 `statusInfo` 字段作为补充信息
-statusInfo | **状态信息**. 必须是任意 JSON 数据类型. 推荐始终返回 object 并包含一个 `message` 字段, `message` 字段作为接口处理失败时, 给予用户的友好的提示信息, 即所有给用户的提示信息都统一由服务端来处理. 同时还可以提供 `detail` 字段来放置接口处理失败时的详细错误信息, 便于排错
+data       | **业务数据**<br>必须是任意 JSON 数据类型(number/string/boolean/object/array).<br>推荐始终返回一个 object (即再包一层)以便于扩展字段.<br>例如: 用户数据应该返回 `{"user":{"name":"test"}}`, 而不是直接为 `{"name":"test"}`
+status     | **状态码**<br>必须是 `>= 0` 的 JSON Number 整数.<ul><li>`0` 表示请求处理成功, 此时可以省略 `status` 字段, 省略时和为 `0` 时表示同一含义.</li><li>`非 0` 表示发生错误时的[错误码](http://open.weibo.com/wiki/Error_code "错误码格式可以参考微博API的 Error code"), 此时可以省略 `data` 字段, 并视情况输出 `statusInfo` 字段作为补充信息</li></ul>
+statusInfo | **状态信息**<br>必须是任意 JSON 数据类型.<br>推荐始终返回一个 object 包含 `message` 和 `detail` 字段<ul><li>`message` 字段作为接口处理失败时, **给予用户的友好的提示信息**, 即所有给用户的提示信息都统一由后端来处理.</li><li>`detail` 字段用来放置接口处理失败时的详细错误信息. 只是为了方便排查错误, 前端无需使用.</li></ul>
 
 例如
 * 接口处理成功时接口返回的数据
