@@ -97,6 +97,9 @@ Load Balancer  <-->    Sails.js server    <-->
     [搜狐视频Redis私有云平台](https://github.com/sohutv/cachecloud)
 * [Elasticsearch](https://www.elastic.co/products/elasticsearch) Search & Analyze Data in Real Time Build on top of Apache Lucene
 * [Open-Falcon](https://github.com/open-falcon/of-release) 互联网企业级监控系统解决方案
+* [Sharding-JDBC](https://github.com/shardingjdbc/sharding-jdbc)
+
+  > Sharding-JDBC是一个开源的分布式数据库中间件，它无需额外部署和依赖，旧代码迁移成本几乎为零。Sharding-JDBC作为面向开发的微服务云原生基础类库，完整的实现了分库分表、读写分离和分布式主键功能，并初步实现了柔性事务。
 * [Mango](https://github.com/jfaster/mango/ "Mango SQL Mapper Framework for Java")
 * [kingshard](https://github.com/flike/kingshard "A high-performance MySQL proxy")
 
@@ -207,7 +210,7 @@ Load Balancer  <-->    Sails.js server    <-->
 
 * [老庙黄金2016春晚抢红包活动技术架构详解](https://yq.aliyun.com/articles/7420 "基于阿里云的技术架构")
   
-    > ![老庙黄金2016春晚抢红包活动技术架构](http://oss.aliyuncs.com/yqfiles/2c550956ecc11f1a0b3788337191e28efb2b3743.png)
+    > ![老庙黄金2016春晚抢红包活动技术架构](https://oss.aliyuncs.com/yqfiles/2c550956ecc11f1a0b3788337191e28efb2b3743.png)
     > 
     > * **网络层**：DDoS防护、域名解析、CDN加速；
     > * **接入层**：主要是4层负载均衡SLB，将访问请求分发至后端服务器；
@@ -217,7 +220,7 @@ Load Balancer  <-->    Sails.js server    <-->
 
 * [虎嗅：四年覆盖9成互联网企业中高层的网站架构演变](https://yq.aliyun.com/articles/45426)
 
-    > ![总结虎嗅整个架构思想](http://oss-cn-hangzhou.aliyuncs.com/yqfiles/193fd649126cbd062e916ac059e4171a2f04a652.png)
+    > ![总结虎嗅整个架构思想](https://oss-cn-hangzhou.aliyuncs.com/yqfiles/193fd649126cbd062e916ac059e4171a2f04a652.png)
     > 
     > 总结虎嗅整个架构思想，从一开始到现在始终贯穿的就是解耦的思想。当你的业务不是非常稳定时，系统一定会存在巨大的变化，可能今天是这样，明天就会变一个样子，变化速度非常快。如果整个系统全部耦合在一起，就容易造成混乱，所以尽量去解耦。
     > 
