@@ -117,7 +117,7 @@ Load Balancer  <-->    Sails.js server    <-->
 
 * [Ctrip DAL](https://github.com/ctripcorp/dal "Ctrip Database Access Layer")
 
-  > Ctrip DAL支持流行的分库分表操作，支持Java和C#，支持Mysql和MS SqlServer
+  > Ctrip DAL支持流行的分库分表操作，支持Java和C#，支持Mysql和MS SqlServer
 
 * [PhxSQL](https://github.com/tencent-wechat/phxsql)
 
@@ -154,7 +154,7 @@ Load Balancer  <-->    Sails.js server    <-->
 * [Dubbo](https://github.com/alibaba/dubbo) 服务化框架
 
     > 随着互联网的发展，网站应用的规模不断扩大，常规的垂直应用架构已无法应对，分布式服务架构以及流动计算架构势在必行，亟需一个治理系统确保架构有条不紊的演进。
-    > ![Dubbo Architecture Roadmap](http://dubbo.io/dubbo-architecture-roadmap.jpg-version=1&modificationDate=1331143666000.jpg)
+    > [![Dubbo Architecture Roadmap](https://dubbo.gitbooks.io/dubbo-user-book/sources/images/dubbo-architecture-roadmap.jpg)](https://dubbo.gitbooks.io/dubbo-user-book/preface/background.html)
     > 
     > * 单一应用架构
     >    * 当网站流量很小时，只需一个应用，将所有功能都部署在一起，以减少部署节点和成本。
@@ -203,11 +203,11 @@ Load Balancer  <-->    Sails.js server    <-->
   >           }
   >       }
   >   }
-  >  ```
+  >   ```
 
 * [老庙黄金2016春晚抢红包活动技术架构详解](https://yq.aliyun.com/articles/7420 "基于阿里云的技术架构")
   
-    > ![老庙黄金2016春晚抢红包活动技术架构](http://imgchr.com/images/2c550956ecc11f1a0b3788337191e28efb2b3743.png)
+    > ![老庙黄金2016春晚抢红包活动技术架构](http://oss.aliyuncs.com/yqfiles/2c550956ecc11f1a0b3788337191e28efb2b3743.png)
     > 
     > * **网络层**：DDoS防护、域名解析、CDN加速；
     > * **接入层**：主要是4层负载均衡SLB，将访问请求分发至后端服务器；
@@ -217,7 +217,7 @@ Load Balancer  <-->    Sails.js server    <-->
 
 * [虎嗅：四年覆盖9成互联网企业中高层的网站架构演变](https://yq.aliyun.com/articles/45426)
 
-    > ![总结虎嗅整个架构思想](http://imgchr.com/images/193fd649126cbd062e916ac059e4171a2f04a652.png)
+    > ![总结虎嗅整个架构思想](http://oss-cn-hangzhou.aliyuncs.com/yqfiles/193fd649126cbd062e916ac059e4171a2f04a652.png)
     > 
     > 总结虎嗅整个架构思想，从一开始到现在始终贯穿的就是解耦的思想。当你的业务不是非常稳定时，系统一定会存在巨大的变化，可能今天是这样，明天就会变一个样子，变化速度非常快。如果整个系统全部耦合在一起，就容易造成混乱，所以尽量去解耦。
     > 
