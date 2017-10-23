@@ -123,11 +123,14 @@ HTTP/1.1 200 OK
 Content-Type: application/json; charset=utf-8
 
 {
-    "data": {},
-    "status": 0,
-    "statusInfo": {}
+    "data": {},
+    "status": 0,
+    "statusInfo": {
+        "message": "给用户的提示信息",
+        "detail": "用于排查错误的详细错误信息"
+    }
 }
-````
+```
 
 **字段名** |**字段说明**
 :----------|:-----------
