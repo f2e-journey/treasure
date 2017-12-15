@@ -94,11 +94,19 @@
 
 ## 后端接口通用规范
 
-### 请求接口
+### 接口地址和请求方式
 
-接口 [Root Endpoint](https://developer.github.com/v3/#root-endpoint) 推荐为: `http://api.yourdomain.com`.
+接口根路径 - [Root Endpoint](https://developer.github.com/v3/#root-endpoint) 推荐为: `http://api.yourdomain.com` 或者 `http://yourdomain.com/api`
 
-[向接口传递参数时](https://developer.github.com/v3/#parameters), 推荐在 HTTP 请求体(`body`)中包含一个 JSON Object 作为接口的参数, 并设置 `Content-Type: application/json; charset=utf-8`. 如有少量参数可以补充到 URL query string 或者作为 `Content-Type: application/x-www-form-urlencoded` 放在请求体(`body`)中
+接口地址即接口的 URL, 定义时使用相对路径(即不用带上域名信息), 建议分模块来定义, 推荐 REST 风格, 例如
+* `GET /user/:id` 表示获取用户信息
+* `POST /user` 表示新增用户
+
+### 接口参数
+
+[向接口传递参数时](https://developer.github.com/v3/#parameters), 如果是少量参数可以作为 URL query string 追加到接口的 URL 中, 或者作为 `Content-Type: application/x-www-form-urlencoded` 放在请求体(`body`)中(即表单提交的方式)
+
+对于复杂的接口参数(例如嵌套了多层的数据结构), 推荐在 HTTP 请求体(`body`)中包含一个 JSON 字符串作为接口的参数, 并设置 `Content-Type: application/json; charset=utf-8`.
 
 例如
 
