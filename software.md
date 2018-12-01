@@ -21,6 +21,7 @@ v0.0.1 2015-5-5(还未正式发布版本)
   * [驱动精灵](http://www.drivergenius.com/)
   * [QQ](http://im.qq.com/download/) | [轻聊版](http://im.qq.com/lightqq/) | [国际版](http://www.imqq.com/)
   * [QQ输入法](http://qq.pinyin.cn/)
+  * [桌面整理 | 时间助手 | 健康小助手](https://guanjia.qq.com/product/zmzl/)
   * [QQ影音](http://player.qq.com/)
   * [QQ旋风](http://xf.qq.com/)
   
