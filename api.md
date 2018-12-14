@@ -189,6 +189,68 @@ if (!response.status) {
 }
 ```
 
+## 错误码规范: `status` 字段该如何取值
+
+采用前后端分离开发模式的项目越来越多, 前端负责调用后端的接口来展现界面, 如果有界面显示异常, 需要有快速方便的手段来排查线上错误和定位出职责范围
+
+综合了经验总结和行业实践, 最简单有效的手段是制定出一套统一的错误码规范, 协助多方人员来排查出接口的错误
+
+例如
+* 用户发现错误, 可以截错误码的图, 就能够提供有效的信息帮助开发人员排查错误
+* 测试人员发现错误, 可以通过错误码, 快速定位是前端的问题还是后端接口的问题
+
+因此我们确定提示信息规范为: 当后端接口调用出错时, 接口提供一个用户可以理解的错误提示, 前端展示给用户错误提示和错误码, 给予用户反馈
+
+对于错误码的规范, 参考行业实践, 大致有两种方案
+
+* 做显性的类型区分, 快速定位错误的类别, 例如通过字母划分类型: `A101`, `B131`
+  * [Standard ISO Response Codes](http://www.nexion.co.za/docs/merchant-access/user-manual/17.%20Standard%20ISO%20Response%20codes.pdf)
+* 固定位数, 设定区间(例如手机号码, 身份证号码)来划分不同的错误类型
+  * [HTTP Status Code Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html "Most API services follow the HTTP error code system RFC2616 with ranges of error codes for different types of error")
+  * [System Error Codes](https://docs.microsoft.com/en-us/windows/desktop/Debug/system-error-codes)
+
+具体实践如下
+* **错误码固定长度**, 以区间来划分错误类型(例如 HTTP 的状态码)
+
+  例如: 10404 表示 HTTP 请求 404 错误, 20000 表示 API 调用失败, 30000 代表业务错误, 31000 表示业务A错误, 32000 表示业务B错误
+* **错误码可不固定长度**, 以首字母来划分错误类型, 可扩展性更好, 但实际运作还是需要划分区间
+
+  例如: H404 表示 HTTP 请求 404 错误, A100 表示 API 调用失败, B100 表示业务A错误, B200 表示业务B错误
+
+关于错误分类的原则, 我们可以根据发送请求的最终状态来划分
+- 发送失败(即请求根本就没有发送出去)
+- 发送成功
+  - HTTP 异常状态(例如 404/500...)
+  - HTTP 正常状态(例如 200)
+    - 接口调用成功
+    - 接口调用失败(业务错误, 即接口规范中 status 非 0 的情况)
+
+### 最终规范
+
+错误码可不固定长度, 整体格式为: `字母+数字`, `字母`作为错误类型, 可扩展性更好, `数字`建议划分区间来细分错误
+
+例如:
+- `A` for **API**: API 调用失败(请求发送失败)的错误, 例如 `A100` 表示 URL 非法
+- `H` for **HTTP**, HTTP 异常状态的错误, 例如 `H404` 表示 HTTP 请求404错误
+- `B` for **backend or business**, 接口调用失败的错误, 例如 `B100` 业务A错误, `B200` 业务B错误
+- `C` for **Client**: 客户端错误, 例如 `C100` 表示解析 JSON 失败
+
+### 统一错误提示
+
+* 错误日志
+  * 接口调用出错(`${错误码}`) `${HTTP 方法}` `${HTTP URL}` `${请求参数}` `${请求选项}` `${请求返回结果}`
+  * 例如: `接口调用出错(H404) GET https://domain.com {foo: bar} {option1: 'test'} {status: 404}`
+* 给用户的提示消息(参考自 QQ 的错误提示消息)
+  * 提示消息(错误码: xxx)
+  * 提示消息和错误码之间用换行隔开
+  * 错误码整块内容建议弱化使用灰色字
+  * 例如
+  
+    ![mobile-error-code-message](https://user-images.githubusercontent.com/167221/50005112-239e3f80-ffe4-11e8-9996-2affc01b8b31.png)
+ ![pc-error-code-message](https://user-images.githubusercontent.com/167221/50005023-d6ba6900-ffe3-11e8-9e1a-3f4db2e8a8c7.png)
+
+规范实现: [weapp-backend-api](https://github.com/ufologist/weapp-backend-api)
+
 ## 接口实现建议
 
 * **接口实现的大方向建议遵循 RESTful 风格**
@@ -210,6 +272,7 @@ if (!response.status) {
   * 例如: `{"createTime": 1543195480357, "createTimeText": "2018年11月26日"}`
 * 统一分页的数据格式
   * 分页请求的参数和分页结果的数据结构
+
 
 ## 注意
 * [Version](https://developer.github.com/v3/media/#request-specific-version "Accept: application/vnd.github.v3+json")
