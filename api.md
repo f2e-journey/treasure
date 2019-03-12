@@ -243,7 +243,7 @@ if (!response.status) {
 * 给用户的提示消息(参考自 QQ 的错误提示消息)
   * 提示消息(错误码: xxx)
   
-  ![weapp-error-tip](https://user-images.githubusercontent.com/167221/54168910-a5025280-44ab-11e9-8f14-6da25051916c.png) ![weibo-error-tip](https://user-images.githubusercontent.com/167221/54168905-a2076200-44ab-11e9-8607-48eb9a08156b.PNG) ![qq-error-tip](https://user-images.githubusercontent.com/167221/54168895-9caa1780-44ab-11e9-94b2-a49a87f3eac3.png)
+    ![weapp-error-tip](https://user-images.githubusercontent.com/167221/54168910-a5025280-44ab-11e9-8f14-6da25051916c.png) ![weibo-error-tip](https://user-images.githubusercontent.com/167221/54168905-a2076200-44ab-11e9-8607-48eb9a08156b.PNG) ![qq-error-tip](https://user-images.githubusercontent.com/167221/54168895-9caa1780-44ab-11e9-94b2-a49a87f3eac3.png)
   * 提示消息和错误码之间用换行隔开
   * 错误码整块内容建议弱化使用灰色字
   * 例如
