@@ -249,7 +249,7 @@ if (!response.status) {
   * 例如
   
     ![mobile-error-code-message](https://user-images.githubusercontent.com/167221/50005112-239e3f80-ffe4-11e8-9996-2affc01b8b31.png)
- ![pc-error-code-message](https://user-images.githubusercontent.com/167221/50005023-d6ba6900-ffe3-11e8-9e1a-3f4db2e8a8c7.png)
+ ![pc-error-code-message](https://user-images.githubusercontent.com/167221/56418780-912be680-62ca-11e9-93d1-cf6d95d950d7.png)
 
 规范实现: [weapp-backend-api](https://github.com/ufologist/weapp-backend-api)
 
