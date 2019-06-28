@@ -240,17 +240,17 @@ if (!response.status) {
                                       ┌──────────┴──────────┐
                                    发送成功               发送失败
                                       │                     │
-                                  HTTP status               A => A100
+                                  HTTP status               A 例如: A100
                            ┌──────────┴──────────┐
                        HTTP 成功(200-300)     HTTP 异常
                            │                     |
-               {data, status, statusInfo}        H${HTTP status} => H404
+               {data, status, statusInfo}        H${HTTP status} 例如: H404
                ┌───────────┴───────────┐
           接口调用成功(status:0)   接口调用失败
       ┌────────┴────────┐              |
-客户端处理出错     客户端处理正常        B${status}${statusInfo.message} => B100
+客户端处理出错     客户端处理正常        B${status}${statusInfo.message} 例如: B100
       |
-      C => C100
+      C 例如: C100
 ```
 
 ### 统一错误提示
