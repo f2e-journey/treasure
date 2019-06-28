@@ -235,6 +235,24 @@ if (!response.status) {
 - `B` for **backend or business**, 接口调用失败的错误, 例如 `B100` 业务A错误, `B200` 业务B错误
 - `C` for **Client**: 客户端错误, 例如 `C100` 表示解析 JSON 失败
 
+```
+                                           发送 HTTP 请求
+                                      ┌──────────┴──────────┐
+                                   发送成功               发送失败
+                                      │                     │
+                                  HTTP status               A => A100
+                           ┌──────────┴──────────┐
+                       HTTP 成功(200-300)     HTTP 异常
+                           │                     |
+               {data, status, statusInfo}        H${HTTP status} => H404
+               ┌───────────┴───────────┐
+          接口调用成功(status:0)   接口调用失败
+      ┌────────┴────────┐              |
+客户端处理出错     客户端处理正常        B${status}${statusInfo.message} => B100
+      |
+      C => C100
+```
+
 ### 统一错误提示
 
 * 错误日志
