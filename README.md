@@ -35,7 +35,7 @@
 * Web 规范
   - [HTML5](https://rawgit.com/paulrouget/html5dashboard/master/demo.html "4.01 1999/12 5 2014/10")
   - CSS3/[CSSNEXT](http://cssnext.io/)/[CSS STILL SUCKS](http://huangxuan.me/css-sucks-2015)
-  - [ES5](http://kangax.github.io/compat-table/es5 "5.0 2009/12 5.1 2011/6") [ES6](http://babeljs.io/docs/learn-es2015/ "ES2015 2015/6")
+  - [ES5](http://kangax.github.io/compat-table/es5 "5.0 2009/12 5.1 2011/6") [ES6](http://babeljs.io/docs/learn-es2015/ "ES2015 2015/6") [TC39](https://github.com/tc39/proposals/blob/master/finished-proposals.md "Finished Proposals 每年的更新都更新了什么东西") [stage0-4](https://tc39.es/process-document/)
   - [HTTP/2](https://http2.akamai.com/ "HTTP/1.1 1999 HTTP/2 2015/5")
   - 响应式解决方案特别是[图像的适配方案](http://responsiveimages.org/) [Responsive Images 101](http://blog.cloudfour.com/responsive-images-101-definitions/)
 * 前端测试
