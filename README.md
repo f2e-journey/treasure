@@ -61,7 +61,7 @@
 * [百度 FEX](http://fex.baidu.com/) / [EFE](http://efe.baidu.com/)
 * [淘宝 UED](http://ued.taobao.org/blog/category/bowen/frontend/) / [THX](http://thx.github.io/) / [手机淘宝](https://github.com/amfe/article) / [天猫](http://tmallfe.github.io/) / [有一点设计UED](http://www.aliued.cn/category/3%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91) / [MUX](http://mux.alimama.com/posts/front-end) / [FED](http://taobaofed.org/)
 * [腾讯 ISUX](http://isux.tencent.com/category/fd) / [AlloyTeam](http://www.alloyteam.com) / [TGideas](http://tgideas.qq.com/) / [TID](http://tid.tenpay.com/) / [WFE](http://qqfe.org/) / [IMWEB](http://imweb.io) / [MXD](http://mxd.tencent.com/)
-* [奇舞团](http://www.75team.com/weekly/) / [去哪儿](http://ued.qunar.com/) / [携程UED](http://ued.ctrip.com/blog/) / [大搜车](http://f2e.souche.com/blog/) / 前端团队blog
+* [奇舞团](http://www.75team.com/weekly/) / [去哪儿](http://ued.qunar.com/) / [携程UED](http://ued.ctrip.com/blog/) / [大搜车](http://f2e.souche.com/blog/) / [滴滴](https://github.com/DDFE/DDFE-blog) / 前端团队blog
 * TODO: blog正在收集中
 * https://github.com/foru17/front-end-collect
 * [A List Apart](http://alistapart.com/) / [Smashing Magazine](http://www.smashingmagazine.com/) / [CSS-Tricks](https://css-tricks.com/) / [Codrops](http://tympanus.net/codrops/) / [AWWWARDS](http://www.awwwards.com/)
